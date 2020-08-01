@@ -1,0 +1,94 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Times New Roman,Meiryo;
+  text-align: left;
+}
+
+
+/*ビュアー部分*/
+#right{
+	position: absolute;
+	overflow:auto;
+	top: 10px;
+	right: 0;
+	left: 330px;
+	height: 100%;
+	text-align: left;
+}
+
+iframe{
+	border:none;
+	width:100%;
+	height:100%;
+}
+
+#index{
+	margin:0;
+	padding:50px 10px;
+	border:none;
+	width:300px;
+	height:auto;
+	overflow:auto;
+}
+
+
+/*2カラム*/
+.column{
+    width: 100%;
+    background: #a9a9a9;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+/*カラム内部*/
+.article {
+    background: #dcdcdc;
+    border: 5px solid #a9a9a9;
+    border-radius:4px;
+    padding: 10px;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+/*headlineサイズ等*/
+h1{
+  text-indent: 0;
+}
+h2{
+	font-size:110%;
+	text-indent:0;
+}
+h6{
+	line-height:0em;
+	font-size:96%;
+  text-indent: 0;
+}
+
+/*パラグラフ設定*/
+p {
+  background: #ffffff;
+}
+p[type=note] {
+  text-indent: 0;
+}
+
+/*言語別設定*/
+div[lang = en] {
+  text-indent:5em;
+  font-size: 120%;
+  line-height: 1.7em;
+}
+div[lang = en] skt{
+  font-family: Arial;
+  font-size: 85%;
+}
+
+div[lang = ja] {
+	text-indent:1em;
+  line-height: 2em;
+}
+div[lang = ja] skt{
+  font-family: Arial;
+  font-size: 100%;
+}
