@@ -75,7 +75,7 @@ p[type=note] {
 
 /*言語別設定*/
 div[lang = en] {
-  text-indent:5em;
+  text-indent:3em;
   font-size: 120%;
   line-height: 1.7em;
 }
