@@ -5,6 +5,20 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>test</title>
   <link rel="stylesheet" type="text/css" href="style.css">
+  <script>
+    var currentLang = "eng";
+    
+    // js側の""に干渉するため、html内の""は''にすること
+    function chgLang(){
+      if (currentLang == "eng") {
+        document.getElementById("enIndex").innerHTML = "<a href='article/000_intro.html' target='viewer'>Kernによるまえがき</a><br> <a href='article/000_pref.html' target='viewer'>序文</a><br>";
+        currentLang = "ja";
+      } else {
+        document.getElementById("enIndex").innerHTML = "<a href='article/000_intro.html' target='viewer'>Introduction by Kern</a><br> <a href='article/000_pref.html' target='viewer'>Preface</a><br>";
+        currentLang = "eng";
+      }
+      }
+    </script>
 </head>
 
 <body>
@@ -19,7 +33,12 @@
 by J. S. Speijer<br><br>
 <h2>Index</h2>
 
-<nav>
+<!-- 目次言語切替-->
+<!--
+<input type="button" value="En ⇔ Ja" onclick = chgLang()>
+-->
+
+<nav id="enIndex">
   <!-- Introduction etc. -->
   <a href="article/000_intro.html" target="viewer">Introduction by Kern</a><br>
   <a href="article/000_pref.html" target="viewer">Preface</a><br>
@@ -62,12 +81,17 @@ by J. S. Speijer<br><br>
             <a href="article/sec2_ch1.php" target="viewer">Chapt. I. Concord.</a>
           </summary>
             <a href="article/sec2_ch1.php#19" target="viewer">19. Real and grammatical gender and number.</a><br>
-            <a href="article/sec2_ch1.php#" target="viewer">20. Singularis generalis.</a><br>
-            <a href="article/sec2_ch1.php#" target="viewer">21. Plural of abstract nouns.</a><br>
+            <a href="article/sec2_ch1.php#20" target="viewer">20. Singularis generalis.</a><br>
+            <a href="article/sec2_ch1.php#21" target="viewer">21. Plural of abstract nouns.</a><br>
+            <a href="article/sec2_ch1.php#22" target="viewer">22. Plural of a people’s name.</a><br>
+            <a href="article/sec2_ch1.php#23" target="viewer">23. Pluralis majestaticus.</a><br>
+            <a href="article/sec2_ch1.php#24" target="viewer">24.</a><br>
+            <a href="article/sec2_ch1.php#25" target="viewer">25. vayam = aham or āvām</a><br>
         </details><br>
   </details><br>
     </nav>
 </div>
 
 </body>
+
 </html>
