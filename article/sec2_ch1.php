@@ -39,6 +39,11 @@
 
   <?php include("sec2/019.html"); ?>
   <?php include("sec2/020.html"); ?>
+  <?php include("sec2/021.html"); ?>
+  <?php include("sec2/022.html"); ?>
+  <?php include("sec2/023.html"); ?>
+  <?php include("sec2/024.html"); ?>
+  <?php include("sec2/025.html"); ?>
 
 </body>
 
