@@ -44,6 +44,25 @@
   <?php include("sec2/023.html"); ?>
   <?php include("sec2/024.html"); ?>
   <?php include("sec2/025.html"); ?>
+  <?php include("sec2/026.html"); ?>
+  <?php include("sec2/027.html"); ?>
+  <?php include("sec2/028.html"); ?>
+
+  <div class="column" id="panda">
+    <div class="article" lang="en">
+      <h4>
+        PREDICATE AND ATTRIBUTE.
+      </h4>
+    </div>
+    <div class="article" lang="ja">
+      <h4>
+        述語と修飾語
+      </h4>
+    </div>
+  </div>
+  <hr>
+  <?php include("sec2/031.html"); ?>
+  <?php include("sec2/032.html"); ?>
 
 </body>
 
