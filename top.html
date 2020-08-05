@@ -5,20 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>test</title>
   <link rel="stylesheet" type="text/css" href="style.css">
-  <script>
-    var currentLang = "eng";
-    
-    // js側の""に干渉するため、html内の""は''にすること
-    function chgLang(){
-      if (currentLang == "eng") {
-        document.getElementById("enIndex").innerHTML = "<a href='article/000_intro.html' target='viewer'>Kernによるまえがき</a><br> <a href='article/000_pref.html' target='viewer'>序文</a><br>";
-        currentLang = "ja";
-      } else {
-        document.getElementById("enIndex").innerHTML = "<a href='article/000_intro.html' target='viewer'>Introduction by Kern</a><br> <a href='article/000_pref.html' target='viewer'>Preface</a><br>";
-        currentLang = "eng";
-      }
-      }
-    </script>
+  <script type="text/javascript" src="chglang.js"></script>
 </head>
 
 <body>
@@ -34,9 +21,7 @@ by J. S. Speijer<br><br>
 <h2>Index</h2>
 
 <!-- 目次言語切替-->
-<!--
 <input type="button" value="En ⇔ Ja" onclick = chgLang()>
--->
 
 <nav id="enIndex">
   <!-- Introduction etc. -->
@@ -99,7 +84,14 @@ by J. S. Speijer<br><br>
               </summary>
               <a href="article/sec2_ch1.php#31" target="viewer">31.</a><br>
               <a href="article/sec2_ch1.php#32" target="viewer">32. Completing attribute.</a><br>
+              <a href="article/sec2_ch1.php#33" target="viewer">33. Middle voice attended by two nominatives.</a><br>
+              <a href="article/sec2_ch1.php#34" target="viewer">34.</a><br>
             </details>
+
+            <summary>
+              <a href="article/sec2_ch2.php" target="viewer">Chapt. II. How to denote case-relations.</a>
+            </summary>
+              <a href="article/sec2_ch2.php#35" target="viewer">35.</a><br>
         </details><br>
   </details><br>
     </nav>

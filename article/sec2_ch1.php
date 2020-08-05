@@ -37,17 +37,17 @@
     </div>
   </div>
 
-  <?php include("sec2/019.html"); ?>
-  <?php include("sec2/020.html"); ?>
-  <?php include("sec2/021.html"); ?>
-  <?php include("sec2/022.html"); ?>
-  <?php include("sec2/023.html"); ?>
-  <?php include("sec2/024.html"); ?>
-  <?php include("sec2/025.html"); ?>
-  <?php include("sec2/026.html"); ?>
-  <?php include("sec2/027.html"); ?>
-  <?php include("sec2/028.html"); ?>
-
+  <?php include("sec2/ch1/019.html"); ?>
+  <?php include("sec2/ch1/020.html"); ?>
+  <?php include("sec2/ch1/021.html"); ?>
+  <?php include("sec2/ch1/022.html"); ?>
+  <?php include("sec2/ch1/023.html"); ?>
+  <?php include("sec2/ch1/024.html"); ?>
+  <?php include("sec2/ch1/025.html"); ?>
+  <?php include("sec2/ch1/026.html"); ?>
+  <?php include("sec2/ch1/027.html"); ?>
+  <?php include("sec2/ch1/028.html"); ?>
+  <hr>
   <div class="column" id="panda">
     <div class="article" lang="en">
       <h4>
@@ -61,8 +61,10 @@
     </div>
   </div>
   <hr>
-  <?php include("sec2/031.html"); ?>
-  <?php include("sec2/032.html"); ?>
+  <?php include("sec2/ch1/pred_and_attr/031.html"); ?>
+  <?php include("sec2/ch1/pred_and_attr/032.html"); ?>
+  <?php include("sec2/ch1/pred_and_attr/033.html"); ?>
+  <?php include("sec2/ch1/pred_and_attr/034.html"); ?>
 
 </body>
 
