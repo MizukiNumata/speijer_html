@@ -21,4 +21,25 @@
         </div>
     </div>
 
-    <?php include("sec2/ch1/035.html"); ?>
+    <?php include("sec2/ch2/035.html"); ?>
+    <?php include("sec2/ch2/036.html"); ?>
+    <?php include("sec2/ch2/037.html"); ?>
+
+    <div class="column">
+        <div class="article" lang="en">
+            <h3>
+                GENERAL SCHEME OF THE CASES.
+            </h3>
+        </div>
+        <div class="article" lang="ja">
+            <h3>
+                格の一般的組織
+            </h3>
+        </div>
+    </div>
+
+    <?php include("sec2/ch2/038.html"); ?>
+
+</body>
+
+</html>
