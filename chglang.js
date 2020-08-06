@@ -2,8 +2,6 @@
 
 let currentLang = "eng";
 
-// js側の""に干渉するため、html内の""はエスケープすること
-// " ` "を使ったのでやらんでヨシ
 function chgLang() {
   if (currentLang == "eng") {
     document.getElementById("enIndex").innerHTML = `
