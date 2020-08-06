@@ -93,3 +93,14 @@ div[lang="ja"] skt {
   font-family: Arial;
   font-size: 100%;
 }
+
+/*todo 表*/
+th,
+td {
+  border: solid 1px; /* 枠線指定 */
+}
+
+table {
+  background: #ffffff;
+  width: 100%;
+}
