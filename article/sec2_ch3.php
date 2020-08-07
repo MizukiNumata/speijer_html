@@ -25,6 +25,9 @@
     <?php include("sec2/ch3/040.html"); ?>
     <?php include("sec2/ch3/041.html"); ?>
     <?php include("sec2/ch3/042.html"); ?>
+    <?php include("sec2/ch3/043.html"); ?>
+    <?php include("sec2/ch3/044.html"); ?>
+    <?php include("sec2/ch3/045.html"); ?>
 
 
 </body>
