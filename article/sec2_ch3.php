@@ -35,6 +35,10 @@
     <?php include("sec2/ch3/050.html"); ?>
     <?php include("sec2/ch3/051.html"); ?>
     <?php include("sec2/ch3/052.html"); ?>
+    <?php include("sec2/ch3/053.html"); ?>
+    <?php include("sec2/ch3/054.html"); ?>
+    <?php include("sec2/ch3/055.html"); ?>
+    <?php include("sec2/ch3/056.html"); ?>
 
 
 </body>
