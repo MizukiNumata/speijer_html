@@ -28,6 +28,9 @@
     <?php include("sec2/ch4/061.html"); ?>
     <?php include("sec2/ch4/062.html"); ?>
     <?php include("sec2/ch4/063.html"); ?>
+    <?php include("sec2/ch4/064.html"); ?>
+    <?php include("sec2/ch4/065.html"); ?>
+    <?php include("sec2/ch4/066.html"); ?>
 
 
 
