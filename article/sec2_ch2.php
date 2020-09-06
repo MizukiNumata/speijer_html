@@ -11,7 +11,7 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                <span style="font-variant: small-caps;">Chapter</span> II. How to denote case-relations.
+                <sCap>Chapter</sCap> II. How to denote case-relations.
             </h2>
         </div>
         <div class="article" lang="ja">

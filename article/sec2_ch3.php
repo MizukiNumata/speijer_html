@@ -11,7 +11,7 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                <span style="font-variant: small-caps;">Chapt.</span> III. Accusative.
+                <sCap>Chapt.</sCap> III. Accusative.
             </h2>
         </div>
         <div class="article" lang="ja">

@@ -74,6 +74,11 @@ ul {
   background: #ffffff;
 }
 
+/*スモールキャピタル*/
+sCap {
+  font-variant: small-caps;
+}
+
 /*言語別設定*/
 div[lang="en"] {
   text-indent: 3em;
