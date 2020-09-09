@@ -1,19 +1,17 @@
 // indexの言語切替処理
 
-let currentLang = "eng";
+let currentLang = "en";
+document.getElementById("enIndex").style.display = "none";
+document.getElementById("jaIndex").style.display = "none";
 
 function chgLang() {
-  if (currentLang == "eng") {
-    document.getElementById("enIndex").innerHTML = `
-    <a href="article/000_intro.html" target="viewer">Kernによるまえがき</a><br>
-    <a href="article/000_pref.html" target="viewer">序文</a><br>
-    `;
+  if (currentLang == "en") {
+    document.getElementById("enIndex").style.display = "none";
+    document.getElementById("jaIndex").style.display = "block";
     currentLang = "ja";
   } else {
-    document.getElementById("enIndex").innerHTML = `
-    <a href="article/000_intro.html" target="viewer">Introduction by Kern</a><br>
-    <a href="article/000_pref.html" target="viewer">Preface</a><br>
-    `;
-    currentLang = "eng";
+    document.getElementById("jaIndex").style.display = "none";
+    document.getElementById("enIndex").style.display = "block";
+    currentLang = "en";
   }
 }
