@@ -27,7 +27,8 @@
         </div>
     </div>
 
-    <?php include("sec2/ch5/093.html"); ?>
+    <?php include("sec2/ch6/093.html"); ?>
+    <?php include("sec2/ch6/094.html"); ?>
 
 
 
