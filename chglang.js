@@ -1,8 +1,6 @@
 // indexの言語切替処理
 
 let currentLang = "en";
-document.getElementById("enIndex").style.display = "block";
-document.getElementById("jaIndex").style.display = "none";
 
 function chgLang() {
   if (currentLang == "en") {
