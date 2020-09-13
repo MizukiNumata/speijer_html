@@ -30,7 +30,8 @@
     <?php include("sec2/ch6/093.html"); ?>
     <?php include("sec2/ch6/094.html"); ?>
     <?php include("sec2/ch6/095.html"); ?>
-
+    <?php include("sec2/ch6/096.html"); ?>
+    <?php include("sec2/ch6/097.html"); ?>
 
 
 </body>
