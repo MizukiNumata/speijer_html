@@ -39,6 +39,7 @@
     <?php include("sec2/ch6/102.html"); ?>
     <?php include("sec2/ch6/103.html"); ?>
     <?php include("sec2/ch6/104.html"); ?>
+    <?php include("sec2/ch6/105.html"); ?>
 
 
 </body>
