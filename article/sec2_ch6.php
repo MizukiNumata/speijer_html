@@ -40,6 +40,9 @@
     <?php include("sec2/ch6/103.html"); ?>
     <?php include("sec2/ch6/104.html"); ?>
     <?php include("sec2/ch6/105.html"); ?>
+    <?php include("sec2/ch6/106.html"); ?>
+    <?php include("sec2/ch6/107.html"); ?>
+    <?php include("sec2/ch6/108.html"); ?>
 
 
 </body>
