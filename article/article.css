@@ -89,6 +89,14 @@ div[lang="en"] skt {
   font-family: Arial;
   font-size: 85%;
 }
+p:lang(en),
+dd:lang(en),
+li:lang(en) {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  text-align: justify;
+}
 
 div[lang="ja"] {
   text-indent: 1em;
