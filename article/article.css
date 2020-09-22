@@ -89,14 +89,6 @@ div[lang="en"] skt {
   font-family: Arial;
   font-size: 85%;
 }
-p:lang(en),
-dd:lang(en),
-li:lang(en) {
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  text-align: justify;
-}
 
 div[lang="ja"] {
   text-indent: 1em;
@@ -107,7 +99,7 @@ div[lang="ja"] skt {
   font-size: 100%;
 }
 
-/*todo 表*/
+/*表*/
 th,
 td {
   border: solid 1px; /* 枠線指定 */
@@ -116,4 +108,8 @@ td {
 table {
   background: #ffffff;
   width: 100%;
+}
+
+ul {
+  line-height: 25px;
 }
