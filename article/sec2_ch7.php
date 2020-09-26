@@ -33,6 +33,11 @@
     <?php include("sec2/ch7/110.html"); ?>
     <?php include("sec2/ch7/111.html"); ?>
     <?php include("sec2/ch7/112.html"); ?>
+    <?php include("sec2/ch7/113.html"); ?>
+    <?php include("sec2/ch7/114.html"); ?>
+    <?php include("sec2/ch7/115.html"); ?>
+    <?php include("sec2/ch7/116.html"); ?>
+    <?php include("sec2/ch7/117.html"); ?>
 
 
 </body>
