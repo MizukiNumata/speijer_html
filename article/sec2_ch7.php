@@ -43,6 +43,23 @@
     <?php include("sec2/ch7/120.html"); ?>
     <?php include("sec2/ch7/121.html"); ?>
     <?php include("sec2/ch7/122.html"); ?>
+    <?php include("sec2/ch7/123.html"); ?>
+    <?php include("sec2/ch7/124.html"); ?>
+
+    <div class="column">
+        <div class="article" lang="en">
+            <h3>
+                ABLATIVE-LIKE GENITIVE.
+            </h3>
+        </div>
+        <div class="article" lang="ja">
+            <h3>
+                abl.的gen.
+            </h3>
+        </div>
+    </div>
+
+    <?php include("sec2/ch7/abl-like/125.html"); ?>
 
 
 </body>
