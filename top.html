@@ -1,248 +1,260 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>test</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script type="text/javascript" src="chglang.js"></script>
+  </head>
 
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>test</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <script type="text/javascript" src="chglang.js"></script>
-</head>
+  <body>
+    <div id="right">
+      <iframe src="viewer.html" name="viewer"></iframe>
+    </div>
 
-<body>
+    <div id="index">
+      <h2>Sanskrit Syntax</h2>
+      by J. S. Speijer<br /><br />
 
-<div id="right">
-  <iframe src="viewer.html" name="viewer"></iframe>
-</div>
+      <h4><a href="article/999_abbr.html" target="viewer">Abbreviations / References</a></h4>
 
+      <h2>Index</h2>
 
-<div id=index>
-<h2>Sanskrit Syntax</h2>
-by J. S. Speijer<br><br>
+      <!-- 目次言語切替-->
+      <input type="button" value="En ⇔ Ja" onclick="chgLang()" />
 
-<h4><a href="article/999_abbr.html" target="viewer">Abbreviations / References</a></h4>
+      <nav id="enIndex" style="display: block">
+        <!-- Introduction etc. -->
+        <a href="article/000_intro.html" target="viewer">Introduction by Kern</a><br />
+        <a href="article/000_pref.html" target="viewer">Preface</a><br />
 
-<h2>Index</h2>
-
-<!-- 目次言語切替-->
-  <input type="button" value="En ⇔ Ja" onclick = chgLang()>
-
-
-<nav id="enIndex" style="display: block;">
-  <!-- Introduction etc. -->
-  <a href="article/000_intro.html" target="viewer">Introduction by Kern</a><br>
-  <a href="article/000_pref.html" target="viewer">Preface</a><br>
-
-  <!-- section -->
-  <details><!-- section1 -->
-    <summary>
-      <a href="article/sec1.php" target="viewer">
-        Section I. General remarks on the structure of sentences.
-      </a>
-    </summary>
-    <ul style="list-style-type: none"><!-- chapterList -->
-        <li><a href="article/sec1.php#1" target="viewer">1. Subject and predicate.</a></li>
-        <li><a href="article/sec1.php#2" target="viewer">2. Verbum substantivum.</a></li>
-        <li><a href="article/sec1.php#3" target="viewer">3.</a></li>
-        <li><a href="article/sec1.php#4" target="viewer">4.</a></li>
-        <li><a href="article/sec1.php#5" target="viewer">5. Noun-predicate.</a></li>
-        <li><a href="article/sec1.php#6" target="viewer">6. Verb-predicate in the active voice or in the passive.</a></li>
-        <li><a href="article/sec1.php#7" target="viewer">7. Passive voice.</a></li>
-        <li><a href="article/sec1.php#8" target="viewer">8. Inpersonal passives.</a></li>
-        <li><a href="article/sec1.php#9" target="viewer">9. Participles, doing duty of finite verbs.</a></li>
-        <li><a href="article/sec1.php#10" target="viewer">10. Subject implied.</a></li>
-        <li><a href="article/sec1.php#11" target="viewer">11.</a></li>
-        <li><a href="article/sec1.php#12" target="viewer">12. General subject.</a></li>
-        <li><a href="article/sec1.php#13" target="viewer">13.</a></li>
-        <li><a href="article/sec1.php#14" target="viewer">14. Character of Sanskrit style.</a></li>
-        <li><a href="article/sec1.php#15" target="viewer">15. Order of words.</a></li>
-        <li><a href="article/sec1.php#16" target="viewer">16. Traditional.</a></li>
-        <li><a href="article/sec1.php#17" target="viewer">17. Modified.</a></li>
-        <li><a href="article/sec1.php#18" target="viewer">18. Poetical.</a></li>
-  </details>
-
-  <details> <!-- section2 -->
-    <summary>Section II. Syntaxis Convenientiae and Syntaxis Rectonis.</summary>
-    <!-- chapterList -->
-      <ul style="list-style-type: none">
-        <li>
-          <details> <!-- ch1 -->
+        <!-- section -->
+        <details>
+          <!-- section1 -->
           <summary>
-            <a href="article/sec2_ch1.php" target="viewer">Chapt. I. Concord.</a>
+            <a href="article/sec1.php" target="viewer"> Section I. General remarks on the structure of sentences. </a>
           </summary>
-            <a href="article/sec2_ch1.php#19" target="viewer">19. Real and grammatical gender and number.</a><br>
-            <a href="article/sec2_ch1.php#20" target="viewer">20. Singularis generalis.</a><br>
-            <a href="article/sec2_ch1.php#21" target="viewer">21. Plural of abstract nouns.</a><br>
-            <a href="article/sec2_ch1.php#22" target="viewer">22. Plural of a people’s name.</a><br>
-            <a href="article/sec2_ch1.php#23" target="viewer">23. Pluralis majestaticus.</a><br>
-            <a href="article/sec2_ch1.php#24" target="viewer">24.</a><br>
-            <a href="article/sec2_ch1.php#25" target="viewer">25. vayam = aham or āvām</a><br>
-            <a href="article/sec2_ch1.php#26" target="viewer">26. Dual.</a><br>
-            <a href="article/sec2_ch1.php#27" target="viewer">27. Samânâdhikaraṇya / Concord</a><br>
-            <a href="article/sec2_ch1.php#28" target="viewer">28.</a><br>
-            <a href="article/sec2_ch1.php#29" target="viewer">29.</a><br>
-            <a href="article/sec2_ch1.php#30" target="viewer">30.</a><br>
-
-            <details>
-              <summary>
-                <a href="panda">Predicate and attribute.</a>
-              </summary>
-              <a href="article/sec2_ch1.php#31" target="viewer">31.</a><br>
-              <a href="article/sec2_ch1.php#32" target="viewer">32. Completing attribute.</a><br>
-              <a href="article/sec2_ch1.php#33" target="viewer">33. Middle voice attended by two nominatives.</a><br>
-              <a href="article/sec2_ch1.php#34" target="viewer">34.</a><br>
-            </details>
-        </details><br>
-
-        <details> <!-- ch2 -->
-        <summary>
-          <a href="article/sec2_ch2.php" target="viewer">Chapt. II. How to denote case-relations.</a>
-        </summary>
-          <a href="article/sec2_ch2.php#35" target="viewer">35.</a><br>
-          <a href="article/sec2_ch2.php#36" target="viewer">36.</a><br>
-          <a href="article/sec2_ch2.php#37" target="viewer">37.</a><br>
-          <details>
-            <summary>
-              <a href="">GENERAL SCHEME OF THE CASES.</a>
-            </summary>
-            <a href="article/sec2_ch2.php#38" target="viewer">38. Scheme of the cases.</a><br>
-          </details>
+          <ul style="list-style-type: none">
+            <!-- chapterList -->
+            <li><a href="article/sec1.php#1" target="viewer">1. Subject and predicate.</a></li>
+            <li><a href="article/sec1.php#2" target="viewer">2. Verbum substantivum.</a></li>
+            <li><a href="article/sec1.php#3" target="viewer">3.</a></li>
+            <li><a href="article/sec1.php#4" target="viewer">4.</a></li>
+            <li><a href="article/sec1.php#5" target="viewer">5. Noun-predicate.</a></li>
+            <li><a href="article/sec1.php#6" target="viewer">6. Verb-predicate in the active voice or in the passive.</a></li>
+            <li><a href="article/sec1.php#7" target="viewer">7. Passive voice.</a></li>
+            <li><a href="article/sec1.php#8" target="viewer">8. Inpersonal passives.</a></li>
+            <li><a href="article/sec1.php#9" target="viewer">9. Participles, doing duty of finite verbs.</a></li>
+            <li><a href="article/sec1.php#10" target="viewer">10. Subject implied.</a></li>
+            <li><a href="article/sec1.php#11" target="viewer">11.</a></li>
+            <li><a href="article/sec1.php#12" target="viewer">12. General subject.</a></li>
+            <li><a href="article/sec1.php#13" target="viewer">13.</a></li>
+            <li><a href="article/sec1.php#14" target="viewer">14. Character of Sanskrit style.</a></li>
+            <li><a href="article/sec1.php#15" target="viewer">15. Order of words.</a></li>
+            <li><a href="article/sec1.php#16" target="viewer">16. Traditional.</a></li>
+            <li><a href="article/sec1.php#17" target="viewer">17. Modified.</a></li>
+            <li><a href="article/sec1.php#18" target="viewer">18. Poetical.</a></li>
+          </ul>
         </details>
 
-        <details> <!-- ch3 -->
-          <summary>
-            <a href="article/sec2_ch3.php" target="viewer">Chapt. III. Accusative.</a>
-          </summary>
-            <a href="article/sec2_ch3.php#39" target="viewer">39.</a><br>
-            <a href="article/sec2_ch3.php#40" target="viewer">40.</a><br>
-            <a href="article/sec2_ch3.php#41" target="viewer">41. Acc. of the aim with passive verbs.</a><br>
-            <a href="article/sec2_ch3.php#42" target="viewer">42. Acc. of the object.</a><br>
-            <a href="article/sec2_ch3.php#43" target="viewer">43. Intr. verbs, becoming transitive, when compounded.</a><br>
-            <a href="article/sec2_ch3.php#44" target="viewer">44. Cognate accusative.</a><br>
-            <a href="article/sec2_ch3.php#45" target="viewer">45. Verbs with a double construction.</a><br>
-            <a href="article/sec2_ch3.php#46" target="viewer">46. Double object.</a><br>
-            <a href="article/sec2_ch3.php#47" target="viewer">47.</a><br>
-            <a href="article/sec2_ch3.php#48" target="viewer">48.</a><br>
-            <a href="article/sec2_ch3.php#49" target="viewer">49. Double object with causatives.</a><br>
-            <a href="article/sec2_ch3.php#50" target="viewer">50.</a><br>
-            <a href="article/sec2_ch3.php#51" target="viewer">51.</a><br>
-            <a href="article/sec2_ch3.php#52" target="viewer">52. Accusative depending on nouns.</a><br>
-            <a href="article/sec2_ch3.php#53" target="viewer">53.</a><br>
-            <a href="article/sec2_ch3.php#54" target="viewer">54. Acc. of space and time.</a><br>
-            <a href="article/sec2_ch3.php#55" target="viewer">55. Adverbial accusative.</a><br>
-            <a href="article/sec2_ch3.php#56" target="viewer">56.</a><br>
-          </details>
+        <details>
+          <!-- section2 -->
+          <summary>Section II. Syntaxis Convenientiae and Syntaxis Rectonis.</summary>
+          <!-- chapterList -->
+          <ul style="list-style-type: none">
+            <li>
+              <details>
+                <!-- ch1 -->
+                <summary>
+                  <a href="article/sec2_ch1.php" target="viewer">Chapt. I. Concord.</a>
+                </summary>
+                <a href="article/sec2_ch1.php#19" target="viewer">19. Real and grammatical gender and number.</a><br />
+                <a href="article/sec2_ch1.php#20" target="viewer">20. Singularis generalis.</a><br />
+                <a href="article/sec2_ch1.php#21" target="viewer">21. Plural of abstract nouns.</a><br />
+                <a href="article/sec2_ch1.php#22" target="viewer">22. Plural of a people’s name.</a><br />
+                <a href="article/sec2_ch1.php#23" target="viewer">23. Pluralis majestaticus.</a><br />
+                <a href="article/sec2_ch1.php#24" target="viewer">24.</a><br />
+                <a href="article/sec2_ch1.php#25" target="viewer">25. vayam = aham or āvām</a><br />
+                <a href="article/sec2_ch1.php#26" target="viewer">26. Dual.</a><br />
+                <a href="article/sec2_ch1.php#27" target="viewer">27. Samânâdhikaraṇya / Concord</a><br />
+                <a href="article/sec2_ch1.php#28" target="viewer">28.</a><br />
+                <a href="article/sec2_ch1.php#29" target="viewer">29.</a><br />
+                <a href="article/sec2_ch1.php#30" target="viewer">30.</a><br />
 
-        <details> <!-- ch4 -->
-          <summary>
-            <a href="article/sec2_ch4.php" target="viewer">Chapt. IV. Instrumental.</a>
-          </summary>
-            <a href="article/sec2_ch4.php#57" target="viewer">57.</a><br>
-            <a href="article/sec2_ch4.php#58" target="viewer">58. Instrumental, when sociative.</a><br>
-            <a href="article/sec2_ch4.php#59" target="viewer">59. b.) without prepositions.</a><br>
-            <a href="article/sec2_ch4.php#60" target="viewer">60.</a><br>
-            <a href="article/sec2_ch4.php#61" target="viewer">61. Instrum. or genitive with adjj. of <i>likeness</i>, <i>equality</i>, etc.</a><br>
-            <a href="article/sec2_ch4.php#62" target="viewer">62. Instrumental with words of <i>separation</i>.</a><br>
-            <a href="article/sec2_ch4.php#63" target="viewer">63. Instrumental, the how-case.</a><br>
-            <a href="article/sec2_ch4.php#64" target="viewer">64. Instrum. compared to English <i>with</i>.</a><br>
-            <a href="article/sec2_ch4.php#65" target="viewer">65. Fuller account of them.</a><br>
-            <a href="article/sec2_ch4.php#66" target="viewer">66.</a><br>
-            <a href="article/sec2_ch4.php#67" target="viewer">67. 3. Quality etc.</a><br>
-            <a href="article/sec2_ch4.php#68" target="viewer">68.</a><br>
-            <a href="article/sec2_ch4.php#69" target="viewer">69. 4. Test.</a><br>
-            <a href="article/sec2_ch4.php#70" target="viewer">70. 5. Price.</a><br>
-            <a href="article/sec2_ch4.php#71" target="viewer">71. 6. Way, by which.</a><br>
-            <a href="article/sec2_ch4.php#72" target="viewer">72. 7. Causality (<i>instrumentalis causae.</i>)</a><br>
-            <a href="article/sec2_ch4.php#73" target="viewer">73. <i>Instrumentalis partis</i>.</a><br>
-            <a href="article/sec2_ch4.php#74" target="viewer">74. Special construction.</a><br>
-            <a href="article/sec2_ch4.php#75" target="viewer">75.</a><br>
-            <a href="article/sec2_ch4.php#76" target="viewer">76.</a><br>
-            <a href="article/sec2_ch4.php#77" target="viewer">77.</a><br>
-            <a href="article/sec2_ch4.php#78" target="viewer">78. Instrum. of time.</a><br>
-            </details>
+                <details>
+                  <summary>
+                    <a href="panda">Predicate and attribute.</a>
+                  </summary>
+                  <a href="article/sec2_ch1.php#31" target="viewer">31.</a><br />
+                  <a href="article/sec2_ch1.php#32" target="viewer">32. Completing attribute.</a><br />
+                  <a href="article/sec2_ch1.php#33" target="viewer">33. Middle voice attended by two nominatives.</a><br />
+                  <a href="article/sec2_ch1.php#34" target="viewer">34.</a><br />
+                </details>
+              </details>
+              <br />
 
-        <details> <!-- ch5 -->
-          <summary>
-            <a href="article/sec2_ch5.php" target="viewer">Chapt. V. Dative.</a>
-          </summary>
-          <a href="article/sec2_ch5.php#79" target="viewer">79. General employment of the dative.</a><br>
-          <a href="article/sec2_ch5.php#80" target="viewer">80. Dat. of the destination.</a><br>
-          <a href="article/sec2_ch5.php#81" target="viewer">81. Dat. of concern.</a><br>
-          <a href="article/sec2_ch5.php#82" target="viewer">82. Concurrent idioms.</a><br>
-          <a href="article/sec2_ch5.php#83" target="viewer">83. Special cases of the dat. of concern.</a><br>
-          <a href="article/sec2_ch5.php#84" target="viewer">84. Dat. <i>commodi</i> and <i>incommodi</i>.</a><br>
-          <a href="article/sec2_ch5.php#85" target="viewer">85. Dat. with words of <i>counterpoising</i> etc.</a><br>
-          <a href="article/sec2_ch5.php#86" target="viewer">86. Old datives.</a><br>
-          <a href="article/sec2_ch5.php#87" target="viewer">87. Dat. of the purpose.</a><br>
-          <a href="article/sec2_ch5.php#88" target="viewer">88.</a><br>
-          <a href="article/sec2_ch5.php#89" target="viewer">89.</a><br>
-          <a href="article/sec2_ch5.php#90" target="viewer">90.</a><br>
-          <a href="article/sec2_ch5.php#91" target="viewer">91.</a><br>
-          <a href="article/sec2_ch5.php#92" target="viewer">92. Time-denoting dative.</a><br>
+              <details>
+                <!-- ch2 -->
+                <summary>
+                  <a href="article/sec2_ch2.php" target="viewer">Chapt. II. How to denote case-relations.</a>
+                </summary>
+                <a href="article/sec2_ch2.php#35" target="viewer">35.</a><br />
+                <a href="article/sec2_ch2.php#36" target="viewer">36.</a><br />
+                <a href="article/sec2_ch2.php#37" target="viewer">37.</a><br />
+                <details>
+                  <summary>
+                    <a href="">GENERAL SCHEME OF THE CASES.</a>
+                  </summary>
+                  <a href="article/sec2_ch2.php#38" target="viewer">38. Scheme of the cases.</a><br />
+                </details>
+              </details>
+
+              <details>
+                <!-- ch3 -->
+                <summary>
+                  <a href="article/sec2_ch3.php" target="viewer">Chapt. III. Accusative.</a>
+                </summary>
+                <a href="article/sec2_ch3.php#39" target="viewer">39.</a><br />
+                <a href="article/sec2_ch3.php#40" target="viewer">40.</a><br />
+                <a href="article/sec2_ch3.php#41" target="viewer">41. Acc. of the aim with passive verbs.</a><br />
+                <a href="article/sec2_ch3.php#42" target="viewer">42. Acc. of the object.</a><br />
+                <a href="article/sec2_ch3.php#43" target="viewer">43. Intr. verbs, becoming transitive, when compounded.</a><br />
+                <a href="article/sec2_ch3.php#44" target="viewer">44. Cognate accusative.</a><br />
+                <a href="article/sec2_ch3.php#45" target="viewer">45. Verbs with a double construction.</a><br />
+                <a href="article/sec2_ch3.php#46" target="viewer">46. Double object.</a><br />
+                <a href="article/sec2_ch3.php#47" target="viewer">47.</a><br />
+                <a href="article/sec2_ch3.php#48" target="viewer">48.</a><br />
+                <a href="article/sec2_ch3.php#49" target="viewer">49. Double object with causatives.</a><br />
+                <a href="article/sec2_ch3.php#50" target="viewer">50.</a><br />
+                <a href="article/sec2_ch3.php#51" target="viewer">51.</a><br />
+                <a href="article/sec2_ch3.php#52" target="viewer">52. Accusative depending on nouns.</a><br />
+                <a href="article/sec2_ch3.php#53" target="viewer">53.</a><br />
+                <a href="article/sec2_ch3.php#54" target="viewer">54. Acc. of space and time.</a><br />
+                <a href="article/sec2_ch3.php#55" target="viewer">55. Adverbial accusative.</a><br />
+                <a href="article/sec2_ch3.php#56" target="viewer">56.</a><br />
+              </details>
+
+              <details>
+                <!-- ch4 -->
+                <summary>
+                  <a href="article/sec2_ch4.php" target="viewer">Chapt. IV. Instrumental.</a>
+                </summary>
+                <a href="article/sec2_ch4.php#57" target="viewer">57.</a><br />
+                <a href="article/sec2_ch4.php#58" target="viewer">58. Instrumental, when sociative.</a><br />
+                <a href="article/sec2_ch4.php#59" target="viewer">59. b.) without prepositions.</a><br />
+                <a href="article/sec2_ch4.php#60" target="viewer">60.</a><br />
+                <a href="article/sec2_ch4.php#61" target="viewer">61. Instrum. or genitive with adjj. of <i>likeness</i>, <i>equality</i>, etc.</a><br />
+                <a href="article/sec2_ch4.php#62" target="viewer">62. Instrumental with words of <i>separation</i>.</a><br />
+                <a href="article/sec2_ch4.php#63" target="viewer">63. Instrumental, the how-case.</a><br />
+                <a href="article/sec2_ch4.php#64" target="viewer">64. Instrum. compared to English <i>with</i>.</a><br />
+                <a href="article/sec2_ch4.php#65" target="viewer">65. Fuller account of them.</a><br />
+                <a href="article/sec2_ch4.php#66" target="viewer">66.</a><br />
+                <a href="article/sec2_ch4.php#67" target="viewer">67. 3. Quality etc.</a><br />
+                <a href="article/sec2_ch4.php#68" target="viewer">68.</a><br />
+                <a href="article/sec2_ch4.php#69" target="viewer">69. 4. Test.</a><br />
+                <a href="article/sec2_ch4.php#70" target="viewer">70. 5. Price.</a><br />
+                <a href="article/sec2_ch4.php#71" target="viewer">71. 6. Way, by which.</a><br />
+                <a href="article/sec2_ch4.php#72" target="viewer">72. 7. Causality (<i>instrumentalis causae.</i>)</a><br />
+                <a href="article/sec2_ch4.php#73" target="viewer">73. <i>Instrumentalis partis</i>.</a><br />
+                <a href="article/sec2_ch4.php#74" target="viewer">74. Special construction.</a><br />
+                <a href="article/sec2_ch4.php#75" target="viewer">75.</a><br />
+                <a href="article/sec2_ch4.php#76" target="viewer">76.</a><br />
+                <a href="article/sec2_ch4.php#77" target="viewer">77.</a><br />
+                <a href="article/sec2_ch4.php#78" target="viewer">78. Instrum. of time.</a><br />
+              </details>
+
+              <details>
+                <!-- ch5 -->
+                <summary>
+                  <a href="article/sec2_ch5.php" target="viewer">Chapt. V. Dative.</a>
+                </summary>
+                <a href="article/sec2_ch5.php#79" target="viewer">79. General employment of the dative.</a><br />
+                <a href="article/sec2_ch5.php#80" target="viewer">80. Dat. of the destination.</a><br />
+                <a href="article/sec2_ch5.php#81" target="viewer">81. Dat. of concern.</a><br />
+                <a href="article/sec2_ch5.php#82" target="viewer">82. Concurrent idioms.</a><br />
+                <a href="article/sec2_ch5.php#83" target="viewer">83. Special cases of the dat. of concern.</a><br />
+                <a href="article/sec2_ch5.php#84" target="viewer">84. Dat. <i>commodi</i> and <i>incommodi</i>.</a><br />
+                <a href="article/sec2_ch5.php#85" target="viewer">85. Dat. with words of <i>counterpoising</i> etc.</a><br />
+                <a href="article/sec2_ch5.php#86" target="viewer">86. Old datives.</a><br />
+                <a href="article/sec2_ch5.php#87" target="viewer">87. Dat. of the purpose.</a><br />
+                <a href="article/sec2_ch5.php#88" target="viewer">88.</a><br />
+                <a href="article/sec2_ch5.php#89" target="viewer">89.</a><br />
+                <a href="article/sec2_ch5.php#90" target="viewer">90.</a><br />
+                <a href="article/sec2_ch5.php#91" target="viewer">91.</a><br />
+                <a href="article/sec2_ch5.php#92" target="viewer">92. Time-denoting dative.</a><br />
+              </details>
+
+              <details>
+                <!-- ch6 -->
+                <summary>
+                  <a href="article/sec2_ch6.php" target="viewer">Chapt. VI. Ablative.</a>
+                </summary>
+                <a href="article/sec2_ch6.php#93" target="viewer">93. General view of the ablative.</a><br />
+                <a href="article/sec2_ch6.php#94" target="viewer">94. Ablative expressive of the <i>whence</i>, <i>from</i>, <i>out of</i>.</a><br />
+                <a href="article/sec2_ch6.php#95" target="viewer">95.</a><br />
+                <a href="article/sec2_ch6.php#96" target="viewer">96. Ablative of separation.</a><br />
+                <a href="article/sec2_ch6.php#97" target="viewer">97. with verbs of keeping off.</a><br />
+                <a href="article/sec2_ch6.php#98" target="viewer">98. Ablative, the terminus a quo.</a><br />
+                <a href="article/sec2_ch6.php#99" target="viewer">99.</a><br />
+                <a href="article/sec2_ch6.php#100" target="viewer">100. Ablative of the origin and the former state.</a><br />
+                <a href="article/sec2_ch6.php#101" target="viewer">101.</a><br />
+                <a href="article/sec2_ch6.php#102" target="viewer">102. Ablative of causality.</a><br />
+                <a href="article/sec2_ch6.php#103" target="viewer">103. Ablative expressive of the side, on which.</a><br />
+                <a href="article/sec2_ch6.php#104" target="viewer">104.</a><br />
+                <a href="article/sec2_ch6.php#105" target="viewer">105. Ablative of comparison.</a><br />
+                <a href="article/sec2_ch6.php#106" target="viewer">106.</a><br />
+                <a href="article/sec2_ch6.php#107" target="viewer">107. Instrumental of comparison.</a><br />
+                <a href="article/sec2_ch6.php#108" target="viewer">108. The ablatives in <skt>-taḥ</skt>.</a><br />
+              </details>
+
+              <details>
+                <!-- ch7 -->
+                <summary>
+                  <a href="article/sec2_ch7.php" target="viewer">Chapt. VII. Genitive.</a>
+                </summary>
+                <a href="article/sec2_ch7.php#109" target="viewer">109. General view of the genitive.</a><br />
+                <a href="article/sec2_ch7.php#110" target="viewer">110. Its employment with substantives.</a><br />
+                <a href="article/sec2_ch7.php#111" target="viewer">111.</a><br />
+                <a href="article/sec2_ch7.php#112" target="viewer">112. Possessive genitive.</a><br />
+                <a href="article/sec2_ch7.php#113" target="viewer">113. <i>Genitivus materiae</i> and <i>originis</i>.</a><br />
+                <a href="article/sec2_ch7.php#114" target="viewer">114. Subjective genitive.</a><br />
+                <a href="article/sec2_ch7.php#115" target="viewer">115. Objective genitive.</a><br />
+                <a href="article/sec2_ch7.php#116" target="viewer">116. Partitive genitive.</a><br />
+                <a href="article/sec2_ch7.php#117" target="viewer">117.</a><br />
+                <a href="article/sec2_ch7.php#118" target="viewer">118. Genitive with verbs.</a><br />
+                <a href="article/sec2_ch7.php#119" target="viewer">119.</a><br />
+                <a href="article/sec2_ch7.php#120" target="viewer">120.</a><br />
+                <a href="article/sec2_ch7.php#121" target="viewer">121.</a><br />
+                <a href="article/sec2_ch7.php#122" target="viewer">122.</a><br />
+                <a href="article/sec2_ch7.php#123" target="viewer">123.</a><br />
+                <a href="article/sec2_ch7.php#124" target="viewer">124. Genitive with adjectives.</a><br />
+                <details>
+                  <!-- ch7-1 -->
+                  <summary>
+                    <a href="article/sec2_ch7.php" target="viewer">ABLATIVE-LIKE GENITIVE.</a>
+                  </summary>
+                  <a href="article/sec2_ch7.php#125" target="viewer">125. Ablative-like genitive.</a><br />
+                  <a href="article/sec2_ch7.php#126" target="viewer">126.</a><br />
+                  <a href="article/sec2_ch7.php#127" target="viewer">127.</a><br />
+                  <a href="article/sec2_ch7.php#128" target="viewer">128. Time-denoting genitive.</a><br />
+                </details>
+                <details>
+                  <!-- ch7-2 -->
+                  <summary>
+                    <a href="article/sec2_ch7.php" target="viewer">DATIVE-LIKE GENITIVE.</a>
+                  </summary>
+                  <a href="article/sec2_ch7.php#129" target="viewer">129. Dative-like genitive or <i>genitivus commodi et incommodi</i>.</a><br />
+                </details>
+              </details>
+            </li>
+          </ul>
         </details>
+        <br />
+      </nav>
 
-        <details> <!-- ch6 -->
-          <summary>
-            <a href="article/sec2_ch6.php" target="viewer">Chapt. VI. Ablative.</a>
-          </summary>
-          <a href="article/sec2_ch6.php#93" target="viewer">93. General view of the ablative.</a><br>
-          <a href="article/sec2_ch6.php#94" target="viewer">94. Ablative expressive of the <i>whence</i>, <i>from</i>, <i>out of</i>.</a><br>
-          <a href="article/sec2_ch6.php#95" target="viewer">95.</a><br>
-          <a href="article/sec2_ch6.php#96" target="viewer">96. Ablative of separation.</a><br>
-          <a href="article/sec2_ch6.php#97" target="viewer">97. with verbs of keeping off.</a><br>
-          <a href="article/sec2_ch6.php#98" target="viewer">98. Ablative, the terminus a quo.</a><br>
-          <a href="article/sec2_ch6.php#99" target="viewer">99.</a><br>
-          <a href="article/sec2_ch6.php#100" target="viewer">100. Ablative of the origin and the former state.</a><br>
-          <a href="article/sec2_ch6.php#101" target="viewer">101.</a><br>
-          <a href="article/sec2_ch6.php#102" target="viewer">102. Ablative of causality.</a><br>
-          <a href="article/sec2_ch6.php#103" target="viewer">103. Ablative expressive of the side, on which.</a><br>
-          <a href="article/sec2_ch6.php#104" target="viewer">104.</a><br>
-          <a href="article/sec2_ch6.php#105" target="viewer">105. Ablative of comparison.</a><br>
-          <a href="article/sec2_ch6.php#106" target="viewer">106.</a><br>
-          <a href="article/sec2_ch6.php#107" target="viewer">107. Instrumental of comparison.</a><br>
-          <a href="article/sec2_ch6.php#108" target="viewer">108. The ablatives in <skt>-taḥ</skt>.</a><br>
-        </details>
-
-        <details> <!-- ch7 -->
-          <summary>
-            <a href="article/sec2_ch7.php" target="viewer">Chapt. VII. Genitive.</a>
-          </summary>
-          <a href="article/sec2_ch7.php#109" target="viewer">109. General view of the genitive.</a><br>
-          <a href="article/sec2_ch7.php#110" target="viewer">110. Its employment with substantives.</a><br>
-          <a href="article/sec2_ch7.php#111" target="viewer">111.</a><br>
-          <a href="article/sec2_ch7.php#112" target="viewer">112. Possessive genitive.</a><br>
-          <a href="article/sec2_ch7.php#113" target="viewer">113. <i>Genitivus materiae</i> and <i>originis</i>.</a><br>
-          <a href="article/sec2_ch7.php#114" target="viewer">114. Subjective genitive.</a><br>
-          <a href="article/sec2_ch7.php#115" target="viewer">115. Objective genitive.</a><br>
-          <a href="article/sec2_ch7.php#116" target="viewer">116. Partitive genitive.</a><br>
-          <a href="article/sec2_ch7.php#117" target="viewer">117.</a><br>
-          <a href="article/sec2_ch7.php#118" target="viewer">118. Genitive with verbs.</a><br>
-          <a href="article/sec2_ch7.php#119" target="viewer">119.</a><br>
-          <a href="article/sec2_ch7.php#120" target="viewer">120.</a><br>
-          <a href="article/sec2_ch7.php#121" target="viewer">121.</a><br>
-          <a href="article/sec2_ch7.php#122" target="viewer">122.</a><br>
-          <a href="article/sec2_ch7.php#123" target="viewer">123.</a><br>
-          <a href="article/sec2_ch7.php#124" target="viewer">124. Genitive with adjectives.</a><br>
-            <details> <!-- ch7 -->
-              <summary>
-                <a href="article/sec2_ch7.php" target="viewer">ABLATIVE-LIKE GENITIVE.</a>
-              </summary>
-              <a href="article/sec2_ch7.php#125" target="viewer">125. Ablative-like genitive.</a><br>
-              <a href="article/sec2_ch7.php#126" target="viewer">126.</a><br>
-              <a href="article/sec2_ch7.php#127" target="viewer">127.</a><br>
-              <a href="article/sec2_ch7.php#128" target="viewer">128. Time-denoting genitive.</a><br>
-            </details>
-          
-
-        </details>
-  </details><br>
-    </nav>
-
-
-    <nav id="jaIndex" style="display: none;">
-      <p>ここに日本語もくじ</p>
-    </nav>
-</div>
-
-</body>
-
+      <nav id="jaIndex" style="display: none">
+        <p>ここに日本語もくじ</p>
+      </nav>
+    </div>
+  </body>
 </html>

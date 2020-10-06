@@ -64,6 +64,21 @@
     <?php include("sec2/ch7/abl-like/127.html"); ?>
     <?php include("sec2/ch7/abl-like/128.html"); ?>
 
+    <div class="column">
+        <div class="article" lang="en">
+            <h3>
+                DATIVE-LIKE GENITIVE.
+            </h3>
+        </div>
+        <div class="article" lang="ja">
+            <h3>
+                dat.的gen.
+            </h3>
+        </div>
+    </div>
+
+    <?php include("sec2/ch7/dat-like/129.html"); ?>
+
 
 </body>
 
