@@ -79,6 +79,8 @@
 
     <?php include("sec2/ch7/dat-like/129.html"); ?>
     <?php include("sec2/ch7/dat-like/130.html"); ?>
+    <?php include("sec2/ch7/dat-like/131.html"); ?>
+    <?php include("sec2/ch7/dat-like/132.html"); ?>
 
 
 </body>
