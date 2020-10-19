@@ -34,9 +34,9 @@
             </p>
         </div>
         <div class="article" lang="ja">
-            <h2>
+            <h3>
                 1. 前置詞<a href="#ch9-j1">（*1）</a>
-            </h2>
+            </h3>
             <p id="ch9-j1" type="note">
                 （*1）<br>
                 品詞（parts of speech）と呼ばれる異なるものから成る用語一式を、私たちのようには持たないインドの土着文法は、「前置詞」（preposition）に正確に対応する用語はなく、音声的、語源的、または構文的特性に応じて異なる名称で呼称される。複合動詞（compound verb）をつくるために語根と合成される場合には、<b>upasarga</b>と呼ばれる。同様の不変化辞は、〔動詞とは〕別の語である場合、<b>karmapravacanīya</b>と呼ばれる。このため、karmapravacanīya類は<skt>upari</skt>, <skt>puraḥ</skt>, <skt>saha</skt>のような前置詞を含まず、一方で<skt>api</skt>や<skt>su</skt>のような、何であれ「前置詞」とは決して呼ばれないいくつかの不変化辞を含む。P. 1, 4, 68; 59; 88-98と比較せよ。
@@ -48,6 +48,22 @@
     <?php include("sec2/ch9/1_prepos/153.html"); ?>
     <?php include("sec2/ch9/1_prepos/154.html"); ?>
 
+    <div class="column" id="ch9-I">
+        <div class="article" lang="en">
+            <h4>
+                a.) OBSOLETE PREPOSITIONS.
+            </h4>
+        </div>
+        <div class="article" lang="ja">
+            <h4>
+                a.) 廃れた前置詞
+            </h4>
+        </div>
+    </div>
+
+    <small>
+        <?php include("sec2/ch9/1_prepos/a/155.html"); ?>
+    </small>
 
 </body>
 
