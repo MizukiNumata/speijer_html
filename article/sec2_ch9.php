@@ -67,6 +67,8 @@
         <?php include("sec2/ch9/1_prepos/a/157.html"); ?>
         <?php include("sec2/ch9/1_prepos/a/158.html"); ?>
         <?php include("sec2/ch9/1_prepos/a/159.html"); ?>
+        <?php include("sec2/ch9/1_prepos/a/160.html"); ?>
+        <?php include("sec2/ch9/1_prepos/a/161.html"); ?>
     </small>
 
 </body>
