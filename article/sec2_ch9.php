@@ -71,6 +71,21 @@
         <?php include("sec2/ch9/1_prepos/a/161.html"); ?>
     </small>
 
+    <div class="column" id="ch9-I">
+        <div class="article" lang="en">
+            <h4>
+                b). PREPOSITIONS STILL EXISTING.
+            </h4>
+        </div>
+        <div class="article" lang="ja">
+            <h4>
+                b.) 現存する前置詞
+            </h4>
+        </div>
+    </div>
+
+    <?php include("sec2/ch9/1_prepos/b/162.html"); ?>
+
 </body>
 
 </html>
