@@ -1,4 +1,20 @@
 
+<IfModule mod_deflate.c>
+# mod_defiltgerを有効化
+SetOutputFilter DEFLATE
+
+# 古いブラウザ対策
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch \bMSIE\s(7|8) !no-gzip !gzip-only-text/html
+
+# 画像は圧縮しない GIF、JPEG、PNG、ICO
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|ico)$ no-gzip dont-vary
+
+# ユーザーエージェントごとにキャッシュさせる
+Header append Vary User-Agent env=!dont-vary
+</IfModule>
+
 #####wpcomment_nojpdeny#####
 SetEnvIf Request_URI ".*" WpCommentDeny
 #####end:wpcomment_nojpdeny#####
