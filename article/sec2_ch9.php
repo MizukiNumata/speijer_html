@@ -110,6 +110,19 @@
     <?php include("sec2/ch9/1_prepos/b/185.html"); ?>
     <?php include("sec2/ch9/1_prepos/b/186.html"); ?>
 
+    <div class="column" id="ch9-I">
+        <div class="article" lang="en">
+            <h3>
+                II PERIPHRASE BY MEANS OF NOUN-CASES.
+            </h3>
+        </div>
+        <div class="article" lang="ja">
+            <h3>
+                2. 名詞-格による迂言
+            </h3>
+        </div>
+    </div>
+
 </body>
 
 </html>
