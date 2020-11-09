@@ -123,6 +123,8 @@
         </div>
     </div>
 
+    <?php include("sec2/ch9/2_noun/187.html"); ?>
+
 </body>
 
 </html>
