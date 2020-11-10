@@ -126,6 +126,7 @@
     <?php include("sec2/ch9/2_noun/187.html"); ?>
     <?php include("sec2/ch9/2_noun/188.html"); ?>
     <?php include("sec2/ch9/2_noun/189.html"); ?>
+    <?php include("sec2/ch9/2_noun/190.html"); ?>
 
 </body>
 
