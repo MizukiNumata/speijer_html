@@ -110,7 +110,7 @@
     <?php include("sec2/ch9/1_prepos/b/185.html"); ?>
     <?php include("sec2/ch9/1_prepos/b/186.html"); ?>
 
-    <div class="column" id="ch9-I">
+    <div class="column" id="ch9-II">
         <div class="article" lang="en">
             <h3>
                 II PERIPHRASE BY MEANS OF NOUN-CASES.
@@ -133,6 +133,21 @@
     <?php include("sec2/ch9/2_noun/194.html"); ?>
     <?php include("sec2/ch9/2_noun/195.html"); ?>
     <?php include("sec2/ch9/2_noun/196.html"); ?>
+
+    <div class="column" id="ch9-III">
+        <div class="article" lang="en">
+            <h3>
+                III. PERIPHRASE BY MEANS OF PARTICIPLES, GERUNDS AND THE LIKE.
+            </h3>
+        </div>
+        <div class="article" lang="ja">
+            <h3>
+                3. 分詞・遊離分詞などを用いた迂言
+            </h3>
+        </div>
+    </div>
+
+    <?php include("sec2/ch9/3_pt/197.html"); ?>
 
 </body>
 
