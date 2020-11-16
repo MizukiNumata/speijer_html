@@ -43,6 +43,20 @@
     <?php include("sec2/ch10/1/208.html"); ?>
     <?php include("sec2/ch10/1/209.html"); ?>
 
+    <div class="column">
+        <div class="article" lang="en">
+            <h2>
+                2. <sCap>Tatpurusha</sCap>.
+            </h2>
+        </div>
+        <div class="article" lang="ja">
+            <h2>
+                2. tatpuruṣa
+            </h2>
+        </div>
+    </div>
+
+    <?php include("sec2/ch10/2/210.html"); ?>
 
 </body>
 
