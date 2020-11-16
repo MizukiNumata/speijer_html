@@ -24,6 +24,22 @@
     <?php include("sec2/ch10/204.html"); ?>
 
 
+    <div class="column">
+        <div class="article" lang="en">
+            <h2>
+                1. <sCap>Dvandva</sCap>.
+            </h2>
+        </div>
+        <div class="article" lang="ja">
+            <h2>
+                1. dvandva
+            </h2>
+        </div>
+    </div>
+
+    <?php include("sec2/ch10/1/205.html"); ?>
+
+
 
 </body>
 
