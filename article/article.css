@@ -67,7 +67,7 @@ h6 {
 p {
   background: #ffffff;
 }
-p[type="note"] {
+p[class="note"] {
   text-indent: 0;
 }
 ul {

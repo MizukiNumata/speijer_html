@@ -13,7 +13,7 @@
             <h2>
                 <sCap>Chapter</sCap> VIII. Locative. <a href="#ch8-e1">(*1)</a>
             </h2>
-            <p id="ch8-e1" type="note">
+            <p id="ch8-e1" class="note">
                 (*1) <br>
                 See <sCap>Delbrück</sCap> <cite>Ablativ, Localis, Instrumentalis</cite> p. 27-49.
             </p>
@@ -22,7 +22,7 @@
             <h2>
                 第8章 処格（locative）<a href="ch8-j1">（*1）</a>
             </h2>
-            <p id="ch8-j1" type="note">
+            <p id="ch8-j1" class="note">
                 （*1）<br>
                 Delbrück [1867], p.27-49をみよ。
             </p>

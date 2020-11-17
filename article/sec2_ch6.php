@@ -13,7 +13,7 @@
             <h2>
                 <sCap>Chapter</sCap> VI. Ablative. <a href="ch6-e1">(*1)</a>
             </h2>
-            <p id="ch6-e1" type="note">
+            <p id="ch6-e1" class="note">
                 Compare <sCap>Delbrück</sCap> <cite>Ablativ, Localis, Instrumentalis</cite>, p. 1-27.
             </p>
         </div>
@@ -21,7 +21,7 @@
             <h2>
                 第6章 奪格（dative）<a href="ch6-j1">（*1）</a>
             </h2>
-            <p id="ch6-j1" type="note">
+            <p id="ch6-j1" class="note">
                 Delbrück 1867、p. 1-27を参照せよ。
             </p>
         </div>

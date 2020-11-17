@@ -13,7 +13,7 @@
             <h2>
                 <sCap>Chapter</sCap> VII. Genitive. <a href="#ch7-e1">(*1)</a>
             </h2>
-            <p id="ch7-e1" type="note">
+            <p id="ch7-e1" class="note">
                 (*1) <br>
                 On the genitive in Sanskrit, especially in the dialect of the Ṛgvedamantras, there exists a monography of Dr. <sCap>Siecke</sCap> <cite>de genitivo in lingua Sanscritica imprimis Vedica usu</cite>, Berlin, 1869.
             </p>
@@ -22,7 +22,7 @@
             <h2>
                 第7章 属格（genitive）<a href="ch7-j1">（*1）</a>
             </h2>
-            <p id="ch7-j1" type="note">
+            <p id="ch7-j1" class="note">
                 （*1）<br>
                 サンスクリット、とりわけṚg-vedaのマントラの方言におけるgen.については、Siecke博士の論文<cite>De Genetivi in Lingua Sanscrita Imprimis Vedica Usu</cite>（Berlin, 1869）がある。
             </p>

@@ -13,7 +13,7 @@
             <h2>
                 <sCap>Chapter</sCap> V. Dative. <a href="ch5-e1">(*1)</a>
             </h2>
-            <p id="ch5-e1" type="note">
+            <p id="ch5-e1" class="note">
                 Compare <sCap>Delbrück</sCap>’s monography on the employment of the dative in the Rgvedasanhitâ in Kuhn’s <cite>Zeitschr.</cite> XVIII, p.81-106. Monographies on the syntax of the dative in classic Sanskrit are not known to me.
             </p>
         </div>
@@ -21,7 +21,7 @@
             <h2>
                 第5章 与格（dative）<a href="ch5-j1">（*1）</a>
             </h2>
-            <p id="ch5-j1" type="note">
+            <p id="ch5-j1" class="note">
                 ṛgveda-sanhitāにおけるdat.の使用に関するDelbrückの研究論文をみよ（Kuhn’s <cite>Zeitschr.</cite> XVIII, p.81-106）。古典サンスクリットにおけるdat.の構文論（syntax）についての論文は、管見では知られない。
             </p>
         </div>
