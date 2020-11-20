@@ -61,6 +61,9 @@
     <?php include("sec2/ch10/2/212.html"); ?>
     <?php include("sec2/ch10/2/213.html"); ?>
     <?php include("sec2/ch10/2/214.html"); ?>
+    <?php include("sec2/ch10/2/215.html"); ?>
+    <?php include("sec2/ch10/2/216.html"); ?>
+    <?php include("sec2/ch10/2/217.html"); ?>
 
 </body>
 
