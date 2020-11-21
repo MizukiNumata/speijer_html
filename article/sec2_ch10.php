@@ -69,6 +69,21 @@
     <?php include("sec2/ch10/2/220.html"); ?>
     <?php include("sec2/ch10/2/221.html"); ?>
 
+    <div class="column">
+        <div class="article" lang="en">
+            <h2>
+                3. <sCap>Bahuvrîhi</sCap>.
+            </h2>
+        </div>
+        <div class="article" lang="ja">
+            <h2>
+                3. bahuvrīhi
+            </h2>
+        </div>
+    </div>
+
+    <?php include("sec2/ch10/3/222.html"); ?>
+
 </body>
 
 </html>
