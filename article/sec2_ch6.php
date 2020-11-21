@@ -11,10 +11,10 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                <sCap>Chapter</sCap> VI. Ablative. <a href="ch6-e1">(*1)</a>
+                <scap>Chapter</scap> VI. Ablative. <a href="ch6-e1">(*1)</a>
             </h2>
             <p id="ch6-e1" class="note">
-                Compare <sCap>Delbrück</sCap> <cite>Ablativ, Localis, Instrumentalis</cite>, p. 1-27.
+                Compare <scap>Delbrück</scap> <cite>Ablativ, Localis, Instrumentalis</cite>, p. 1-27.
             </p>
         </div>
         <div class="article" lang="ja">

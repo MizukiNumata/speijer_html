@@ -11,11 +11,11 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                <sCap>Chapter</sCap> VIII. Locative. <a href="#ch8-e1">(*1)</a>
+                <scap>Chapter</scap> VIII. Locative. <a href="#ch8-e1">(*1)</a>
             </h2>
             <p id="ch8-e1" class="note">
                 (*1) <br>
-                See <sCap>Delbrück</sCap> <cite>Ablativ, Localis, Instrumentalis</cite> p. 27-49.
+                See <scap>Delbrück</scap> <cite>Ablativ, Localis, Instrumentalis</cite> p. 27-49.
             </p>
         </div>
         <div class="article" lang="ja">

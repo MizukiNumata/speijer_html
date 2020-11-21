@@ -11,11 +11,11 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                <sCap>Chapter</sCap> VII. Genitive. <a href="#ch7-e1">(*1)</a>
+                <scap>Chapter</scap> VII. Genitive. <a href="#ch7-e1">(*1)</a>
             </h2>
             <p id="ch7-e1" class="note">
                 (*1) <br>
-                On the genitive in Sanskrit, especially in the dialect of the Ṛgvedamantras, there exists a monography of Dr. <sCap>Siecke</sCap> <cite>de genitivo in lingua Sanscritica imprimis Vedica usu</cite>, Berlin, 1869.
+                On the genitive in Sanskrit, especially in the dialect of the Ṛgvedamantras, there exists a monography of Dr. <scap>Siecke</scap> <cite>de genitivo in lingua Sanscritica imprimis Vedica usu</cite>, Berlin, 1869.
             </p>
         </div>
         <div class="article" lang="ja">

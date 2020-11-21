@@ -11,7 +11,7 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                <sCap>Chapter</sCap> X. Compounds.
+                <scap>Chapter</scap> X. Compounds.
             </h2>
         </div>
         <div class="article" lang="ja">
@@ -27,7 +27,7 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                1. <sCap>Dvandva</sCap>.
+                1. <scap>Dvandva</scap>.
             </h2>
         </div>
         <div class="article" lang="ja">
@@ -46,7 +46,7 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                2. <sCap>Tatpurusha</sCap>.
+                2. <scap>Tatpurusha</scap>.
             </h2>
         </div>
         <div class="article" lang="ja">
@@ -72,7 +72,7 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                3. <sCap>Bahuvrîhi</sCap>.
+                3. <scap>Bahuvrîhi</scap>.
             </h2>
         </div>
         <div class="article" lang="ja">

@@ -11,7 +11,7 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                <sCap>Chapter</sCap> IX. Periphrastic expression of case-relations.
+                <scap>Chapter</scap> IX. Periphrastic expression of case-relations.
             </h2>
         </div>
         <div class="article" lang="ja">

@@ -11,7 +11,7 @@
     <div class="column">
         <div class="article" lang="en">
             <h2>
-                <sCap>Chapter</sCap> IV. Instrumental.
+                <scap>Chapter</scap> IV. Instrumental.
             </h2>
         </div>
         <div class="article" lang="ja">
