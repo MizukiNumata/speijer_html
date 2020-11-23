@@ -119,6 +119,9 @@
         </div>
     </div>
 
+    <?php include("sec2/ch10/final/230.html"); ?>
+    <?php include("sec2/ch10/final/231.html"); ?>
+
 </body>
 
 </html>
