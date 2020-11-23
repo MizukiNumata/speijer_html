@@ -106,6 +106,19 @@
     <?php include("sec2/ch10/typical/228.html"); ?>
     <?php include("sec2/ch10/typical/229.html"); ?>
 
+    <div class="column">
+        <div class="article" lang="en">
+            <h2>
+                <scap>Final observations</scap>.
+            </h2>
+        </div>
+        <div class="article" lang="ja">
+            <h2>
+                最終的な所見
+            </h2>
+        </div>
+    </div>
+
 </body>
 
 </html>
