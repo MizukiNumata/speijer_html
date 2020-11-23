@@ -86,6 +86,7 @@
     <?php include("sec2/ch10/3/223.html"); ?>
     <?php include("sec2/ch10/3/224.html"); ?>
     <?php include("sec2/ch10/3/225.html"); ?>
+    <?php include("sec2/ch10/3/225x.html"); ?>
 
 </body>
 
