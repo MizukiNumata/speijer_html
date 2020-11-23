@@ -90,6 +90,21 @@
     <?php include("sec2/ch10/3/226.html"); ?>
     <?php include("sec2/ch10/3/227.html"); ?>
 
+    <div class="column">
+        <div class="article" lang="en">
+            <h2>
+                <scap>Typical compounds</scap>.
+            </h2>
+        </div>
+        <div class="article" lang="ja">
+            <h2>
+                典型的な複合語
+            </h2>
+        </div>
+    </div>
+
+    <?php include("sec2/ch10/typical/228.html"); ?>
+
 </body>
 
 </html>
