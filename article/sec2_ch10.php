@@ -98,7 +98,7 @@
         </div>
         <div class="article" lang="ja">
             <h2>
-                典型的な複合語
+                典型的複合語
             </h2>
         </div>
     </div>
