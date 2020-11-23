@@ -104,6 +104,7 @@
     </div>
 
     <?php include("sec2/ch10/typical/228.html"); ?>
+    <?php include("sec2/ch10/typical/229.html"); ?>
 
 </body>
 
