@@ -37,7 +37,7 @@
     </div>
   </div>
 
-  <?php include("sec3/233.html"); ?>
+  <?php include("sec3/ch1/233.html"); ?>
 
   <div class="column">
     <div class="article" lang="en">
@@ -52,12 +52,12 @@
     </div>
   </div>
 
-  <?php include("sec3/abs/234.html"); ?>
-  <?php include("sec3/abs/235.html"); ?>
-  <?php include("sec3/abs/236.html"); ?>
-  <?php include("sec3/abs/237.html"); ?>
-  <?php include("sec3/abs/238.html"); ?>
-  <?php include("sec3/abs/239.html"); ?>
+  <?php include("sec3/ch1/abs/234.html"); ?>
+  <?php include("sec3/ch1/abs/235.html"); ?>
+  <?php include("sec3/ch1/abs/236.html"); ?>
+  <?php include("sec3/ch1/abs/237.html"); ?>
+  <?php include("sec3/ch1/abs/238.html"); ?>
+  <?php include("sec3/ch1/abs/239.html"); ?>
 
   <div class="column">
     <div class="article" lang="en">
@@ -72,10 +72,10 @@
     </div>
   </div>
 
-  <?php include("sec3/adv/240.html"); ?>
-  <?php include("sec3/adv/241.html"); ?>
-  <?php include("sec3/adv/242.html"); ?>
-  <?php include("sec3/adv/243.html"); ?>
+  <?php include("sec3/ch1/adv/240.html"); ?>
+  <?php include("sec3/ch1/adv/241.html"); ?>
+  <?php include("sec3/ch1/adv/242.html"); ?>
+  <?php include("sec3/ch1/adv/243.html"); ?>
 
   <div class="column">
     <div class="article" lang="en">
@@ -90,18 +90,18 @@
     </div>
   </div>
 
-  <?php include("sec3/degree/244.html"); ?>
-  <?php include("sec3/degree/245.html"); ?>
-  <?php include("sec3/degree/246.html"); ?>
-  <?php include("sec3/degree/247.html"); ?>
-  <?php include("sec3/degree/248.html"); ?>
-  <?php include("sec3/degree/249.html"); ?>
-  <?php include("sec3/degree/250.html"); ?>
-  <?php include("sec3/degree/251.html"); ?>
-  <?php include("sec3/degree/252.html"); ?>
-  <?php include("sec3/degree/253.html"); ?>
-  <?php include("sec3/degree/254.html"); ?>
-  <?php include("sec3/degree/255.html"); ?>
+  <?php include("sec3/ch1/degree/244.html"); ?>
+  <?php include("sec3/ch1/degree/245.html"); ?>
+  <?php include("sec3/ch1/degree/246.html"); ?>
+  <?php include("sec3/ch1/degree/247.html"); ?>
+  <?php include("sec3/ch1/degree/248.html"); ?>
+  <?php include("sec3/ch1/degree/249.html"); ?>
+  <?php include("sec3/ch1/degree/250.html"); ?>
+  <?php include("sec3/ch1/degree/251.html"); ?>
+  <?php include("sec3/ch1/degree/252.html"); ?>
+  <?php include("sec3/ch1/degree/253.html"); ?>
+  <?php include("sec3/ch1/degree/254.html"); ?>
+  <?php include("sec3/ch1/degree/255.html"); ?>
 
 </body>
 
