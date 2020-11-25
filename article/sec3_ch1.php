@@ -39,6 +39,20 @@
 
   <?php include("sec3/233.html"); ?>
 
+  <div class="column">
+    <div class="article" lang="en">
+      <h3>
+        <scap>Abstract nouns</scap>.
+      </h3>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        抽象名詞
+      </h2>
+    </div>
+  </div>
+
+  <?php include("sec3/abs/234.html"); ?>
 
 
 </body>
