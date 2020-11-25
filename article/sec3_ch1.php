@@ -77,6 +77,19 @@
   <?php include("sec3/adv/242.html"); ?>
   <?php include("sec3/adv/243.html"); ?>
 
+  <div class="column">
+    <div class="article" lang="en">
+      <h3>
+        <scap>Degrees of comparison.</scap>.
+      </h3>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        比較級
+      </h2>
+    </div>
+  </div>
+
 </body>
 
 </html>
