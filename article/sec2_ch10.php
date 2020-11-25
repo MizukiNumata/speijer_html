@@ -121,6 +121,7 @@
 
     <?php include("sec2/ch10/final/230.html"); ?>
     <?php include("sec2/ch10/final/231.html"); ?>
+    <?php include("sec2/ch10/final/232.html"); ?>
 
 </body>
 
