@@ -96,6 +96,7 @@
   <?php include("sec3/degree/247.html"); ?>
   <?php include("sec3/degree/248.html"); ?>
   <?php include("sec3/degree/249.html"); ?>
+  <?php include("sec3/degree/250.html"); ?>
 
 </body>
 
