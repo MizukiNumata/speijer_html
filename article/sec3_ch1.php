@@ -59,6 +59,21 @@
   <?php include("sec3/abs/238.html"); ?>
   <?php include("sec3/abs/239.html"); ?>
 
+  <div class="column">
+    <div class="article" lang="en">
+      <h3>
+        <scap>Adverbs</scap>.
+      </h3>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        副詞
+      </h2>
+    </div>
+  </div>
+
+  <?php include("sec3/adv/240.html"); ?>
+
 </body>
 
 </html>
