@@ -90,7 +90,7 @@ div[lang="en"] {
 }
 div[lang="en"] skt {
   font-family: Arial;
-  font-size: 85%;
+  font-size: 90%;
 }
 
 div[lang="ja"] {
@@ -99,7 +99,6 @@ div[lang="ja"] {
 }
 div[lang="ja"] skt {
   font-family: Arial;
-  font-size: 100%;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   hyphens: auto;
@@ -122,8 +121,8 @@ ul {
 
 /*small要素*/
 p[data-fontsize="small"] {
-  font-size: small;
+  font-size: 80%;
 }
 span[data-fontsize="small"] {
-  font-size: small;
+  font-size: 80%;
 }
