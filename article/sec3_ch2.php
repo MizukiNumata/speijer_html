@@ -64,6 +64,7 @@
   </div>
 
   <?php include("sec3/ch2/2/270.html"); ?>
+  <?php include("sec3/ch2/2/271.html"); ?>
 
 </body>
 
