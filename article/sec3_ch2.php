@@ -50,6 +50,21 @@
   <?php include("sec3/ch2/1/268.html"); ?>
   <?php include("sec3/ch2/1/269.html"); ?>
 
+  <div class="column">
+    <div class="article" lang="en">
+      <h3>
+        2. <scap>Demonstratives, relatives, interrogatives</scap>.
+      </h3>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        2. 指示詞・関係詞・疑問詞
+      </h2>
+    </div>
+  </div>
+
+  <?php include("sec3/ch2/2/270.html"); ?>
+
 </body>
 
 </html>
