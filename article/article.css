@@ -119,3 +119,11 @@ table {
 ul {
   line-height: 25px;
 }
+
+/*small要素*/
+p[data-size="small"] {
+  font-size: small;
+}
+span[data-size="small"] {
+  font-size: small;
+}
