@@ -121,9 +121,9 @@ ul {
 }
 
 /*small要素*/
-p[data-size="small"] {
+p[data-fontsize="small"] {
   font-size: small;
 }
-span[data-size="small"] {
+span[data-fontsize="small"] {
   font-size: small;
 }
