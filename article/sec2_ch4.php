@@ -29,24 +29,20 @@
     <?php include("sec2/ch4/062.html"); ?>
     <?php include("sec2/ch4/063.html"); ?>
     <?php include("sec2/ch4/064.html"); ?>
-    <small>
-        <?php include("sec2/ch4/065.html"); ?>
-        <?php include("sec2/ch4/066.html"); ?>
-        <?php include("sec2/ch4/067.html"); ?>
-        <?php include("sec2/ch4/068.html"); ?>
-        <?php include("sec2/ch4/069.html"); ?>
-        <?php include("sec2/ch4/070.html"); ?>
-        <?php include("sec2/ch4/071.html"); ?>
-        <?php include("sec2/ch4/072.html"); ?>
-    </small>
+    <?php include("sec2/ch4/065.html"); ?>
+    <?php include("sec2/ch4/066.html"); ?>
+    <?php include("sec2/ch4/067.html"); ?>
+    <?php include("sec2/ch4/068.html"); ?>
+    <?php include("sec2/ch4/069.html"); ?>
+    <?php include("sec2/ch4/070.html"); ?>
+    <?php include("sec2/ch4/071.html"); ?>
+    <?php include("sec2/ch4/072.html"); ?>
     <?php include("sec2/ch4/073.html"); ?>
     <?php include("sec2/ch4/074.html"); ?>
     <?php include("sec2/ch4/075.html"); ?>
     <?php include("sec2/ch4/076.html"); ?>
     <?php include("sec2/ch4/077.html"); ?>
     <?php include("sec2/ch4/078.html"); ?>
-
-
 
 </body>
 

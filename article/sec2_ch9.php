@@ -61,15 +61,13 @@
         </div>
     </div>
 
-    <small>
-        <?php include("sec2/ch9/1_prepos/a/155.html"); ?>
-        <?php include("sec2/ch9/1_prepos/a/156.html"); ?>
-        <?php include("sec2/ch9/1_prepos/a/157.html"); ?>
-        <?php include("sec2/ch9/1_prepos/a/158.html"); ?>
-        <?php include("sec2/ch9/1_prepos/a/159.html"); ?>
-        <?php include("sec2/ch9/1_prepos/a/160.html"); ?>
-        <?php include("sec2/ch9/1_prepos/a/161.html"); ?>
-    </small>
+    <?php include("sec2/ch9/1_prepos/a/155.html"); ?>
+    <?php include("sec2/ch9/1_prepos/a/156.html"); ?>
+    <?php include("sec2/ch9/1_prepos/a/157.html"); ?>
+    <?php include("sec2/ch9/1_prepos/a/158.html"); ?>
+    <?php include("sec2/ch9/1_prepos/a/159.html"); ?>
+    <?php include("sec2/ch9/1_prepos/a/160.html"); ?>
+    <?php include("sec2/ch9/1_prepos/a/161.html"); ?>
 
     <div class="column" id="ch9-I">
         <div class="article" lang="en">
