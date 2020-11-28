@@ -66,6 +66,17 @@
   <?php include("sec3/ch2/2/270.html"); ?>
   <?php include("sec3/ch2/2/271.html"); ?>
   <?php include("sec3/ch2/2/272.html"); ?>
+  <?php include("sec3/ch2/2/273.html"); ?>
+  <?php include("sec3/ch2/2/274.html"); ?>
+  <?php include("sec3/ch2/2/275.html"); ?>
+  <?php include("sec3/ch2/2/276.html"); ?>
+  <?php include("sec3/ch2/2/277.html"); ?>
+  <?php include("sec3/ch2/2/278.html"); ?>
+  <?php include("sec3/ch2/2/279.html"); ?>
+  <?php include("sec3/ch2/2/280.html"); ?>
+  <?php include("sec3/ch2/2/281.html"); ?>
+  <?php include("sec3/ch2/2/282.html"); ?>
+  <?php include("sec3/ch2/2/283.html"); ?>
 
 </body>
 
