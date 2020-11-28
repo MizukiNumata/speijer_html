@@ -96,6 +96,24 @@
   </div>
 
   <?php include("sec3/ch2/3/288.html"); ?>
+  <?php include("sec3/ch2/3/289.html"); ?>
+  <?php include("sec3/ch2/3/290.html"); ?>
+
+  <div class="column">
+    <div class="article" lang="en">
+      <h3>
+        4. <scap>Pronominal adjectives</scap>.
+      </h3>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        4. 代名詞的形容詞
+      </h2>
+    </div>
+  </div>
+
+  <?php include("sec3/ch2/4/291.html"); ?>
+  <?php include("sec3/ch2/4/292.html"); ?>
 
 </body>
 
