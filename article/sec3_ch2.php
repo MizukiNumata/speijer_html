@@ -77,6 +77,25 @@
   <?php include("sec3/ch2/2/281.html"); ?>
   <?php include("sec3/ch2/2/282.html"); ?>
   <?php include("sec3/ch2/2/283.html"); ?>
+  <?php include("sec3/ch2/2/284.html"); ?>
+  <?php include("sec3/ch2/2/285.html"); ?>
+  <?php include("sec3/ch2/2/286.html"); ?>
+  <?php include("sec3/ch2/2/287.html"); ?>
+
+  <div class="column">
+    <div class="article" lang="en">
+      <h3>
+        3. <scap>Pronominal adverbs</scap>.
+      </h3>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        3. 代名詞的副詞
+      </h2>
+    </div>
+  </div>
+
+  <?php include("sec3/ch2/3/288.html"); ?>
 
 </body>
 
