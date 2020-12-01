@@ -60,6 +60,30 @@
   <?php include("sec4/ch3/past/329.html"); ?>
   <?php include("sec4/ch3/past/330.html"); ?>
   <?php include("sec4/ch3/past/331.html"); ?>
+  <?php include("sec4/ch3/past/332.html"); ?>
+  <?php include("sec4/ch3/past/333.html"); ?>
+  <?php include("sec4/ch3/past/334.html"); ?>
+  <?php include("sec4/ch3/past/335.html"); ?>
+  <?php include("sec4/ch3/past/336.html"); ?>
+  <?php include("sec4/ch3/past/337.html"); ?>
+  <?php include("sec4/ch3/past/338.html"); ?>
+  <?php include("sec4/ch3/past/339.html"); ?>
+
+  <div class="column">
+    <div class="article" lang="en">
+      <h2>
+        <scap>Future tenses</scap>.
+      </h2>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        未来時制
+      </h2>
+    </div>
+  </div>
+
+  <?php include("sec4/ch3/fut/340.html"); ?>
+  <?php include("sec4/ch3/fut/341.html"); ?>
 
 </body>
 
