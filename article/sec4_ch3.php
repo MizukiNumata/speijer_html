@@ -84,6 +84,8 @@
 
   <?php include("sec4/ch3/fut/340.html"); ?>
   <?php include("sec4/ch3/fut/341.html"); ?>
+  <?php include("sec4/ch3/fut/341x.html"); ?>
+  <?php include("sec4/ch3/fut/341xx.html"); ?>
 
 </body>
 
