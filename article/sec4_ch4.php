@@ -44,6 +44,29 @@
   </div>
 
   <?php include("sec4/ch4/ipv/348.html"); ?>
+  <?php include("sec4/ch4/ipv/349.html"); ?>
+  <?php include("sec4/ch4/ipv/350.html"); ?>
+  <?php include("sec4/ch4/ipv/351.html"); ?>
+  <?php include("sec4/ch4/ipv/352.html"); ?>
+  <?php include("sec4/ch4/ipv/353.html"); ?>
+  <?php include("sec4/ch4/ipv/354.html"); ?>
+  <?php include("sec4/ch4/ipv/355.html"); ?>
+  <?php include("sec4/ch4/ipv/356.html"); ?>
+
+  <div class="column">
+    <div class="article" lang="en">
+      <h2>
+        <scap>KṚTYAS</scap>.
+      </h2>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        kṛtya（未来受動分詞）
+      </h2>
+    </div>
+  </div>
+
+  <?php include("sec4/ch4/krtya/357.html"); ?>
 
 </body>
 
