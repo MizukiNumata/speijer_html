@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Sec. 2 Ch. 2.</title>
+    <title>Sec. 2 Ch. 2. - Sanskrit Syntax of J. S. Speijer</title>
     <link rel="stylesheet" type="text/css" href="article.css" />
 </head>
 
