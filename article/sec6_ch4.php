@@ -84,7 +84,7 @@
     </div>
     <div class="article" lang="ja">
       <h2>
-        b.) <skt>yadā</skt>・<skt>yāvat</skt>
+        c.) <skt>yadā</skt>・<skt>yāvat</skt>
       </h2>
     </div>
   </div>
@@ -97,6 +97,23 @@
   <?php include("sec6/ch4/c/479.html"); ?>
   <?php include("sec6/ch4/c/480.html"); ?>
   <?php include("sec6/ch4/c/480x.html"); ?>
+
+  <div class="column">
+    <div class="article" lang="en">
+      <h2>
+        <i>d</i>.) <skt>yadi</skt>.
+      </h2>
+    </div>
+    <div class="article" lang="ja">
+      <h2>
+        d.) <skt>yadi</skt>
+      </h2>
+    </div>
+  </div>
+
+  <?php include("sec6/ch4/d/481.html"); ?>
+  <?php include("sec6/ch4/d/482.html"); ?>
+  <?php include("sec6/ch4/d/483.html"); ?>
 
 </body>
 

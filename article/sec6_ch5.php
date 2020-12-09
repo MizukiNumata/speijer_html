@@ -11,24 +11,23 @@
   <div class="column">
     <div class="article" lang="en">
       <h2>
-        <i>b</i>.) <skt>yathā</skt>.
+        <scap>Chapt</scap>. V. The conditional period.
       </h2>
     </div>
     <div class="article" lang="ja">
       <h2>
-        b.) <skt>yathā</skt>
+        第5章 条件文
       </h2>
     </div>
   </div>
 
-  <?php include("sec6/ch4/a/462.html"); ?>
-  <?php include("sec6/ch4/a/463.html"); ?>
-  <?php include("sec6/ch4/a/464.html"); ?>
-  <?php include("sec6/ch4/a/465.html"); ?>
-  <?php include("sec6/ch4/a/466.html"); ?>
-  <?php include("sec6/ch4/a/467.html"); ?>
-  <?php include("sec6/ch4/a/468.html"); ?>
-  <?php include("sec6/ch4/a/469.html"); ?>
+  <?php include("sec6/ch5/484.html"); ?>
+  <?php include("sec6/ch5/485.html"); ?>
+  <?php include("sec6/ch5/486.html"); ?>
+  <?php include("sec6/ch5/487.html"); ?>
+  <?php include("sec6/ch5/488.html"); ?>
+  <?php include("sec6/ch5/489.html"); ?>
+  <?php include("sec6/ch5/490.html"); ?>
 
 </body>
 
