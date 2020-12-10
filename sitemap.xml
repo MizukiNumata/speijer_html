@@ -5,22 +5,27 @@
 <url>
   <loc>http://osmantus.php.xdomain.jp/</loc>
   <priority>1.0</priority>
-  <lastmod>2020-10-27T02:43:10+09:00</lastmod>
+  <lastmod>2020-12-10T07:13:22+09:00</lastmod>
 </url>
 <url>
   <loc>http://osmantus.php.xdomain.jp/article/999_abbr.html</loc>
   <priority>0.8</priority>
-  <lastmod>2020-10-27T02:10:45+09:00</lastmod>
+  <lastmod>2020-12-06T06:58:35+09:00</lastmod>
+</url>
+<url>
+  <loc>http://osmantus.php.xdomain.jp/article/000_about.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-11-29T17:23:11+09:00</lastmod>
 </url>
 <url>
   <loc>http://osmantus.php.xdomain.jp/article/000_intro.html</loc>
   <priority>0.8</priority>
-  <lastmod>2020-08-13T18:59:08+09:00</lastmod>
+  <lastmod>2020-11-29T17:23:11+09:00</lastmod>
 </url>
 <url>
   <loc>http://osmantus.php.xdomain.jp/article/000_pref.html</loc>
   <priority>0.8</priority>
-  <lastmod>2020-08-13T18:59:08+09:00</lastmod>
+  <lastmod>2020-11-29T17:23:11+09:00</lastmod>
 </url>
 <url>
   <loc>http://osmantus.php.xdomain.jp/article/sec1.php</loc>
@@ -63,8 +68,24 @@
   <priority>0.8</priority>
 </url>
 <url>
-  <loc>http://osmantus.php.xdomain.jp/filelist.html</loc>
-  <priority>0.1</priority>
+  <loc>http://osmantus.php.xdomain.jp/article/sec2_ch10.php</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://osmantus.php.xdomain.jp/article/sec3_ch1.php</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://osmantus.php.xdomain.jp/article/sec3_ch2.php</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://osmantus.php.xdomain.jp/article/sec3_ch3.php</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://osmantus.php.xdomain.jp/article/sec4_ch1.php</loc>
+  <priority>0.8</priority>
 </url>
 
 </urlset>
