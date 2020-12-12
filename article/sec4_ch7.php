@@ -21,17 +21,17 @@
     </div>
   </div>
 
-  <?php include("sec4/ch6/383.html"); ?>
-  <?php include("sec4/ch6/384.html"); ?>
-  <?php include("sec4/ch6/385.html"); ?>
-  <?php include("sec4/ch6/386.html"); ?>
-  <?php include("sec4/ch6/387.html"); ?>
-  <?php include("sec4/ch6/388.html"); ?>
-  <?php include("sec4/ch6/389.html"); ?>
-  <?php include("sec4/ch6/390.html"); ?>
-  <?php include("sec4/ch6/391.html"); ?>
-  <?php include("sec4/ch6/392.html"); ?>
-  <?php include("sec4/ch6/393.html"); ?>
+  <?php include("sec4/ch7/383.html"); ?>
+  <?php include("sec4/ch7/384.html"); ?>
+  <?php include("sec4/ch7/385.html"); ?>
+  <?php include("sec4/ch7/386.html"); ?>
+  <?php include("sec4/ch7/387.html"); ?>
+  <?php include("sec4/ch7/388.html"); ?>
+  <?php include("sec4/ch7/389.html"); ?>
+  <?php include("sec4/ch7/390.html"); ?>
+  <?php include("sec4/ch7/391.html"); ?>
+  <?php include("sec4/ch7/392.html"); ?>
+  <?php include("sec4/ch7/393.html"); ?>
 
 
 </body>
