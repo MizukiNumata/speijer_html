@@ -10,11 +10,11 @@ body {
 /*パラグラフ設定*/
 
 ul {
-  background: #f1eeee;
+  border: double 3px;
 }
 
 ol {
-  background: #f1eeee;
+  border: double 3px;
 }
 
 skt {
