@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 15px;
+  font-family: Times New Roman, Meiryo;
+  text-align: left;
+  background: #ffffff;
+  line-height: 2em;
+}
+
+/*パラグラフ設定*/
+
+ul {
+  background: #f1eeee;
+}
+
+ol {
+  background: #f1eeee;
+}
+
+skt {
+  font-family: Arial;
+}
