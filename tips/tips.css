@@ -17,6 +17,14 @@ ol {
   border: double 3px;
 }
 
+nav {
+  background-color: #f1dec3;
+}
+
 skt {
   font-family: Arial;
+}
+
+div.em {
+  background-color: #f1dec3;
 }
