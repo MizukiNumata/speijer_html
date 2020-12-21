@@ -47,6 +47,9 @@
   <?php include("sec2/ch1/026.html"); ?>
   <?php include("sec2/ch1/027.html"); ?>
   <?php include("sec2/ch1/028.html"); ?>
+  <?php include("sec2/ch1/029.html"); ?>
+  <?php include("sec2/ch1/030.html"); ?>
+
   <hr>
   <div class="column" id="panda">
     <div class="article" lang="en">
