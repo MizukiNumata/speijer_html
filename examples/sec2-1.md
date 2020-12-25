@@ -21,10 +21,15 @@
 
 ###### 19. 実際上 / 文法上の性・数
 
-- Mhbh. 1, 61, 3 śrotuṃ pātraṃ ca rājaṃstvam
-：君は～を聞くにふさわしい男だ
+- Mhbh. 1, 61, 3 śrotuṃ pātraṃ ca rājaṃs tvam
+：王よ、お前は聞くにふさわしい者だ
+śrotuṃ pātraṃ ca rājan tvam
+`śrotuṃ; ind. / pātraṃ; n.sg.acc. "(met.) a capable or competent person, an adept in, master of (gen.), any one worthy of or fit for or abounding in (gen. loc., inf. or comp.)" / ca; / rājan; m.sg.voc. / tvam; sg.nom. /`
 
-- Nala. 6, 11 tataḥ paurajanāḥ sarva mantribhiḥ saha bhārata / rājānaṃ draṣṭum āgacchan
+- Nala. 6, 11 tataḥ paurajanāḥ sarve mantribhiḥ saha bhārata / rājānaṃ draṣṭum āgacchan
+  ：bharataの子らよ、そのとき街人たちは助言者と共に、王を見るためにやって来た
+  tataḥ paurajanāḥ sarve mantribhiḥ saha bhārata / rājānaṃ draṣṭum āgacchan
+  `tataḥ; / paurajanāḥ; m.pl.nom. "townsfolk, citizens" / sarve; m.pl.nom. / mantribhiḥ; m.pl.inst. "a thinker, adviser, counsellor" / saha; / bhārata; m.sg.voc. / rājānaṃ; m.sg.acc. / draṣṭum; √dṛś: Inf. / āgacchan; ā√gam: Impf.sg.3rd. "to come, make one's appearance, come near from (abl.) or to (acc. or loc.), arrive at, attain, reach" /`
 
 ###### 20. 単数（singularis）総説
 
@@ -326,6 +331,6 @@ aśvaḥ śvetas rūpaṃ kṛtvā
 
 ###### 34. 一致しない場合
 
-- R. 2, 115, 15 bharataḥ śirasā kṛtvā saṃnyāsaṃ pāduke (Bh. put on his head the pledge, [namely] the slippers)
+- R. 2, 115, 15 bharataḥ śirasā kṛtvā saṃnyāsaṃ pāduke
 ：bharataは履物という誓約を頭に載せて…
 `bharataḥ; m.sg.nom. / śirasā; n.sg.inst. “the head, leader, chief, foremost, first (of a class)” / kṛtvā; “to place, put, lay, bring, lead, take hold of (acc. or loc. or instr.)” / saṃnyāsaṃ; m.sg.acc. “compact, agreement” / pāduke; f.du.nom.acc. “a shoe or slipper” /`
