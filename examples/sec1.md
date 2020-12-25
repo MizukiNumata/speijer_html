@@ -23,7 +23,7 @@
 - Panc. 26 sa mahātmā vayaṃ kṛpaṇāḥ
   ：彼は高貴で、我らは賤しい。
   sa mahātmā vayaṃ kṛpaṇāḥ
-  `sa; m.sg.nom. / mahātmā; m.sg.nom. “magnanimous, having a great or noble nature, high-minded, noble” / vayaṃ; 2nd.pl.nom. / kṛpaṇāḥ; m.pl.nom. “inclined to grieve, pitiable, miserable, poor, wretched, feeble” /`
+  `sa; m.sg.nom. / mahātmā; m.sg.nom. “magnanimous, having a great or noble nature, high-minded, noble” / vayaṃ; 1st.pl.nom. / kṛpaṇāḥ; m.pl.nom. “inclined to grieve, pitiable, miserable, poor, wretched, feeble” /`
 
 - Nala. 1, 30 tvaṃ cāpi ratnaṃ nārīṇāṃ nareṣu ca nalo varaḥ
   ：あなたが女性にとっての宝石であるように、nala 王は男性の中で最上である。
