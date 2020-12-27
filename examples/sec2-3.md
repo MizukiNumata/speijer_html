@@ -202,14 +202,84 @@
   ：彼は私に利得を要求した
   `sa; / varaṃ; m.sg.acc. "boon, gift, reward, benefit, blessing" / mām; sg.acc. / ayācata; √yāc: Impf.sg.3rd. "to ask, beg, solicit, entreat, require" /`
 
-- Mhbh. 1, 56, 24 suvarṇaṃ rajataṃ gāś ca na tvāṃ rājan vṛṇomy aham (I do not beg gold of you, my king, nor silver, nor cows)
+- Mhbh. 1, 56, 24 suvarṇaṃ rajataṃ gāś ca na tvāṃ rājan vṛṇomy aham
   ：王よ、私は金・銀・牛をあなたに乞わない
   `suvarṇaṃ; m.sg.acc. / rajataṃ; m.sg.acc. "whitish, silver-coloured, silvery; silver, made of silver" / gāś; m.pl.acc. "cow" / ca; / na; / tvāṃ; / rājan; m.sg.voc. / vṛṇomy; √vṛ: Pres.sg.1st. "to ask or request that" / aham; /`
 
-- R. 2, 39, 27 kariṣye sarvam evāham āryā yad anuśāsti (I will do all that, which Mylady enjoins me to do)
+- R. 2, 39, 27 kariṣye sarvam evāham āryā yad anuśāsti mām
+  ：私は、お嬢さんが私に命じたすべてを行いましょう
+  kariṣye sarvam eva aham āryā yad anuśāsti
+  `kariṣye; Fut.sg.1st. / sarvam; m.sg.acc. / eva; / aham; / āryā; f.sg.nom. / yad; / anuśāsti; anu√śās: Pres.sg.3rd. "to rule, govern; to order; to teach, direct, advise, address" / mām; /`
 
 - Mhbh, 3, 59, 5 niṣadhān pratipadyasva jitvā rājyaṃ nalaṃ nṛpam
+  ：Nala王から王国を勝ち取って、〔その〕niṣadha国へ行け
+  `niṣadhān; m.pl.acc. "N. of a people and their country governed by nala" / pratipadyasva; prati√pad: Ipv.sg.2nd. "to set foot upon, enter, go or resort to, arrive at, reach, attain" / jitvā; abs. "to win or acquire (by conquest or in gambling), conquer (in battle), vanquish (in a game or lawsuit), defeat, excel, surpass" / rājyaṃ; mn.sg.acc. "kingly, princely, royal; kingdom, country, realm" / nalaṃ; m.sg.acc. / nṛpam; /`
 
-- Kumâr. 1, 2 bhāsvanti ratnāni mahīṣadhīś ca — duduhur dharitrīm (they milked from the earth resplendent gems and herbs of great medicinal power)
+- Kumâr. 1, 2 bhāsvanti ratnāni mahauṣadhīś ca — duduhur dharitrīm
+  ：彼らは、輝く宝石とよく効く薬草を、大地から得た
+  `bhāsvanti; n.pl.nom.acc. "luminous, splendid, shining" / ratnāni; / mahauṣadhīś; f.pl.acc. "a great or very efficacious medicinal plant" / ca; / duduhur; √duh: Pf.pl.3rd. "draw anything out of another thing" / dharitrīm; f.sg.acc. "the earth" /`
 
-- M. 9, 234 tān sahasraṃ daṇḍyet (he should punish them with a fine of a thousand paṇa)
+- M. 9, 234 tān sahasraṃ daṇḍyet
+  ：彼は彼らに1000〔paṇa〕の罰金を課すべきである
+  `tān; m.pl.acc. / sahasraṃ; m.pl.acc. / daṇḍyet; Opt.sg.3rd. /`
+
+###### 47. 46.の例外
+
+- Priy. p.11 gītanṛtyavādyādiṣu… śikṣayitavyā
+  ：歌唱・舞踊・楽器等…が練習さるべきである
+  gīta-nṛtya-vādya-ādiṣu… śikṣayitavyā
+  `gīta; "song, singing" - nṛtya; "dancing, acting, gesticulation, pantomime" - vādya; "a musical instrument" - ādiṣu; f.pl.loc. / śikṣayitavyā; Caus.Fut.pass.pt. f.sg.nom. "to learn, acquire knowledge, study, practise, learn from; to practise one's self in (loc.)" /`
+
+###### 48. 受動文におけるdouble object
+
+- Panc. 29 prārthito mayā bhavadarthe svāmyabhayapradānam
+  ：私によって、主による安全保障が、あなたのために、願われた
+  prārthitas mayā bhavad-arthe svāmy-abhaya-pradānam
+  `prārthitas; pra√arth: ppp. m.sg.nom. "to wish or long for, desire (acc.); to ask a person (acc.) for (acc. or loc.) or ask anything (acc.) from (abl.)" / mayā; sg.inst. / bhavad; - arthe; m.sg.loc. "substance, wealth, property, opulence, money" / svāmy; "an owner, proprietor, master" - abhayapradānam; m.sg.acc. "giving assurance of safety" /`
+  
+- Kathâs. 27, 142 bāṇena yuddhayogyam ariṃ haro yācitaḥ (Bâṇa has prayed Çiva for a foe, fit to fight with)
+  ：Bāṇaはśiva神に、戦うに足る敵を請うた
+  bāṇena yuddha-yogyam ariṃ haras yācitaḥ
+  `bāṇena; m.sg.inst. / yuddhayogyam; m.sg.acc. "fit for war" / ariṃ; "an enemy" / haras; m.sg.acc. "‘ Seizer ’, ‘ Destroyer ’, N. of śiva" / yācitaḥ; ppp. m.sg.nom. "to ask, beg, solicit, entreat, require, implore" /`
+  
+- R. 2, 97, 15 na hi te niṣṭḥuraṃ vācyo bharato nāpriyaṃ vacaḥ
+  ：実にbharataは、あなたの耳障りで不愉快な話を聞くべきでない
+  na hi te niṣṭḥuraṃ vācyas bharatas na apriyaṃ vacaḥ
+  `na; / hi; / te; 2nd.sg.gen. / niṣṭḥuraṃ; m.sg.acc. "hard, rough, harsh, severe, cruel (said of persons and things, esp. words)" / vācyas; m.sg.nom. "to be spoken or said or told or announced or communicated or stated or named or predicated or enumerated or spoken of" / bharatas; m.sg.nom. / na; / apriyaṃ; m.sg.acc. "disagreeable, disliked; unkind, unfriendly" / vacaḥ; m.sg.nom. "speaking, talking" /`
+
+- Daç. 80 mayā jitaś cāsau ṣoḍaśasahasrāṇi dīnārāṇām
+  ：私はそれから160000の金を勝ち取った
+  mayā jitas ca asau ṣoḍaśasahasrāṇi dīnārāṇām
+  `mayā; inst. / jitas; √ji: ppp. m.sg.nom. "to win anything (acc.) from (acc.), vanquish anyone (acc.) in a game (acc.)" / ca; / asau; m.sg.nom. / ṣoḍaśasahasrāṇi; m.pl.nom.acc. "16 thousand" / dīnārāṇām; m.pl.gen. "a gold coin or a certain weight of gold" /`
+  
+- M. 8, 36 anṛtaṃ tu vadan daṇḍhyaḥ svavittasyāṃśam aṣṭamam (but when bearing false witness, he must be punished with a fine of one eighth of his goods)
+  ：けれども、誤って言われている場合、自分の財産の8分の1を〔罰金として〕罰されるべきである
+  anṛtaṃ tu vadan daṇḍhyaḥ sva-vittasya aṃśam aṣṭamam
+  `anṛtaṃ; m.sg.acc. "not true, false" / tu; / vadan; √vad: Pres.pt. m.sg.nom. "to speak, say, utter, tell, report, speak to, talk with, address" / daṇḍyaḥ; fut.pass.pt. m.sg.nom. "to be punished" / sva-vittasya; m.sg.gen. "acquisition, wealth, property, goods, substance, money, power " / aṃśam; m.sg.acc. "a share, portion, part, party" / aṣṭamam; m.sg.acc. "forming the eighth part of (gen.)" /`
+
+###### 49. 使役文におけるdouble object
+
+- Kathâs. 9, 10 mantrapūtaṃ caruṃ rājñīṃ prāśayan munisattama (the best of ascetics made the queen eat a consecrated porridge)
+
+- Mhbh. 2, 1, 7 na śakṣyāmi kiñcit kārayituṃ tvayā (I shall not be able to get anything done by you)
+
+- Mudr. I, p.43 api kadāciñ candraguptadoṣā atikrāntapārthivaguṇāndhunā smārayanti prakṛtīḥ (do not the vices of Candrag. still remind the people of the former kings?)
+
+- Daç. 144 pitarau tasyā dārikāyā māṃ pāṇim agrāhayetām (my parents allowed me to wed that girl)
+
+- Mhbh. 1, 75, 28 sa ṛṣīn karam adāpayat (he made the holy men pay taxes)
+- R. 2, 55, 17 rāmas tām adhyāropayat plavam (he ordered her to embark)
+
+- ibid. 2, 94, 2 atra dāśarathiś citraṃ citrakūṭam adarśayat / bhāryām
+
+- Daç. 215 jñāpaya māṃ svavārtnām
+
+- Daç. 170 sā tasya sādhoś citravadham ajñena rājñā samādeśayāṃ cakāra (she obtained an order of the king who was unaware [of what had happened before] to put to death this honest man)
+
+- Mudr. I, p. 37 lekhaṃ śakaṭadāsena lekhayitvā (after having got written the letter by Çakatadâsa)
+
+- Panc. 51 rathakāra āpnapuruṣaistaṃ svagṛham ānāyayat (the cartwright let him bring home by friends)
+
+- Kumâras. 6, 52 sa tair ākrāmayām āsa śuddhāntam (he [Himavân] suffered his zenana to be entered by them, that is »he opened his zenana to them”)
+
+- M. 8, 371 tāṃ śvabhiḥ khādayedrājā (her the king should order to be devoured by dogs)
