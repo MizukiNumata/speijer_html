@@ -259,15 +259,27 @@
 
 ###### 49. 使役文におけるdouble object
 
-- Kathâs. 9, 10 mantrapūtaṃ caruṃ rājñīṃ prāśayan munisattama (the best of ascetics made the queen eat a consecrated porridge)
+- Kathâs. 9, 10 mantrapūtaṃ caruṃ rājñīṃ prāśayan munisattamaḥ
+  ：聖者の長は、聖句で清められた粥を王妃に食べさせた
+  mantrapūtaṃ caruṃ rājñīṃ prāśayan muni-sattamaḥ
+  `mantrapūtaṃ; m.sg.acc. "purified by sacred text" / caruṃ; "an oblation (of rice, barley and pulse) boiled with butter and milk for presentation to the gods or manes" / rājñīṃ; f.sg.acc. / prāśayan; Caus.Impf.sg.3rd. "to eat, consume, devour, taste, enjoy" / muni; " a saint, sage, seer, ascetic, monk, devotee, hermit" - sattamaḥ; m.sg.nom. "very good or right, the best, first, chief of" /`
 
-- Mhbh. 2, 1, 7 na śakṣyāmi kiñcit kārayituṃ tvayā (I shall not be able to get anything done by you)
+- Mhbh. 2, 1, 7 na śakṣyāmi kiñcit kārayituṃ tvayā
+  ：私は、あなたによって為さしめられるものは何もできないだろう
+  na śakṣyāmi kiñcit kārayituṃ tvayā
+  `na; / śakṣyāmi; Fut.sg.1st. / kiñcit; / kārayituṃ; Caus.inf. / tvayā; sg.inst. /`
 
-- Mudr. I, p.43 api kadāciñ candraguptadoṣā atikrāntapārthivaguṇāndhunā smārayanti prakṛtīḥ (do not the vices of Candrag. still remind the people of the former kings?)
+- Mudr. I, p.43 api kadāciñ candraguptadoṣā atikrāntapārthivaguṇān adhunā smārayanti prakṛtīḥ (do not the vices of Candrag. still remind the people of the former kings?)
+  ：Candraguptaの欠陥は、民草に〔先代の〕卓越した王の性質の数々を思い出させるだろうか？
+  api kadāciñ candragupta-doṣā atikrānta-pārthiva-guṇān adhunā smārayanti prakṛtīḥ
+  `api; interr. / kadāciñ; / candragupta-doṣā; m.pl.nom. "fault, vice, deficiency, want, inconvenience, disadvantage" / atikrānta; "having passed or transgressed exceeded, surpassed, overcome" - pārthiva; "fit for kings or princes, royal, princely; a lord of the earth, king, prince, warrior" - guṇān; m.pl.acc. "" / adhunā; ind. "at this time, now" / smārayanti; √smṛ: Caus.Pres.pl.3rd. "to remember, recollect, bear in mind, call to mind, think of, be mindful of" / prakṛtīḥ; f.pl.acc. "the subjects of a king, citizens, artisans" /`
 
 - Daç. 144 pitarau tasyā dārikāyā māṃ pāṇim agrāhayetām (my parents allowed me to wed that girl)
+  ：
+  pitarau tasyā dārikāyā māṃ pāṇim agrāhayetām
 
 - Mhbh. 1, 75, 28 sa ṛṣīn karam adāpayat (he made the holy men pay taxes)
+
 - R. 2, 55, 17 rāmas tām adhyāropayat plavam (he ordered her to embark)
 
 - ibid. 2, 94, 2 atra dāśarathiś citraṃ citrakūṭam adarśayat / bhāryām
