@@ -345,16 +345,72 @@
   `viṣakanyayā; f.sg.inst. / rākṣasas; m.sg.nom. / ghātitavān; m.sg.nom. / tapasvinaṃ; m.sg.acc. / parvateśvaram; m.sg.acc. /`
 
 - Mudr. VII, p.222 śakaṭadāsas tapasvī taṃ kapaṭalekhaṃ mayaiva lekhitaḥ
-  ：
+  ：śakaṭadāsaは哀れにも私によって、そのkapaṭa樹の写本に筆写させられた
   śakaṭadāsas tapasvī taṃ kapaṭa-lekhaṃ mayā eva lekhitaḥ
-  `śakaṭadāsas; / tapasvī; m.sg.inst. / taṃ; m.sg.acc. / kapaṭa-lekhaṃ; m.sg.acc. / mayā; / eva; / lekhitaḥ; √likh: Caus.ppp.m.sg.nom. /`
+  `śakaṭadāsas; m.sg.nom. / tapasvī; m.sg.inst. / taṃ; m.sg.acc. / kapaṭa; "N. of a tree" - lekhaṃ; m.sg.acc. "a writing, letter, manuscript, written document of any kind" / mayā; sg.inst. / eva; / lekhitaḥ; √likh: Caus.ppp.m.sg.nom. /`
 
-- Kull. on M. 8, 287 yāvān vyayo bhavati tam asau dāpanīyaḥ (he must be caused to pay as much as has been expended)
+- Kull. on M. 8, 287 yāvān vyayo bhavati tam asau dāpanīyaḥ
+  ：彼は損失と同じ程度それに払わされるようにされるべきである
+  yāvān vyayas bhavati tam asau dāpanīyaḥ
+  `yāvān; m.sg.nom. / vyayas; m.sg.nom. "cost, sacrifice of (gen. or comp.; vyayena, ifc. = ‘at the cost of’)" / bhavati; Pres.sg.3rd. / tam; m.sg.acc / asau; m.sg.nom. / dāpanīyaḥ; m.sg.nom. "to be made to give or pay" /`
 
-- Daç. 164 ahañ ca kośadāsena snānabhojanādikam anubhāvito ‘smi (Koçadâsa made me enjoy a bath, food etc.)
+- Daç. 164 ahañ ca kośadāsena snānabhojanādikam anubhāvito ‘smi
+  ：そして、私はkośadāsaによって、沐浴や飲食などを楽しまされた
+  aham ca kośadāsena snāna-bhojana-ādikam anubhāvitas asmi
+  `aham; / ca; / kośadāsena; m.sg.inst. "‘treasure-slave’, N. of a man" / snāna; "bathing, washing, ablution, religious or ceremonial lustration" - bhojana; "the act of eating" - ādikam; m.sg.acc. / anubhāvitas; Caus.ppp.m.sg.nom. "(anubhUta: to experience, to attempt)" / asmi; Pres.sg.1st. /`
 
-- Hitop. 96 tatas tena [sc. śaśena] sa yūthapatiḥ praṇāmaṃ kāritaḥ (then he [the hare] commanded the chief elephant to make his prostration)
+- Hitop. 96 tatas tena [sc. śaśena] sa yūthapatiḥ praṇāmaṃ kāritaḥ
+  ：そこで、彼の象軍の長は、彼によって疲労させられた
+  `tatas; / tena; / sa; / yūthapatiḥ; m.sg.nom. "the lord or leader of a herd or band or troop (especially the chief elephant of a herd)" / praṇāmaṃ; "bending, bowing, a bow, respectful salutation, prostration, obeisance (esp. to a Brahman or to a deity" / kāritaḥ; Caus.ppp.m.sg.nom. /`
 
-- R. 2, 62, l rājā rāmamātrā śrāvitaḥ paruṣaṃ vākyam
+- R. 2, 62, 1 rājā rāmamātrā śrāvitaḥ paruṣaṃ vākyam
+  ：王はrāmaの母によって罵詈雑言を聞かされた
+  rājā rāma-mātrā śrāvitaḥ paruṣaṃ vākyam
+  `rājā; m.sg.nom. / rāma-mātrā; m.sg.inst. "a mother, any mother" / śrāvitaḥ; √śru: Caus.ppp.m.sg.nom. "caused to be heard, announced, proclaimed, communicated" / paruṣaṃ; n.sg.nom.acc. "harsh and contumelious speech, abuse" / vākyam; n.sg.nom.acc. "speech, saying, assertion, statement, command, words" /`
 
-- Mâlav. I, p.15 atha āvaśyam eva mādhavaseno mayā pūjyena mocayitavyaḥ (v. a. His Majesty, indeed, has it in his own power to make me release Madhayasena)
+- Mâlav. I, p.15 athāvaśyam eva mādhavaseno mayā pūjyena mocayitavyaḥ (v. a. His Majesty, indeed, has it in his own power to make me release Madhayasena)
+  ：そこで実にmādhavasenaは、大人（たいじん）により、私を用いて開放せしめるべきである：実に大人（たいじん）は、私にmādhavasenaを開放させるべきである
+  atha avaśyam eva mādhavasenas mayā pūjyena mocayitavyaḥ
+  `atha; / avaśyam eva; "most surely" / mādhavasenas; m.sg.nom. / mayā; sg.inst. / pūjyena; m.sg.inst. "an honourable man; a father-in-law" / mocayitavyaḥ; √muc: Caus.Fut.pass.pt.m.sg.nom. " to cause to loose or let go or give up or discharge or shed (with two acc.)" /`
+
+###### 52. 名詞に係るacc.
+
+- M. 1, 8 sisṛkṣur vividhāḥ prajāḥ
+  ：種々の生物を作ろうと欲する
+  `sisṛkṣur; √sṛj: Des.+kRt[u]: m.sg.nom. "wishing to let flow or emit; wishing or purposing to create" / vividhāḥ; f.pl.nom.acc. "of various sorts, manifold, divers" / prajāḥ; f.pl.nom.acc. "a creature, animal, man, mankind" /`
+
+- Mhbh. 1, 167, 48 sarvayoṣidvarā kṛṣṇā ninīṣuḥ kṣatriyān kṣayam
+  ：すべての女性たちに優るkṛṣṇāは、kṣatriyaたちを破滅に導くことを望む
+  sarvayoṣid-varā kṛṣṇā ninīṣuḥ kṣatriyān kṣayam
+  `sarvayoṣid; "all women" - varā; f.sg.nom. "choosing; better, preferable, better than (abl., rarely gen.) or among (abl.)" / kṛṣṇā; f.sg.nom. / ninīṣuḥ; √nī: Des.+kRt[u]: m.sg.nom. "to take or carry or bring or lead to" / kṣatriyān; m.pl.acc. / kṣayam; m.sg.acc. "loss, waste, wane, diminution, destruction, decay, wasting or wearing away (often ifc.)" /`
+
+- Daç. 25 teṣāṃ bhāṣaṇapāruṣyam asahiṣṇur aham
+  ：それらの言葉の耳障りなることに、私は耐えられない
+  teṣāṃ bhāṣaṇa-pāruṣyam asahiṣṇur aham
+  `teṣāṃ; m.pl.gen. / bhāṣaṇa; "the act of speaking, talking, speech, talk" - pāruṣyam;  "harshness (esp. of language), reproach, insult (also pl.)" / asahiṣṇur; √sah: m.sg.nom. "unable to endure (with acc. loc. or ifc.)" / aham; /`
+
+- Kâç. on P. 2, 3, 70 kaṭaṃ kārako vrajati
+  ：彼は敷物を作りに行く
+  kaṭaṃ kārakas vrajati
+  `kaṭaṃ; m.sg.acc. / kārakas; m.sg.nom. "making, doing, acting, who or what does or produces or creates" / vrajati; √vraj: Pres.sg.3rd. "to go, walk, proceed, travel, wander, move" /`
+
+- Taitt. S. 6, 1, 6, 6 kāmukā enaṃ striyo bhavanti ya evaṃ veda
+  ：
+  kāmukāḥ enaṃ striyas bhavanti yaḥ evaṃ veda
+  `kāmukāḥ; m.pl.nom. "wishing for, desiring, longing after (in comp.)" / enaṃ; m.sg.acc. / striyas; f.pl.nom.acc. / bhavanti; Pres.pl.3rd. / yaḥ; m.sg.nom. / evaṃ; / veda; √vid: Pf.sg.3rd. /`
+
+- Ch. Up. 5, 2, 2 lambhuko ha vāso bhavati (surely, he obtains a dress)
+
+- Mhbh. 1, 63, 4 indratvam arho rājāyaṃ tapasā (this king is by his penance worth of Indra’s rank)
+
+- R. 1 , 53, 12 na parityāgamarheyaṃ matsakāśāt (she is not worth being given up by me)
+
+- Rgv. 6, 23, 4 babhrir vajraṃ papiḥ somaṃ dadirgāḥ
+
+- Mhbh. 1, 113, 21 jigīṣayā mahīṃ pāṇḍur nirakrāmat purāt (by his desire to conquer the earth…) （動作名詞に係るacc.）
+
+- ibid. 1, 167, 3 droṇaṃ praticikīrṣayā (by his wish to retaliate Drona)
+
+- R. 3, 10, 15 tadardyamānān rakṣābhir daṇḍakāraṇyavāsibhiḥ / rakṣakas tvaṃ
+
+- Priyad. 39 upaviśatv arheyam ardhāsanasya (let her sit down, she is worth half of my seat)
