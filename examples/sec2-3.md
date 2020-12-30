@@ -288,7 +288,7 @@
   ：彼は聖仙に税金を払わせた
   `sa; m.sg.nom. / ṛṣīn; m.pl.acc. / karam; m.sg.acc. "royal revenue, toll, tax, tribute, duty" / adāpayat; √dā: Caus.Impf.sg.3rd. "" /`
 
-- R. 2, 55, 17 rāmas tām adhyāropayat plavam (he ordered her to embark)
+- R. 2, 55, 17 rāmas tām adhyāropayat plavam
   ：rāmaは彼女を船に上がらせた
   `rāmas; m.sg.nom. / tām; f.sg.acc. / adhyāropayat; adhyā√ruh: Caus.Impf.sg.3rd. "to ascend up on high, mount" / plavam; m.sg.acc. "a float, raft, boat, small ship" /`
 
@@ -300,15 +300,61 @@
   ：私にあなたの体調を教えなさい
   `jñāpaya; Caus.Ipv.sg.2nd. / māṃ; sg.acc. / svavārttām; m.sg.acc. "one's own condition or welfare" /`
 
-- Daç. 170 sā tasya sādhoś citravadham ajñena rājñā samādeśayāṃ cakāra (she obtained an order of the king who was unaware [of what had happened before] to put to death this honest man)
-  ：
+- Daç. 170 sā tasya sādhoś citravadham ajñena rājñā samādeśayāṃ cakāra
+  ：彼女は、その誠実な男を殺すよう無知なる王によって命令された
   sā tasya sādhos citra-vadham ajñena rājñā samādeśayāṃ 
-  `sā; f.sg.nom. / tasya; m.sg.gen. / sādhos; m.sg.abl. "" / citra-vadham; / ajñena; / rājñā; / samādeśayāṃ; / cakāra; /`
+  `sā; f.sg.nom. / tasya; m.sg.gen. / sādhos; m.sg.abl. "a good or virtuous or honest man" / citra-vadham; "the act of striking or killing, slaughter, murder, death, destruction" / ajñena; m.sg.inst. "knowing, familiar with" / rājñā; m.sg.inst. / samādeśayāṃ; "Caus. -deśayati, to order, command" -(Caus.Periph.Pf.)- cakāra; Pf.sg.3rd. /`
 
-- Mudr. I, p. 37 lekhaṃ śakaṭadāsena lekhayitvā (after having got written the letter by Çakatadâsa)
+- Mudr. I, p. 37 lekhaṃ śakaṭadāsena lekhayitvā
+  ：śakaṭadāsaによって文字を書かせて…
+  `lekhaṃ; "a writing, letter, manuscript, written document of any kind" / śakaṭadāsena; m.sg.inst. "N. of a man" / lekhayitvā; √likh: Caus.abs. /`
 
-- Panc. 51 rathakāra āpnapuruṣaistaṃ svagṛham ānāyayat (the cartwright let him bring home by friends)
+- Panc. 51 rathakāra āptapuruṣais taṃ svagṛham ānāyayat
+  ：車大工は、友人によって家に帰らされた
+  rathakāras āpta-puruṣais taṃ svagṛham ānāyayat
+  `rathakāras; m.sg.nom. "a chariots-maker, carriage-builder, wheelwright, carpenter" / āpta; "a friend" - puruṣais; m.pl.inst. / taṃ; m.sg.inst. / svagṛham; m.sg.acc. / ānāyayat; ā√nī: Caus.Impf.sg.3rd. "to cause to be brought or fetched or led near" /`
 
-- Kumâras. 6, 52 sa tair ākrāmayām āsa śuddhāntam (he [Himavân] suffered his zenana to be entered by them, that is »he opened his zenana to them”)
+- Kumâras. 6, 52 sa tair ākrāmayām āsa śuddhāntam
+  ：彼は彼らによって庵へと導かれた
+  `sa; / tair; m.pl.inst. / ākrāmayām; "to step or go near to, come towards, approach, visit" -(Caus.Periph.Pf.)- āsa; sg.3rd. / śuddhāntam; "‘sacred interior’, the private or women's apartments (esp. in the palace of a king; pl. a king's wives and concubines)" /`
 
-- M. 8, 371 tāṃ śvabhiḥ khādayedrājā (her the king should order to be devoured by dogs)
+- M. 8, 371 tāṃ śvabhiḥ khādayed rājā
+  ：王は犬に彼女を噛ませるべきである
+  `tāṃ; f.sg.acc. / śvabhiḥ; m.pl.inst. "a dog, hound, cur" / khādayet; √khād: Caus.Opt.sg.3rd. "to chew, bite, eat, devour, feed, prey upon" / rājā; /`
+
+###### 50. 受動文の2形式
+
+- Mudr. V, p.172 paridhāpitā vayam ābharaṇaṃ kumāreṇa
+  ：私たちは王子によって装飾品で包まされた
+  paridhāpitāḥ vayam ābharaṇaṃ kumāreṇa
+  `paridhāpitā; pari√dhā: Caus.ppp.m.pl.nom. "to cause a person to wrap round or put on (2 acc.)" / vayam; 1st.pl.nom. / ābharaṇaṃ; m.sg.acc. "ornament, decoration (as jewels etc.)" / kumāreṇa; m.sg.inst. /`
+
+- kumāra asmān ābharaṇaṃ paridhāpitavān
+  ：王子は私たちを装飾品で包ませた
+  kumāraḥ asmān ābharaṇaṃ paridhāpitavān
+  `kumāraḥ; / asmān; pl.acc. / ābharaṇaṃ; m.sg.acc. / paridhāpitavān; Caus.pap.m.sg.nom. /`
+
+- Mudr, I, p. 22 viṣakanyayā rākṣasena ghātitas tapasvī parvateśvaraḥ
+  ：哀れなるparvateśvaraは、rākṣasaにより、viṣakanyāで以て、殺された
+  viṣakanyayā rākṣasena ghātitas tapasvī parvateśvaraḥ
+  `viṣakanyayā; f.sg.inst. "a girl supposed to cause the death of a man who has had intercourse with her" / rākṣasena; m.sg.inst. / ghātitas; √han: Caus.ppp.(ghātayati).m.sg.nom. "kill" / tapasvī; m.sg.inst. "distressed, wretched, poor, miserable" / parvateśvaraḥ; m.sg.nom. "N. of a man" /`
+
+- viṣakanyayā rākṣaso ghātitavān tapasvinaṃ parvatevaram
+  ：rākṣasaは、哀れなるparvateśvaraを、viṣakanyāで以て殺させた
+  viṣakanyayā rākṣasas ghātitavān tapasvinaṃ parvateśvaram
+  `viṣakanyayā; f.sg.inst. / rākṣasas; m.sg.nom. / ghātitavān; m.sg.nom. / tapasvinaṃ; m.sg.acc. / parvateśvaram; m.sg.acc. /`
+
+- Mudr. VII, p.222 śakaṭadāsas tapasvī taṃ kapaṭalekhaṃ mayaiva lekhitaḥ
+  ：
+  śakaṭadāsas tapasvī taṃ kapaṭa-lekhaṃ mayā eva lekhitaḥ
+  `śakaṭadāsas; / tapasvī; m.sg.inst. / taṃ; m.sg.acc. / kapaṭa-lekhaṃ; m.sg.acc. / mayā; / eva; / lekhitaḥ; √likh: Caus.ppp.m.sg.nom. /`
+
+- Kull. on M. 8, 287 yāvān vyayo bhavati tam asau dāpanīyaḥ (he must be caused to pay as much as has been expended)
+
+- Daç. 164 ahañ ca kośadāsena snānabhojanādikam anubhāvito ‘smi (Koçadâsa made me enjoy a bath, food etc.)
+
+- Hitop. 96 tatas tena [sc. śaśena] sa yūthapatiḥ praṇāmaṃ kāritaḥ (then he [the hare] commanded the chief elephant to make his prostration)
+
+- R. 2, 62, l rājā rāmamātrā śrāvitaḥ paruṣaṃ vākyam
+
+- Mâlav. I, p.15 atha āvaśyam eva mādhavaseno mayā pūjyena mocayitavyaḥ (v. a. His Majesty, indeed, has it in his own power to make me release Madhayasena)
