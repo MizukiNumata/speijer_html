@@ -395,11 +395,13 @@
   `kaṭaṃ; m.sg.acc. / kārakas; m.sg.nom. "making, doing, acting, who or what does or produces or creates" / vrajati; √vraj: Pres.sg.3rd. "to go, walk, proceed, travel, wander, move" /`
 
 - Taitt. S. 6, 1, 6, 6 kāmukā enaṃ striyo bhavanti ya evaṃ veda
-  ：
+  ：そのように知るところの女性は、彼に夢中になっている
   kāmukāḥ enaṃ striyas bhavanti yaḥ evaṃ veda
-  `kāmukāḥ; m.pl.nom. "wishing for, desiring, longing after (in comp.)" / enaṃ; m.sg.acc. / striyas; f.pl.nom.acc. / bhavanti; Pres.pl.3rd. / yaḥ; m.sg.nom. / evaṃ; / veda; √vid: Pf.sg.3rd. /`
+  `kāmukāḥ; m.pl.nom. "loving, enamoured or in love with (acc.)" / enaṃ; m.sg.acc. / striyas; f.pl.nom.acc. / bhavanti; Pres.pl.3rd. / yaḥ; m.sg.nom. / evaṃ; / veda; √vid: Pf.sg.3rd. /`
 
 - Ch. Up. 5, 2, 2 lambhuko ha vāso bhavati (surely, he obtains a dress)
+  ：
+  lambhukas ha vāsas bhavati
 
 - Mhbh. 1, 63, 4 indratvam arho rājāyaṃ tapasā (this king is by his penance worth of Indra’s rank)
 
