@@ -414,14 +414,25 @@
   na parityāgam arhā iyaṃ mat sakāśāt
   `na; / parityāgam; m.sg.acc. "separation from (sakāśāt)" / arhā; f.sg.nom. / iyaṃ; f.sg.nom. / mat; 1st.sg.abl. / sakāśāt; "presence, propinquity, vicinity, nearness" /`
 
-- Rgv. 6, 23, 4 babhrir vajraṃ papiḥ somaṃ dadirgāḥ
-  ：
-  `babhrir; m.sg.nom. "tragend, nehmend" / vajraṃ; m.sg.acc. / papiḥ; / somaṃ; m.sg.acc. / dadirgāḥ; /`
+- Rgv. 6, 23, 4 babhrir vajraṃ papiḥ somaṃ dadir gāḥ
+  ：vajraを運び、somaを飲み、牛を授ける
+  `babhrir; √bhṛ + i (reduplicated): m.sg.nom. "tragend, nehmend" / vajraṃ; m.sg.acc. / papiḥ; √pā + i (reduplicated): m.sg.nom. "drinking (with acc.)" / somaṃ; m.sg.acc. / dadir; √dā + i (reduplicated): / gāḥ; m.pl.acc. /`
 
-- Mhbh. 1, 113, 21 jigīṣayā mahīṃ pāṇḍur nirakrāmat purāt (by his desire to conquer the earth…) （動作名詞に係る acc.）
+- Mhbh. 1, 113, 21 jigīṣayā mahīṃ pāṇḍur nirakrāmat purāt
+  ：地球を征することの欲によって、pāṇḍuは街から出た
+  `jigīṣayā; f.sg.inst. "desire of conquering or being victorious, military ambition" / mahīṃ; f.sg.acc. "earth (as a substance)" / pāṇḍur; m.sg.nom. "" / nirakrāmat; niḥ√kram: Impf.sg.3rd. "to go out, come forth, go or come from (abl., rarely gen.), depart" / purāt; m.sg.abl. /`
 
-- ibid. 1, 167, 3 droṇaṃ praticikīrṣayā (by his wish to retaliate Drona)
+- ibid. 1, 167, 3 droṇaṃ praticikīrṣayā
+  ：droṇaに復讐する願いによって…
+  `droṇaṃ; m.sg.acc. / praticikīrṣayā; f.sg.inst. "wish to requite, desire to be revenged upon (acc. or loc.)" /`
 
-- R. 3, 10, 15 tadardyamānān rakṣābhir daṇḍakāraṇyavāsibhiḥ / rakṣakas tvaṃ
+- R. 3, 10, 15 tad ardyamānān rakṣobhir daṇḍakāraṇyavāsibhiḥ / rakṣakas tvaṃ
+  ：そこで、daṇḍakaの森に住む悪鬼たちによって悩まされている者をあなたは守り…
+  tat ardyamānān rakṣobhir daṇḍakāraṇya-vāsibhiḥ / rakṣakas tvaṃ
+  `tat; / ardyamānān; m.pl.acc. "(Pass. p. fr. Caus.) being distressed or afflicted or troubled" / rakṣobhir; m.pl.inst. "harm, injury, damage; an evil being or demon, a rākṣasa" / daṇḍakāraṇya; "the daṇḍaka forest in the Deccan" -vāsibhiḥ; m.pl.inst. "staying, abiding, dwelling, living, inhabiting" / rakṣakas; m.sg.nom. "guarding, watching, protecting, serving" / tvaṃ; /`
+
 
 - Priyad. 39 upaviśatv arheyam ardhāsanasya (let her sit down, she is worth half of my seat)
+  ：座りなさい。彼女は椅子を半分にするにふさわしい
+  upaviśatu arhā iyam ardhāsanasya
+  `upaviśatu; upa√viś: Ipv.sg.3rd. "to sit near to" / arhā; f.sg.nom. / iyam; f.sg.nom. / ardhāsanasya; n.sg.gen. "half a seat (it is considered a mark of high respect to make room for a guest on one's own seat)" /`
