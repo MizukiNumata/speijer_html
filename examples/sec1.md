@@ -2,21 +2,7 @@
 
 # Sec. 1
 
-- [Sec. 1](#sec-1)
-          - [2. 存在動詞（Verbum substantivum）](#2-存在動詞verbum-substantivum)
-          - [3. 存在動詞としての vidyate、tiṣṭha、vartate、gata](#3-存在動詞としての-vidyatetiṣṭhavartategata)
-          - [5. 名詞述語（noun-predicate）](#5-名詞述語noun-predicate)
-          - [7. 受動態](#7-受動態)
-          - [8. 非人称の受動言](#8-非人称の受動言)
-          - [9. 定動詞の役割を果たす分詞](#9-定動詞の役割を果たす分詞)
-          - [10. 主語の暗示](#10-主語の暗示)
-          - [11. 定動詞のない文章](#11-定動詞のない文章)
-          - [12. 主語（subject）一般](#12-主語subject一般)
-          - [14. サンスクリットの文体の特徴](#14-サンスクリットの文体の特徴)
-          - [15. 語順](#15-語順)
-          - [16. 伝統的な語順](#16-伝統的な語順)
-          - [17. 修飾語](#17-修飾語)
-          - [18. 詩文](#18-詩文)
+- [Sec. 1](#sec-1) - [2. 存在動詞（Verbum substantivum）](#2-存在動詞verbum-substantivum) - [3. 存在動詞としての vidyate、tiṣṭha、vartate、gata](#3-存在動詞としての-vidyatetiṣṭhavartategata) - [5. 名詞述語（noun-predicate）](#5-名詞述語noun-predicate) - [7. 受動態](#7-受動態) - [8. 非人称の受動言](#8-非人称の受動言) - [9. 定動詞の役割を果たす分詞](#9-定動詞の役割を果たす分詞) - [10. 主語の暗示](#10-主語の暗示) - [11. 定動詞のない文章](#11-定動詞のない文章) - [12. 主語（subject）一般](#12-主語subject一般) - [14. サンスクリットの文体の特徴](#14-サンスクリットの文体の特徴) - [15. 語順](#15-語順) - [16. 伝統的な語順](#16-伝統的な語順) - [17. 修飾語](#17-修飾語) - [18. 詩文](#18-詩文)
 
 ###### 2. 存在動詞（Verbum substantivum）
 
@@ -257,7 +243,7 @@ tair vipraiḥ sarva-vastūni vikrīya bahumūlyāni ratnāni krītāni
 tair vānarair vṛkṣam āruhya sarve nīḍā(-o?) bhagnāḥ
 `tair; m.sg.inst. / vānarair; m.sg.inst. “a monkey, ape” / vṛkṣam; m.sg.acc. “a tree” / āruhya; √āruh: abs. “having mounted or ascended” / sarve; m.pl.nom. / nīḍā; m.pl.nom.(?) “any place for settling down, resting-place, abode, (esp.) a bird's nest” / bhagnāḥ; m.pl.nom. “shattered, split, torn, defeated, checked, frustrated, disturbed, disappointed” /`
 
-・Panc. 38 asāraḥ saṃsāro'yaṃ girinadīvegopamaṃ yauvanaṃ tṛṇāgnisamaṃ jīvitaṃ śaradabhracchāyāsadṛśā bhogāḥ svapnasadṛśo mitraputrakalatrabhṛtyavargasambandhaḥ
+・Panc. 38 asāraḥ saṃsāro 'yaṃ girinadīvegopamaṃ yauvanaṃ tṛṇāgnisamaṃ jīvitaṃ śaradabhracchāyāsadṛśā bhogāḥ svapnasadṛśo mitraputrakalatrabhṛtyavargasambandhaḥ
 ：これが価値なき人生である。青春は渓流の高みで〔すぐに流れ去るもの〕、人生とは燎原の火のようなものである。快楽は秋の雲の影のようなものである。友や子供や妻や召使や家族のような関係は、夢のようなものである。
 asāraḥ saṃsāro ayaṃ / girinadī-vega-upamaṃ yauvanaṃ / tṛṇāgni-samaṃ jīvitaṃ / śarad-abhra-cchāyā-sadṛśā bhogāḥ svapna-sadṛśo mitra-putra-kalatra-bhṛtya-varga-sambandhaḥ
 `asāraḥ; m.sg.nom. “sapless, without strength or value, without vigour, spoiled, unfit, unprofitable” / saṃsāro; m.sg.nom. “course, passage, passing through a succession of states, circuit of mundane existence, transmigration, metempsychosis, the world, secular life, worldly illusion” / ayaṃ; idam: m.sg.nom. / girinadī; “a mountain-torrent” + vega; “a stream, flood, current” + upamaṃ; m.sg.acc. “uppermost, highest” / yauvanaṃ; n.sg.nom./acc. “youth, youthfulness, adolescence, puberty, manhood” / tṛṇāgni; “a grass fire (quickly extinguished)” + samaṃ; n.sg.nom./acc. “same, equal, similar, like, equivalent” / jīvitaṃ; n.sg.nom./acc. “a living being, life” / śarad; “the autumnal season” + abhrat; “cloud, thunder-cloud, rainy weather; sky” + chāyā; m.pl.nom. “shade, shadow” + sadṛśā; m.pl.nom. “like, resembling, similar to” / bhogāḥ; m.pl.nom. “enjoyment, eating” / svapna; “dreaming, a dream” + sadṛśo; m.sg.nom. / mitra; + putra; + kalatra; “a wife, consort” + bhṛtya; “a dependent, servant” + varga; “group, company, family, party” + sambandhaḥ; m.sg.nom. “a relation, relative” /`
@@ -362,9 +348,9 @@ bahv ahaṃ carantī
 `bahv; ind. “much, very, abundantly, greatly, in a high degree, frequently, often, mostly” / ahaṃ; 1st.sg.nom. / carantī; √car: f.sg.nom. “to move one's self, go, walk, move, stir, roam about, wander” /`
 
 ・Ait. Br. 1, 30, 9 tasmād (v) asyāgniṃ purastād dharanti [-asya purastād agnim の代わりに]
-：それゆえこれは、火を前に置く。
-tasmād (v) asya-agniṃ purastād dharanti
-`tasmād; m.sg.abl. / asya; + agniṃ; m.sg.acc. / purastād; ind. “before, forward, in or from the front, in the first place, in the beginning” / dharanti; √dhṛ: Pres.sg.3rd. “to hold, bear (also bring forth), carry, maintain, preserve, keep, possess, have, use, employ, practise, undergo; to place or fix in, bestow or confer on (loc.)” /`
+：それゆえこの火を前に置く。
+tasmād (v) asya agniṃ purastād dharanti
+`tasmād; m.sg.abl. / asya; / agniṃ; m.sg.acc. / purastād; ind. “before, forward, in or from the front, in the first place, in the beginning” / dharanti; √dhṛ: Pres.sg.3rd. “to hold, bear (also bring forth), carry, maintain, preserve, keep, possess, have, use, employ, practise, undergo; to place or fix in, bestow or confer on (loc.)” /`
 
 ・ibid. 2, 37, 4 āgneyaṃ hotā ‘‘jyaṃ śaṃsati
 ：祭祀者は溶かしたバターを agni 神のために捧げる
