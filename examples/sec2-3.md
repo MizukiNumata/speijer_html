@@ -440,7 +440,7 @@
 
 - Daç. 199 良き王に対する言 saṃbhāvayitā budhān prabhāvayitā sevakān udbhāvatitā bandhūn nyagbhāvayitā śatrūn (honouring the wide, making his attendants mighty, raising his kinsmen, lowering his foes)
   ：
-  `saṃbhāvayitā; / budhān; / prabhāvayitā; / sevakān; / udbhāvatitā; / bandhūn; / nyagbhāvayitā; / śatrūn; /`
+  `saṃbhāvayitā; Caus.ppp. / budhān; / prabhāvayitā; / sevakān; / udbhāvatitā; / bandhūn; / nyagbhāvayitā; / śatrūn; /`
 
 - Panc. III, 71 narapatir netā prajāḥ (a king, who rules his subjects)
 
@@ -448,4 +448,4 @@
 
 - Āpast. 1, 3, 15
 
-- Daç. 199 parīkṣitā sarvadhyakṣāṇām / sadhyaḥ pratikartā daivamānuṣīṇāmāpadām…manumārgeṇa praṇetā cāturvaparyasya
+- Daç. 199 parīkṣitā sarvadhyakṣāṇām / sadhyaḥ pratikartā daivamānuṣīṇāmāpadām… manumārgeṇa praṇetā cāturvaparyasya
