@@ -13,7 +13,6 @@
     <?php include("sec1/001.html"); ?>
     <?php include("sec1/002.html"); ?>
     <?php include("sec1/003.html"); ?>
-    <?php include("sec1/003.html"); ?>
     <?php include("sec1/004.html"); ?>
     <?php include("sec1/005.html"); ?>
     <?php include("sec1/006.html"); ?>
