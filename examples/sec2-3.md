@@ -438,14 +438,54 @@
 
 ###### 53. 接尾辞-tṛ の acc.
 
-- Daç. 199 良き王に対する言 saṃbhāvayitā budhān prabhāvayitā sevakān udbhāvatitā bandhūn nyagbhāvayitā śatrūn (honouring the wide, making his attendants mighty, raising his kinsmen, lowering his foes)
-  ：
-  `saṃbhāvayitā; Caus.ppp. / budhān; / prabhāvayitā; / sevakān; / udbhāvatitā; / bandhūn; / nyagbhāvayitā; / śatrūn; /`
+- Daç. 199 saṃbhāvayitā budhān prabhāvayitā sevakān udbhāvayitā bandhūn nyagbhāvayitā śatrūn
+  ：智者を敬し、侍従を富ませ、血族を繁栄させ、敵を打ち倒す
+  `saṃbhāvayitā; saṃ√bhū: Caus. + -tṛ, m.sg.nom. "(Caus.) to honour, revere, salute, greet" / budhān; m.pl.acc. "a wise or learned man, sage" / prabhāvayitā; pra√bhū: m.sg.nom. "(Caus.) to increase, spread out, extend, augment, multiply; to provide more amply, endow more richly, cause to thrive or prosper, cherish, nurture" / sevakān; "a servant, attendant, follower" / udbhāvayitā; ud√bhū: m.sg.nom. "to rise, rise against; to shoot forth, increase, grow larger, thrive; (Caus.) to cause to exist, produce; to make apparent, show, explain" / bandhūn; m.pl.acc. "a kinsman" / nyagbhāvayitā; nyak√bhū: m.sg.nom. "To humiliate, subdue, overcome;" / śatrūn; m.pl.acc. /`
 
-- Panc. III, 71 narapatir netā prajāḥ (a king, who rules his subjects)
+- Panc. III, 71 narapatir netā prajāḥ
+  ：領民を統べる王
+  `narapatir; m.sg.nom. / netā; m.sg.nom. "leading, guiding, one who leads or will lead" / prajāḥ; f.pl.acc. "people, subjects (of a prince)" /`
 
-- Kaç. on P. 3, 2, 135 muṇḍapitāraḥ śrāviṣṭḥāyanā bhavanti vadhūmūṭām (the Śrāvishṭhāyanas have the custom to shave the hair of the young-married woman.)
+- Kaç. on P. 3, 2, 135 muṇḍayitāraḥ śrāviṣṭḥāyanā bhavanti vadhūm ūḍhām
+  ：śraviṣṭha の一族は、新婚の女〔の髪〕を剃るのを習慣とする
+  muṇḍayitāraḥ śrāviṣṭḥāyanāḥ bhavanti vadhūm ūḍhām
+  `muṇḍayitāraḥ; m.pl.nom. "[A] to shave" / śrāviṣṭḥāyanāḥ; m.pl.nom. "patr. fr. śraviṣṭha" / bhavanti; / vadhūm; f.sg.acc. "a bride or newly-married woman, young wife spouse any wife or woman" / ūḍhām; f.sg.acc. "a married woman, wife; led home, taken in marriage, married" /`
 
 - Āpast. 1, 3, 15
 
-- Daç. 199 parīkṣitā sarvadhyakṣāṇām / sadhyaḥ pratikartā daivamānuṣīṇāmāpadām… manumārgeṇa praṇetā cāturvaparyasya
+- Daç. 199 parīkṣitā sarvādhyakṣāṇām / sadyaḥ pratikartā daivamānuṣīṇām āpadām… manumārgeṇa praṇetā cāturvarṇyasya
+  ：〔彼は〕十全な監督のために尽力し、日々、神〔の災禍〕と人間の災禍に抗し…manu の道に従って四姓を作る。
+  parīkṣitā sarva-adhyakṣāṇām / sadyaḥ pratikartā daiva-mānuṣīṇām āpadām… manu-mārgeṇa praṇetā cāturvarṇyasya
+  `parīkṣitā; pari√kṣi + tR: m.sg.nom. "to waste away, decay, become exhausted" / sarva; "" - adhyakṣāṇām; m.pl.gen. "exercising supervision " / sadyaḥ; ind. "on the same day, in the very moment; daily, every day" / pratikartā; m.sg.nom. "to counteract, resist (acc. or gen.)" (= pratīkāra-kartā) / daiva; "a woman married according to the daiva rite" - mānuṣīṇām; f.pl.gen. "a woman" / āpadām; f.pl.gen. "misfortune, calamity, distress; through mistake or error, unintentionally" / manu-mārgeṇa; m.sg.inst. / praṇetā; m.sg.nom. "a leader, guide; a maker, creator" / cāturvarṇyasya; m.sg.gen. "the four castes" /`
+  Kale p. 133 'he himself looked after his treasury and conveyances, took great pains to supervise (and appreciate) the work of the heads of the various departments,...'
+  'He at once removed calamities human as well as divine; ... he himself led the four classes according to the path laid down by manu, ...'
+
+- Kâd. I, p.2 kartā mahāś caryāṇām
+  ：
+  `kartā; m.sg.nom. / mahāś; m.pl.nom. / caryāṇām; m.pl.gen. "" /`
+
+###### 54. 空間・時間の acc.
+
+- R. 2, 91, 29 babhūva hi samā bhūmiḥ samantāt pañcayojanam (for the soil became flat over an extent of five yojana’s in every direction)
+  ：
+  babhūva hi samā bhūmiḥ samantāt pañcayojanam
+
+- Mhbh. 1, 153, 40 nigṛhya taṃ… cakarṣa ha tasmād deśād dhanṛṃṣ yaṣṭau (he seized him and dragged him along over a space of eight bow-lengths)
+  ：
+  nigṛhya taṃ… cakarṣa ha tasmād deśād dhanṛṃṣ yaṣṭau
+
+- R. 2, 69, 1 yām eva rātriṃ te dūtāḥ praviśanti sma tāṃ purīm / bharatenāpi tāṃ rātrim svapno dṛṣṭo ‘yam apriyaḥ
+  ：
+  yām eva rātriṃ te dūtāḥ praviśanti sma tāṃ purīm / bharatena api tāṃ rātrim svapno dṛṣṭas ayam apriyaḥ
+
+- Daç. 153 so ‘pi viṭaḥ… tadahareva svagṛhe snānabhojanādi kārayet vottaredhyuḥ
+  ：
+  sas api viṭaḥ… tadahar eva svagṛhe snāna-bhojana-ādi kārayet vā uttaredhyuḥ
+
+- Hitop. p. 51 mayā māsam ekaṃ yāvad gaurīvrataṃ kartavyam (I am bound to perform during a month a vow for Durgâ)
+  ：
+  mayā māsam ekaṃ yāvad gaurīvrataṃ kartavyam
+
+- R. 2, 88, 2 iha tasya mahātmanaḥ śarvarī śayitā bhūmau (= here the noble hero has passed the night on the naked earth) instead of śarvarīṃ śayitam
+  ：
+  iha tasya mahātmanaḥ śarvarī śayitā bhūmau
