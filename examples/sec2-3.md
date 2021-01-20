@@ -466,26 +466,38 @@
 
 ###### 54. 空間・時間の acc.
 
-- R. 2, 91, 29 babhūva hi samā bhūmiḥ samantāt pañcayojanam (for the soil became flat over an extent of five yojana’s in every direction)
-  ：
-  babhūva hi samā bhūmiḥ samantāt pañcayojanam
+- R. 2, 91, 29 babhūva hi samā bhūmiḥ samantāt pañcayojanam
+  ：なぜなら、大地は完全に、5 ヨージャナにわたり平らかになったからである
+  babhūva hi samāḥ bhūmiḥ samantāt pañcayojanam
+  `babhūva; bhū: Pf.sg.3rd. / hi; / samāḥ; f.sg.nom. "same, equal, similar, like, equivalent" / bhūmiḥ; f.sg.nom. "" / samantāt; m.sg.abl. "contiguous, neighbouring, adjacent; universal, whole, entire, all" / pañcayojanam; m.sg.acc. /`
 
-- Mhbh. 1, 153, 40 nigṛhya taṃ… cakarṣa ha tasmād deśād dhanṛṃṣ yaṣṭau (he seized him and dragged him along over a space of eight bow-lengths)
-  ：
-  nigṛhya taṃ… cakarṣa ha tasmād deśād dhanṛṃṣ yaṣṭau
+- Mhbh. 1, 153, 40 nigṛhya taṃ… cakarṣa ha tasmād deśād dhanūṃṣy aṣṭau
+  ：〔…は〕彼を捕まえて、実にそこから 8dhanus 引きずった
+  nigṛhya taṃ… cakarṣa ha tasmād deśād dhanūṃṣy aṣṭau
+  `nigṛhya; ni√grah: abs. "to seize, catch, hold, hold fast, stop, restrain, suppress, curb, tame, punish" / taṃ; m.sg.acc. / cakarṣa; Pf.sg.3rd. "to draw, draw to one's self, drag, pull, drag away, tear" / ha; / tasmād; / deśād; m.sg.abl. / dhanūṃṣy; n.pl.acc. "a bow; a measure of length" / aṣṭau; acc. /`
+
+- Panc. 165 etāvanti dināni tvadīyam āsīt
+  ：長いことそれはあなたのものだった
+  `etāvanti; n.pl.acc. "so great, so much, so many, of such a measure or compass" / dināni; n.pl.acc. "a day" / tvadīyam; n.sg.nom. "thy, your, thine, yours" / āsīt; √as: Impf.sg.3rd.; √ās: aor.sg.3rd. /`
+
+- Daç. 96 bhadrakāḥ pratīkṣyatāṃ kañcit kālam
+  ：皆様方、しばしお待ち下さい
+  bhadrakāḥ pratīkṣyatāṃ kañcit kālam
+  `bhadrakāḥ: m.pl.voc. "m. voc. pl. kāḥ in address" / pratīkṣyatāṃ: prati√īkṣ: Pass.Ipv.sg.3rd. "to look forward to, wait for, expect" / kañcit: / kālam: m.sg.acc. /`
 
 - R. 2, 69, 1 yām eva rātriṃ te dūtāḥ praviśanti sma tāṃ purīm / bharatenāpi tāṃ rātrim svapno dṛṣṭo ‘yam apriyaḥ
-  ：
-  yām eva rātriṃ te dūtāḥ praviśanti sma tāṃ purīm / bharatena api tāṃ rātrim svapno dṛṣṭas ayam apriyaḥ
+  ：その夜に、彼ら伝令はその街に入った。また bharata はその夜、この不快な夢を見た
+  `yām; f.sg.acc. / eva; / rātriṃ; f.sg.acc. (ind. ?) "night" / te; m.pl.nom. / dūtāḥ; "a messenger, envoy, ambassador, negotiator" / praviśanti; Pres.pl.3rd. "to enter, go into, resort to (acc. or loc.)" / sma; / tāṃ; f.sg.acc. / purīm; f.sg.acc. "a rampart, wall, stronghold, fortress, castle, city, town" / bharatena; m.sg.inst. / api; / tāṃ; / rātrim; / svapno; m.sg.nom. "dreaming, a dream" / dṛṣṭo; ppp. m.sg.nom. / ayam; m.sg.nom. / apriyaḥ; m.sg.nom. "disagreeable, disliked" /`
 
-- Daç. 153 so ‘pi viṭaḥ… tadahareva svagṛhe snānabhojanādi kārayet vottaredhyuḥ
-  ：
-  sas api viṭaḥ… tadahar eva svagṛhe snāna-bhojana-ādi kārayet vā uttaredhyuḥ
+- Daç. 153 so ‘pi viṭaḥ… tadahar eva svagṛhe snānabhojanādi kārayitvottaredyuḥ… visṛjya pratyayāsīt
+  ：快楽主義者でもある彼は…まさにその日、自宅で寝食等をさせて、翌日…送り出してから帰った
+  sas api viṭaḥ… tadahar eva svagṛhe snāna-bhojana-ādi kārayitvā uttaredyuḥ… visṛjya pratyayāsīt
+  `sas; / api; / viṭaḥ; m.sg.nom. "a voluptuary, sensualist, bon-vivant, boon-companion, rogue, knave" / tad-ahar; n.sg.acc. "a day" / eva; / svagṛhe; m.sg.loc. "one's own house" / snāna-bhojana-ādi; / kārayitvā; Caus.abs. / uttaredyuḥ; "on a subsequent day, on the day following, to-morrow" / visṛjya; "to send or pour forth, let go or run or flow, discharge, emit, shoot, cast, hurl" / pratyayāsīt; prati√yā: aor.sg.3rd. "to come or go to" /`（省略がおかしい？）
 
-- Hitop. p. 51 mayā māsam ekaṃ yāvad gaurīvrataṃ kartavyam (I am bound to perform during a month a vow for Durgâ)
-  ：
-  mayā māsam ekaṃ yāvad gaurīvrataṃ kartavyam
+- Hitop. p. 51 mayā māsam ekaṃ yāvad gaurīvrataṃ kartavyam
+  ：私は一ヶ月の間、gaurīvrata の儀式を行うべきである
+  `mayā; sg.inst. / māsam; m.sg.acc. "a month or the 12th part of the Hindu year" / ekaṃ; m.sg.acc. / yāvad; / gaurīvrataṃ; "vow of gaurī; a kind of rite in honour of gaurī" / kartavyam; fpp. "" /`
 
 - R. 2, 88, 2 iha tasya mahātmanaḥ śarvarī śayitā bhūmau (= here the noble hero has passed the night on the naked earth) instead of śarvarīṃ śayitam
-  ：
-  iha tasya mahātmanaḥ śarvarī śayitā bhūmau
+  ：ここでその貴人は、地べたに寝た
+  `iha; / tasya; m.sg.gen. / mahātmanaḥ; m.sg.gen. / śarvarī; f.sg.nom. "the (star-spangled) night" / śayitā; "the state of lying or reposing or abiding in (ifc.) " / bhūmau; m.sg.loc. /`
