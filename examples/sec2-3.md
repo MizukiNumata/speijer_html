@@ -438,14 +438,66 @@
 
 ###### 53. 接尾辞-tṛ の acc.
 
-- Daç. 199 良き王に対する言 saṃbhāvayitā budhān prabhāvayitā sevakān udbhāvatitā bandhūn nyagbhāvayitā śatrūn (honouring the wide, making his attendants mighty, raising his kinsmen, lowering his foes)
-  ：
-  `saṃbhāvayitā; Caus.ppp. / budhān; / prabhāvayitā; / sevakān; / udbhāvatitā; / bandhūn; / nyagbhāvayitā; / śatrūn; /`
+- Daç. 199 saṃbhāvayitā budhān prabhāvayitā sevakān udbhāvayitā bandhūn nyagbhāvayitā śatrūn
+  ：智者を敬し、侍従を富ませ、血族を繁栄させ、敵を打ち倒す
+  `saṃbhāvayitā; saṃ√bhū: Caus. + -tṛ, m.sg.nom. "(Caus.) to honour, revere, salute, greet" / budhān; m.pl.acc. "a wise or learned man, sage" / prabhāvayitā; pra√bhū: m.sg.nom. "(Caus.) to increase, spread out, extend, augment, multiply; to provide more amply, endow more richly, cause to thrive or prosper, cherish, nurture" / sevakān; "a servant, attendant, follower" / udbhāvayitā; ud√bhū: m.sg.nom. "to rise, rise against; to shoot forth, increase, grow larger, thrive; (Caus.) to cause to exist, produce; to make apparent, show, explain" / bandhūn; m.pl.acc. "a kinsman" / nyagbhāvayitā; nyak√bhū: m.sg.nom. "To humiliate, subdue, overcome;" / śatrūn; m.pl.acc. /`
 
-- Panc. III, 71 narapatir netā prajāḥ (a king, who rules his subjects)
+- Panc. III, 71 narapatir netā prajāḥ
+  ：領民を統べる王
+  `narapatir; m.sg.nom. / netā; m.sg.nom. "leading, guiding, one who leads or will lead" / prajāḥ; f.pl.acc. "people, subjects (of a prince)" /`
 
-- Kaç. on P. 3, 2, 135 muṇḍapitāraḥ śrāviṣṭḥāyanā bhavanti vadhūmūṭām (the Śrāvishṭhāyanas have the custom to shave the hair of the young-married woman.)
+- Kaç. on P. 3, 2, 135 muṇḍayitāraḥ śrāviṣṭḥāyanā bhavanti vadhūm ūḍhām
+  ：śraviṣṭha の一族は、新婚の女〔の髪〕を剃るのを習慣とする
+  muṇḍayitāraḥ śrāviṣṭḥāyanāḥ bhavanti vadhūm ūḍhām
+  `muṇḍayitāraḥ; m.pl.nom. "[A] to shave" / śrāviṣṭḥāyanāḥ; m.pl.nom. "patr. fr. śraviṣṭha" / bhavanti; / vadhūm; f.sg.acc. "a bride or newly-married woman, young wife spouse any wife or woman" / ūḍhām; f.sg.acc. "a married woman, wife; led home, taken in marriage, married" /`
 
 - Āpast. 1, 3, 15
 
-- Daç. 199 parīkṣitā sarvadhyakṣāṇām / sadhyaḥ pratikartā daivamānuṣīṇāmāpadām… manumārgeṇa praṇetā cāturvaparyasya
+- Daç. 199 parīkṣitā sarvādhyakṣāṇām / sadyaḥ pratikartā daivamānuṣīṇām āpadām… manumārgeṇa praṇetā cāturvarṇyasya
+  ：〔彼は〕十全な監督のために尽力し、日々、神〔の災禍〕と人間の災禍に抗し…manu の道に従って四姓を作る。
+  parīkṣitā sarva-adhyakṣāṇām / sadyaḥ pratikartā daiva-mānuṣīṇām āpadām… manu-mārgeṇa praṇetā cāturvarṇyasya
+  `parīkṣitā; pari√kṣi + tR: m.sg.nom. "to waste away, decay, become exhausted" / sarva; "" - adhyakṣāṇām; m.pl.gen. "exercising supervision " / sadyaḥ; ind. "on the same day, in the very moment; daily, every day" / pratikartā; m.sg.nom. "to counteract, resist (acc. or gen.)" (= pratīkāra-kartā) / daiva; "a woman married according to the daiva rite" - mānuṣīṇām; f.pl.gen. "a woman" / āpadām; f.pl.gen. "misfortune, calamity, distress; through mistake or error, unintentionally" / manu-mārgeṇa; m.sg.inst. / praṇetā; m.sg.nom. "a leader, guide; a maker, creator" / cāturvarṇyasya; m.sg.gen. "the four castes" /`
+  Kale p. 133 'he himself looked after his treasury and conveyances, took great pains to supervise (and appreciate) the work of the heads of the various departments,...'
+  'He at once removed calamities human as well as divine; ... he himself led the four classes according to the path laid down by manu, ...'
+
+- Kâd. I, p.2 kartā mahāś caryāṇām
+  ：
+  `kartā; m.sg.nom. / mahāś; m.pl.nom. / caryāṇām; m.pl.gen. "" /`
+
+###### 54. 空間・時間の acc.
+
+- R. 2, 91, 29 babhūva hi samā bhūmiḥ samantāt pañcayojanam
+  ：なぜなら、大地は完全に、5 ヨージャナにわたり平らかになったからである
+  babhūva hi samāḥ bhūmiḥ samantāt pañcayojanam
+  `babhūva; bhū: Pf.sg.3rd. / hi; / samāḥ; f.sg.nom. "same, equal, similar, like, equivalent" / bhūmiḥ; f.sg.nom. "" / samantāt; m.sg.abl. "contiguous, neighbouring, adjacent; universal, whole, entire, all" / pañcayojanam; m.sg.acc. /`
+
+- Mhbh. 1, 153, 40 nigṛhya taṃ… cakarṣa ha tasmād deśād dhanūṃṣy aṣṭau
+  ：〔…は〕彼を捕まえて、実にそこから 8dhanus 引きずった
+  nigṛhya taṃ… cakarṣa ha tasmād deśād dhanūṃṣy aṣṭau
+  `nigṛhya; ni√grah: abs. "to seize, catch, hold, hold fast, stop, restrain, suppress, curb, tame, punish" / taṃ; m.sg.acc. / cakarṣa; Pf.sg.3rd. "to draw, draw to one's self, drag, pull, drag away, tear" / ha; / tasmād; / deśād; m.sg.abl. / dhanūṃṣy; n.pl.acc. "a bow; a measure of length" / aṣṭau; acc. /`
+
+- Panc. 165 etāvanti dināni tvadīyam āsīt
+  ：長いことそれはあなたのものだった
+  `etāvanti; n.pl.acc. "so great, so much, so many, of such a measure or compass" / dināni; n.pl.acc. "a day" / tvadīyam; n.sg.nom. "thy, your, thine, yours" / āsīt; √as: Impf.sg.3rd.; √ās: aor.sg.3rd. /`
+
+- Daç. 96 bhadrakāḥ pratīkṣyatāṃ kañcit kālam
+  ：皆様方、しばしお待ち下さい
+  bhadrakāḥ pratīkṣyatāṃ kañcit kālam
+  `bhadrakāḥ: m.pl.voc. "m. voc. pl. kāḥ in address" / pratīkṣyatāṃ: prati√īkṣ: Pass.Ipv.sg.3rd. "to look forward to, wait for, expect" / kañcit: / kālam: m.sg.acc. /`
+
+- R. 2, 69, 1 yām eva rātriṃ te dūtāḥ praviśanti sma tāṃ purīm / bharatenāpi tāṃ rātrim svapno dṛṣṭo ‘yam apriyaḥ
+  ：その夜に、彼ら伝令はその街に入った。また bharata はその夜、この不快な夢を見た
+  `yām; f.sg.acc. / eva; / rātriṃ; f.sg.acc. (ind. ?) "night" / te; m.pl.nom. / dūtāḥ; "a messenger, envoy, ambassador, negotiator" / praviśanti; Pres.pl.3rd. "to enter, go into, resort to (acc. or loc.)" / sma; / tāṃ; f.sg.acc. / purīm; f.sg.acc. "a rampart, wall, stronghold, fortress, castle, city, town" / bharatena; m.sg.inst. / api; / tāṃ; / rātrim; / svapno; m.sg.nom. "dreaming, a dream" / dṛṣṭo; ppp. m.sg.nom. / ayam; m.sg.nom. / apriyaḥ; m.sg.nom. "disagreeable, disliked" /`
+
+- Daç. 153 so ‘pi viṭaḥ… tadahar eva svagṛhe snānabhojanādi kārayitvottaredyuḥ… visṛjya pratyayāsīt
+  ：快楽主義者でもある彼は…まさにその日、自宅で寝食等をさせて、翌日…送り出してから帰った
+  sas api viṭaḥ… tadahar eva svagṛhe snāna-bhojana-ādi kārayitvā uttaredyuḥ… visṛjya pratyayāsīt
+  `sas; / api; / viṭaḥ; m.sg.nom. "a voluptuary, sensualist, bon-vivant, boon-companion, rogue, knave" / tad-ahar; n.sg.acc. "a day" / eva; / svagṛhe; m.sg.loc. "one's own house" / snāna-bhojana-ādi; / kārayitvā; Caus.abs. / uttaredyuḥ; "on a subsequent day, on the day following, to-morrow" / visṛjya; "to send or pour forth, let go or run or flow, discharge, emit, shoot, cast, hurl" / pratyayāsīt; prati√yā: aor.sg.3rd. "to come or go to" /`（省略がおかしい？）
+
+- Hitop. p. 51 mayā māsam ekaṃ yāvad gaurīvrataṃ kartavyam
+  ：私は一ヶ月の間、gaurīvrata の儀式を行うべきである
+  `mayā; sg.inst. / māsam; m.sg.acc. "a month or the 12th part of the Hindu year" / ekaṃ; m.sg.acc. / yāvad; / gaurīvrataṃ; "vow of gaurī; a kind of rite in honour of gaurī" / kartavyam; fpp. "" /`
+
+- R. 2, 88, 2 iha tasya mahātmanaḥ śarvarī śayitā bhūmau (= here the noble hero has passed the night on the naked earth) instead of śarvarīṃ śayitam
+  ：ここでその貴人は、地べたに寝た
+  `iha; / tasya; m.sg.gen. / mahātmanaḥ; m.sg.gen. / śarvarī; f.sg.nom. "the (star-spangled) night" / śayitā; "the state of lying or reposing or abiding in (ifc.) " / bhūmau; m.sg.loc. /`
