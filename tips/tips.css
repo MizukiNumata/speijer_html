@@ -28,3 +28,8 @@ skt {
 div.em {
   background-color: #f1dec3;
 }
+
+div {
+  margin: 5px;
+  background-color: #fce8d5;
+}
