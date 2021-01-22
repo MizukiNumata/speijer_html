@@ -498,6 +498,28 @@
   ：私は一ヶ月の間、gaurīvrata の儀式を行うべきである
   `mayā; sg.inst. / māsam; m.sg.acc. "a month or the 12th part of the Hindu year" / ekaṃ; m.sg.acc. / yāvad; / gaurīvrataṃ; "vow of gaurī; a kind of rite in honour of gaurī" / kartavyam; fpp. "" /`
 
-- R. 2, 88, 2 iha tasya mahātmanaḥ śarvarī śayitā bhūmau (= here the noble hero has passed the night on the naked earth) instead of śarvarīṃ śayitam
-  ：ここでその貴人は、地べたに寝た
+- R. 2, 88, 2 iha tasya mahātmanaḥ śarvarī śayitā bhūmau
+  ：ここでその貴人は、地べたに寝て夜を過ごした
   `iha; / tasya; m.sg.gen. / mahātmanaḥ; m.sg.gen. / śarvarī; f.sg.nom. "the (star-spangled) night" / śayitā; "the state of lying or reposing or abiding in (ifc.) " / bhūmau; m.sg.loc. /`
+
+###### 55. 副詞的 acc.
+
+- śīghraṃ gacchati
+  ：彼は速やかに行く
+  `śīghraṃ; n.sg.acc. "quick, speedy, swift, rapid" / gacchati; Pres.sg.3rd. /`
+
+- mṛdu bhāṣate
+  ：彼は柔和に話す
+  `mṛdu; n.sg.acc. "soft, delicate, tender, pliant, mild, gentle" / bhāṣate; A. Pres.sg.3rd. /`
+
+- channaṃ viharati
+  ：彼は密かに気晴らしをする
+  `channaṃ; n.sg.acc. "hidden, unnoticed by (dat.), secret, clandestine, disguised" / viharati; vi√hṛ: Pres.sg.3rd. "to walk or roam about for pleasure, divert one's self" /`
+
+- sabahumānaṃ satkaroti
+  ：彼は丁重にもてなす
+  `sabahumānaṃ; ind. "with great honour or reverence, very respectfully" / satkaroti; sat√kṛ: Pres.sg.3rd. "to set right, put in order, arrange, prepare, adorn, garnish" /`
+
+- Nala. 1, 1 āsīd rājā nalo nāma
+  ：Nala という名の王がいた
+  `āsīd; Impf.sg.3rd. / rājā; m.sg.nom. / nalo; m.sg.nom. / nāma; /`
