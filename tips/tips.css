@@ -33,3 +33,7 @@ div {
   margin: 5px;
   background-color: #fce8d5;
 }
+
+blockquote {
+  border: dotted 1px;
+}
