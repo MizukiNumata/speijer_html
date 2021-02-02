@@ -1,0 +1,109 @@
+@charset "UTF-8";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: #fcfcf8;
+  font-family: Times New Roman, Meiryo;
+  line-height: 2em;
+}
+
+skt {
+  font-family: Arial;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+p,
+pre,
+blockquote,
+dl,
+ul,
+ol,
+form,
+hr,
+table.left {
+  margin: 1em 12.5%;
+}
+
+p {
+  text-indent: 1em;
+}
+
+ol p,
+ul p {
+  margin: 1em 0;
+  color: #000;
+}
+
+h1 {
+  margin: 0;
+  padding: 0.3125em 0.3125em 0.3125em 0.625em;
+  background: #f0f0e8;
+  color: navy;
+}
+
+h2 {
+  font: 150%/1.667 "Times New Roman", Meiryo, serif;
+  color: #630;
+  background: rgb(253, 255, 156);
+  margin: 4em 2em 1em;
+  padding: 0.792em 2.5em;
+  border: double #999;
+  border-width: 3px 0;
+}
+
+h3 {
+  margin: 2em 10% 1em;
+  font-size: 118.75%;
+  font-family: Verdana, sans-serif;
+  color: #070;
+}
+
+h2 + h3 {
+  margin-top: 1em;
+}
+h4,
+h5 {
+  font-family: Arial, "DejaVu Sans", "Linux Biolinum", Meiryo, sans-serif;
+}
+
+h4 {
+  font-size: 125%;
+  margin: 5em 5% 1.75em;
+  padding: 1.125em 2.25em;
+  color: #006;
+  background: #f3f3e8;
+}
+
+h3 + h4 {
+  margin-top: 0;
+}
+
+h5 {
+  font-size: 112.5%;
+  margin: 2.5em 6.25% 1.125em 7.5%;
+  padding: 0.8em 1.75em;
+  color: #280;
+  border: 1px solid #d9d9d9;
+}
+
+h6 {
+  font-weight: 400;
+  font-size: 106.25%;
+  color: #620;
+  margin: 2em 11.5% 0.9em;
+  padding: 0 0 0 1em;
+  border-bottom: 1px dotted #ccc;
+}
+
+.grid {
+  border: double 3px;
+}
+
+blockquote {
+  border: dotted 1px;
+}
