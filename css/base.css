@@ -47,7 +47,7 @@ h1 {
 }
 
 h2 {
-  font: 150%/1.667 "Times New Roman", Meiryo, serif;
+  font: 150%/1.667;
   color: #630;
   background: rgb(253, 255, 156);
   margin: 4em 2em 1em;
@@ -59,16 +59,7 @@ h2 {
 h3 {
   margin: 2em 10% 1em;
   font-size: 118.75%;
-  font-family: Verdana, sans-serif;
   color: #070;
-}
-
-h2 + h3 {
-  margin-top: 1em;
-}
-h4,
-h5 {
-  font-family: Arial, "DejaVu Sans", "Linux Biolinum", Meiryo, sans-serif;
 }
 
 h4 {
