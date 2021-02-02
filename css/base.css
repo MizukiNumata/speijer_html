@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 body {
   margin: 0;
@@ -97,4 +96,8 @@ h6 {
 
 blockquote {
   border: dotted 1px;
+}
+
+em {
+  font-weight: bold;
 }
