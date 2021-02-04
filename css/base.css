@@ -101,3 +101,8 @@ blockquote {
 em {
   font-weight: bold;
 }
+
+.note {
+  border: thin dashed #009933;
+  border-radius: 25px;
+}
