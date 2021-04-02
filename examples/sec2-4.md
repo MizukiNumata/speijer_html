@@ -75,3 +75,80 @@
   ：女友達と共にいる王女
   rājakanyā sakhī-dvitīyā
   `rājakanyā; f.sg.nom. / sakhī; " a female friend or companion, a woman's confidante" - dvitīyā; /`
+
+###### 59. b.) 前置詞を伴わないもの
+
+- Ṛgv. 1, 1, 5 devo devebhir āgamat (may the god come with the gods)
+  ：神が神々を伴って来たらんことを
+  `devo; / devebhir; / āgamat; āgam: subjunctive: /`
+  subjunctive, whitney-557-62;563,587;use574-82
+
+- ibid. 8, 85, 7 marudbhir indra sakhyaṃ te astu
+  ：風と共にあれ、indraよ、かれと友であれ
+  marudbhir indra sakhyaṃ te astu
+  `marudbhir; m.pl.inst. / indra; m.sg.voc. / sakhyaṃ; n.sg.nom.acc. "friendship, intimacy with, relation to (loc. or instr. with and without samam, saha etc.), fellowship, community" / te; m.pl.nom. / astu; as: Ipv.sg.3rd. /`
+  
+- Ait. Br. 1, 6, 3 aśnute prajayā 'nnādyam (he enjoys food with his family)
+  ：彼は家族と食事を楽しむ
+  aśnute prajayā annādyam
+  `aśnute; aś: A.Pres.sg.3rd. "to eat, consume; to enjoy" / prajayā; f.sg.inst. "offspring, children, family, race, posterity, descendants, after-growth (of plants) " / annādyam; "food in general, proper food" /`
+  
+- Ch. Up. 5, 10, 9 ācaraṃs taiḥ (conversing with them)
+  ：彼らとの会話
+  ācaran taiḥ
+  `ācaran; m.sg.nom. "(with or without सह【saha】) to have intercourse with" / taiḥ; m.pl.inst. /`
+
+- R. 2, 27, 15 sāhaṃ tvayā gamiṣyāmi vanam
+  ：それなら私はあなたと森へ行きましょう
+  sāhaṃ tvayā gamiṣyāmi vanam
+  `sāhaṃ; / tvayā; 2nd.sg.inst. / gamiṣyāmi; gam: Fut.sg.3rd. / vanam; n.sg.acc. /`
+  (* 紙面ではgamimaṣyāmi。おそらくmaが2重になった誤植だろう)
+  (GRETILにドンピシャの文はない)
+  (paliだとsAhamと連声しうるが、こっちはするか？epicでは？)
+  (sA aham? TSG. p. 74備考参照)
+  
+- ibid. 2, 68, 2 asau mātulakule… bharato vasati bhrātrā śatrughnena
+  ：あれなるbharataは、śatrughnaを伴って母方の叔父一家に滞在した
+  asau mātula-kule… bharatas vasati bhrātrā śatrughnena
+  `asau; m.sg.nom. "that" / mātula; "a maternal uncle" - kule; m.sg.loc. "a race, family, community, tribe, caste, set, company" / bharatas; / vasati; vas: Pres.sg.3rd. "to dwell, live, stop (at a place), stay" / bhrātrā; m.sg.inst. / śatrughnena; m.sg.inst. "N. of one of rāma-candra's brothers (he was son of sumitrā and twin brother of lakṣmaṇa, and was the chosen companion of bharata, son of kaikeyī, as lakṣmaṇa was of rāma, son of kauśalyā)" /`
+  (yad asau mātulakule pure rājagṛhe sukhī / bharato vasati bhrātrā śatrughnena samanvitaḥ R_2,062.002)
+  
+- Daç. 175 tayāpi navavadhvā dveṣam alpetaraṃ babandha
+  ：彼はその若妻（/ 息子の嫁）に大きな嫌悪感を抱いた
+  tayā api navavadhvā dveṣam alpetaraṃ babandha
+  `tayā; f.sg.inst. / api; / navavadhvā; f.sg.inst. "a bride or newly-married woman, young wife spouse any wife or woman; a daughter-in-law" / dveṣam; m.sg.acc. "hatred, dislike, repugnance" / alpetaraṃ; m.sg.acc. "other than small, large" / babandha; Pf.sg.3rd. "to be affected by i.e. experience, suffer (instr.)" /`
+  
+- ibid. 91 tayā bandhakyā paṇabandham akaravam
+  ：その高級娼婦と私は契約を結んだ
+  tayā bandhakyā paṇabandham akaravam
+  `tayā; / bandhakyā; f.sg.inst. "an unchaste woman, harlot, courtezan" / paṇabandham; m.sg.acc. "making a treaty, making peace; a bet or wager" / akaravam; √kṛ: Impf.sg.1st. /`
+  
+- R. 3, 18, 19 krūrair anāryaiḥ saumitre parihāsaḥ kathañ cana na kāryaḥ
+  ：lakṣmaṇaにあっては、非道にして野蛮なる者たちと、何であれ交歓するべきでない
+  krūrair anāryaiḥ saumitre parihāsaḥ kathañ cana na kāryaḥ
+  `krūrair; m.pl.inst. "wounded, hurt, sore; cruel, fierce, ferocious, pitiless, harsh, formidable" / anāryaiḥ; "not honourable or respectable, vulgar, inferior " / saumitre; "metron. of lakṣmaṇa; friendship" / parihāsaḥ; m.sg.nom. "jesting, joking, laughing at, ridiculing, deriding" / kathañ cana; "in any way, some how; scarcely, with difficulty" / na; / kāryaḥ; /`
+  
+- Panc. V, 62 na tābhir mantrayet sudhīḥ (a wise man does not keep counsel with women)
+  ：賢者は女と議論しない
+  na tābhir mantrayet sudhīḥ
+  `na; / tābhir; f.pl.inst. / mantrayet; mantr: Opt.sg.3rd. "to deliberate, take counsel, consult with (instr. with or without saha) or about (dat.)" / sudhīḥ; m.sg.nom. "a wise or learned man, Pandit, teacher" /`
+  
+- virudhyate śatruṇā
+  ：敵と論争する
+  `virudhyate; virudh: A.Pass.Pres.sg.3rd. "to be opposed, to contend with (instr. with or without saha, gen. loc., or acc. with प्prati)" / śatruṇā; m.sg.inst. /`
+  
+- Mudr. III, p.116 mayā svajīvanamātreṇaiva sthāpitau
+  ：私によって、自分の命だけは保たれた
+  mayā svajīvana-mātreṇa eva sthāpitau
+  `mayā; 1st.sg.inst. / sva-jīvana; "life" -mātreṇa; m.sg.inst. / eva; / sthāpitau; Caus.ppp.m.du.nom.acc. "put aside, kept, stored" /`
+  (*なんでdu.？)
+  
+- Prabodh. V, p.103 acirād asau śarīreṇaiva na bhaviṣyati
+  ：すぐに、そいつはその体を損なうであろう
+  acirād asau śarīreṇa eva na bhaviṣyati
+  `acirād; m.sg.abl. "not of long duration, brief; instantaneous, recent" / asau; m.sg.nom. / śarīreṇa; m.sg.inst. / eva; / na; / bhaviṣyati; Fut.sg.3rd. "to thrive or prosper in (instr.), turn out well, succeed" /
+  
+- Panc. V, 74 meṣeṇa sūpakārāṇāṃ kalahaḥ (the cooks’ quarrel with the ram)
+  ：羊肉についての料理人たちの諍い
+  meṣeṇa sūpa-kārāṇāṃ kalahaḥ
+  `meṣeṇa; m.sg.inst. " a ram, sheep" / sūpa; "sauce, soup, broth; a cook" -kārāṇāṃ; m.pl.gen. "agency, instrumentality, condition" / kalahaḥ; m.sg.nom. "strife, contention, quarrel, fight" /`
