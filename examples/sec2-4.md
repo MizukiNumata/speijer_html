@@ -152,3 +152,101 @@
   ：羊肉についての料理人たちの諍い
   meṣeṇa sūpa-kārāṇāṃ kalahaḥ
   `meṣeṇa; m.sg.inst. " a ram, sheep" / sūpa; "sauce, soup, broth; a cook" -kārāṇāṃ; m.pl.gen. "agency, instrumentality, condition" / kalahaḥ; m.sg.nom. "strife, contention, quarrel, fight" /`
+
+###### 60. inst.を伴う複合語・動詞
+
+- Daç. 79 akṣadhūrtaiḥ samagaṃsi
+  ：私は博打打ちと会った
+  akṣadhūrtaiḥ samagaṃsi
+  `akṣadhūrtaiḥ; "‘dice-rogue’, gambler" / samagaṃsi; s-aor.sg.1st. "coming together, meeting (in a friendly or hostile manner), union, intercourse or association with (instr. with and without saha gen., or comp.)"`
+
+- Hitop. p.16 yasya mitreṇa saṃlāpas tato nāstīha puṇyavān (there is not in this world a man more happy, than he, who has a friend to converse with)
+  ：友と話す者、それよりこの世に幸福な者はいない
+  yasya mitreṇa saṃlāpas tatas na asti iha puṇyavān
+  `yasya; m.sg.gen. / mitreṇa; m.sg.inst. / saṃlāpas; m.sg.nom. "talking together, familiar or friendly conversation, discourse with (instr. with and without saha, or gen.)" / tatas; / na; / asti; / iha; / puṇyavān; m.sg.nom. "righteous, virtuous, honest; auspicious, happy" /`
+
+- Çâk. IV, vs. 12 cūtena saṃśritavatī navamālikā (a jasmine, clinging to a mango-tree)
+  ：マンゴーの木に這うジャスミン
+  cūtena saṃśritavatī navamālikā
+  `cūtena; m.sg.inst. "the mango tree" / saṃśritavatī; f.sg.nom. "one who has joined or united himself with (instr.)" / navamālikā; f.sg.nom. "Jasminum Sambac" /`
+
+- Mṛcch. I, p.34 ratnaṃ ratnena saṃgacchate
+  ：財は財とおのずから結びつくものだ
+  ratnaṃ ratnena saṃgacchate
+  `ratnaṃ; n.sg.nom. / ratnena; n.sg.inst. / saṃgacchate; A.Pres.sg.3rd. /`
+
+- M. 1, 26 dvandvair ayojayac cemāḥ sukhaduḥkhādibhiḥ prajāḥ
+  ：楽・苦等と生物をdvandvaで結合させた
+  dvandvair ayojayat ca imāḥ sukha-duḥkha-ādibhiḥ prajāḥ
+  `dvandvair; m.pl.inst. / ayojayat; yuj: Caus.Impf.sg.3rd. / ca; / imāḥ; f.pl.nom. / sukha-duḥkha-ādibhiḥ; m.pl.inst. / prajāḥ; f.pl.nom.acc. "a creature, animal, man, mankind" /`
+
+- Panc. 274 so 'pi svajātyā militaḥ
+  ：彼もまた自らの親族と混じって…
+  sas api svajātyā militaḥ
+  `sas; m.sg.nom. / api; / svajātyā; "relating or belonging to one's own kind" / militaḥ; m.sg.nom. "(ifc.) connected or combined or mixed or furnished with /`
+
+- Çâk. I, vs. 30 vācaṃ na miśrayati madvacobhiḥ
+  ：その人は、〔その人の〕声を私の声に被せなかった
+  vācaṃ na miśrayati madvacobhiḥ
+  `vācaṃ; f.sg.acc. "speech, voice, talk, language / na; / miśrayati; Den.Pres.sg.3rd. "to mix, mingle, blend, combine (‘with’, instr.)" / mad-vacobhiḥ; m.pl.inst. "speech, voice, word" /`
+
+- Mhbh. I (Paushyap.) śiṣyān kleśena yojayituṃ neyeṣa
+  ：学生に苦痛がもたらされることを彼は望まなかった
+  śiṣyān kleśena yojayituṃ na iyeṣa
+  `śiṣyān; m.pl.acc. / kleśena; m.sg.inst. / yojayituṃ; inf. / na; / iyeṣa; √iṣ: Pf.sg.3rd. "" /`
+
+- Panc. 3 ahaṃ tvāṃ śāsanaśatena yojayiṣyāmi (I will bestow a hundred of grants upon you)
+  ：私はあなたに100の教えを授けよう
+  ahaṃ tvāṃ śāsana-śatena yojayiṣyāmi
+  `ahaṃ; / tvāṃ; 2nd.sg.acc. / śāsana; "teaching, instructing, an instructor" - śatena; m.sg.inst. / yojayiṣyāmi; Caus.Fut.sg.1st. /`
+
+- Pat. on 2.3.22 pitaraṃ (pitrā) saṃjānīte
+  ：彼は父に同意する
+  pitaraṃ (pitrā) saṃjānīte
+  `pitaraṃ; m.sg.acc. / pitrā; m.sg.inst. / saṃjānīte; Pres.sg.3rd. "?" /`
+
+- Pat. on 1.3.55 (I, p. 284) dāsyā saṃprayacchate / vṛṣalyā saṃprayacchate
+  ：
+  dāsyā saṃprayacchate / vṛṣalyā saṃprayacchate
+
+###### 61. 類似や同等などの副詞を伴うinst.やgen
+
+- R. 2, 118, 35 śakreṇa samaḥ (equal to Indra)
+  ：indra神に比肩する者
+  śakreṇa samaḥ
+  `śakreṇa; m.sg.inst. "N. of indra" / samaḥ; m.sg.nom. "same, equal, similar, like, equivalent, like to or identical or homogeneous with" /`
+  
+- Hit. I, 22 paśubhiḥ samānāḥ
+  ：獣のような者ども
+  paśubhiḥ samānāḥ
+  `paśubhiḥ; m.pl.inst. / samānāḥ; m.pl.nom. /`
+  
+- Hit. p.118 anena sadṛśo loke na bhūto na bhaviṣyati
+  ：世において、これと同じようになったことはなくこれからなることもない
+  anena sadṛśo loke na bhūto na bhaviṣyati
+  `anena; m.sg.inst. / sadṛśo; / loke; / na; / bhūto; ppp.m.sg.nom. / na; / bhaviṣyati; Fut.sg.3rd. /`
+  
+- Malav. I, p.21 ayaṃ na me pādarajasāpi tulyaḥ
+  ：彼は私の足についたゴミとは似ても似つかない
+  ayaṃ na me pādarajasā api tulyaḥ
+  `ayaṃ; m.sg.nom. / na; / me; / pādarajasā; n.sg.inst. "the dust of the feet" / api; / tulyaḥ; m.sg.nom. "similar, comparable, like" /`
+  
+- Pat. I, p.327 taiḥ sāmyaṃ gatavān bhavati (he has become their equal)
+  ：彼はそれらと同じになった
+  taiḥ sāmyaṃ gatavān bhavati
+  `taiḥ; m.pl.inst. / sāmyaṃ; n.sg.nom.acc. "likeness, sameness, identity with" / gatavān; m.sg.nom. "obtaining" / bhavati; Pres.sg.3rd. /`
+  
+- Daç. 130 sā 'ham apy ebhir eva suhṛdbhiir ekakarmaḥ (and I having the same business as these friends of mine here)
+  ：それゆえ私も、彼ら友人たちと同じ仕事をしている
+  sā aham apy ebhir eva suhṛḍir ekakarmaḥ
+  `sā; / aham; sg.nom. / apy; / ebhir; m.pl.inst. / eva; / suhṛḍir; inst.? "a friend, ally" / ekakarmaḥ; m.sg.nom. "having one and the same business" /`
+  
+- Mhbh. 1, 139, 16 arjunasya samo loke nāsti kaścid dhanurdharaḥ
+  ：世において、arjunaに並ぶ弓取は誰もいない
+  arjunasya samo loke na asti kaścid dhanurdharaḥ
+  `arjunasya; m.sg.gen. / samo; m.sg.nom. / loke; m.sg.inst. / na; / asti; Pres.sg.3rd. / kaścid; / dhanur-dharaḥ; m.sg.nom. "archer" /`
+  
+- R. 2, 23, 3 babhau kruddhasya siṃhasya mukhasya sadṛśaṃ mukham ([his] face shone like the face of an angry lion)
+  ：彼は怒れる獅子の顔のような顔を見せた
+  babhau kruddhasya siṃhasya mukhasya sadṛśaṃ mukham
+  `babhau; bhA: Pf.sg.3rd. "to show, exhibit, manifest " / kruddhasya; m.sg.gen. "irritated, provoked, angry with" / siṃhasya; m.sg.gen. / mukhasya; m.sg.gen. / sadṛśaṃ; n.sg.nom.acc. / mukham; n.sg.nom.acc. /`
