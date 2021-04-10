@@ -250,3 +250,35 @@
   ：彼は怒れる獅子の顔のような顔を見せた
   babhau kruddhasya siṃhasya mukhasya sadṛśaṃ mukham
   `babhau; bhA: Pf.sg.3rd. "to show, exhibit, manifest " / kruddhasya; m.sg.gen. "irritated, provoked, angry with" / siṃhasya; m.sg.gen. / mukhasya; m.sg.gen. / sadṛśaṃ; n.sg.nom.acc. / mukham; n.sg.nom.acc. /`
+
+###### 62. 分離の語を伴うinst
+
+- Panc. 84 prāṇair na viyuktaḥ
+  ：彼は生命から分かたれていない
+  prāṇair na viyuktaḥ
+  `prāṇair; m.pl.inst. "the breath of life, breath, respiration spirit vitality " / na; / viyuktaḥ; viyuj: ppp.m.sg.nom. "to disjoin, detach, divide, separate from or deprive of (instr., rarely abl.) /`
+
+- Daç. 172 tuṣair akhaṇḍais taṇḍulān pṛthakcakāra
+  ：彼は穀物をすべて脱穀した
+  tuṣair akhaṇḍais taṇḍulān pṛthakcakāra
+  `tuṣair; m.pl.inst. "the chaff of grain or corn or rice etc." / akhaṇḍais; m.pl.inst "not fragmentary, entire, whole" / taṇḍulān; m.pl.acc. "grain (after threshing and winnowing), esp. rice" / pṛthakcakāra; pṛthakkṛ: Pf.sg.3rd. "to make separate, sunder" /`
+
+- Kathâs. 15, 82 sītādevyā rāmo viṣehe virahavyathām (R. forbore the grief caused by his separation from Sîtâ)
+  ：rāmaはsītā王女との別離の苦しみを耐え忍んだ
+  sītā-devyā rāmo viṣehe viraha-vyathām
+  `sītā-devyā; f.sg.inst. "queen, princess lady" / rāmo; m.sg.nom. / viṣehe; vi√sah: A.Pf.sg.3rd. "to endure, suffer, put up with (acc. also with inf.)" / viraha; "abandonment, desertion, parting, separation (esp. of lovers), absence from (instr. or comp.)" -vyathām; f.sg.acc. "agitation, perturbation, alarm, uneasiness, pain, anguish, fear" /`
+
+- R. 2, 96, 27 kaluṣeṇa mahatā medinī parimucyatām (let the earth be freed from a great stain)
+  ：大地から大いなる汚れを取り去ろう
+  kaluṣeṇa mahatā medinī parimucyatām
+  `kaluṣeṇa; m.sg.inst. "turbid, foul, muddy, impure, dirty" / mahatā; m.sg.inst. / medinī; f.sg.nom. "the earth, land, soil, ground" / parimucyatām; Pass.Ipv.sg.3rd. "to let go, give up, part with (acc.)" /`
+
+- Panc. 57 mamānayā saha viyogo bhaviṣyati
+  ：私とあなたの別離があるだろう
+  mama anayā saha viyogo bhaviṣyati
+  `mama; sg.gen. / anayā; m.sg.inst. / saha; / viyogo; m.sg.nom. "disjunction, separation" / bhaviṣyati; Fut.sg.3rd. /`
+
+- M. 2, 79 mahato 'py enaso māsāt tvacevāhir vimucyate
+  ：一月ののちに、大いなる罪過から〔彼は脱し〕、蛇はその皮を脱ぎ去る
+  mahato 'py enaso māsāt tvacā eva ahir vimucyate
+  `mahato; n.sg.abl. / 'py; / enaso; n.sg.gen.abl. "mischief, crime, sin, offence, fault" / māsāt; n.sg.abl. "a month" / tvacā; f.sg.inst. "skin" / eva; / ahir; m.sg.nom. "a snake" / vimucyate; A.Pass.Pres.sg.3rd. "to take off" /`
