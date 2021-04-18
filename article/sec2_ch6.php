@@ -19,7 +19,7 @@
         </div>
         <div class="article" lang="ja">
             <h2>
-                第6章 奪格（dative）<a href="ch6-j1">（*1）</a>
+                第6章 奪格（ablative）<a href="ch6-j1">（*1）</a>
             </h2>
             <p id="ch6-j1" class="note">
                 Delbrück 1867、p. 1-27を参照せよ。
