@@ -282,3 +282,56 @@
   ：一月ののちに、大いなる罪過から〔彼は脱し〕、蛇はその皮を脱ぎ去る
   mahato 'py enaso māsāt tvacā eva ahir vimucyate
   `mahato; n.sg.abl. / 'py; / enaso; n.sg.gen.abl. "mischief, crime, sin, offence, fault" / māsāt; n.sg.abl. "a month" / tvacā; f.sg.inst. "skin" / eva; / ahir; m.sg.nom. "a snake" / vimucyate; A.Pass.Pres.sg.3rd. "to take off" /`
+
+###### 63. 「具」格としてのinst
+
+- dātreṇa lunāti
+  ：彼はナイフで切る
+  dātreṇa lunāti
+  `dātreṇa; n.sg.inst. "a sort of sickle or crooked knife" / lunāti; lū: Pres.sg.3rd. "to cut, sever, divide, pluck, reap, gather" /`
+
+- padbhyāṃ gacchati
+  ：彼は両足で行く
+  padbhyāṃ gacchati
+  `padbhyāṃ; m.du.inst. / gacchati; Pres.sg.3rd. /`
+
+- mayā tatkṛtam
+  ：私によってそれは為された
+  mayā tatkṛtam
+  `mayā; sg.inst. / tatkṛtam; n.sg.nom. /`
+
+- M. 4, 3 akleśena śarīrasya karvīta dhanasaṃcayam
+  ：体の汚れなしに、彼は財を得ねばならない
+  akleśena śarīrasya karvīta dhanasaṃcayam
+  `akleśena; m.sg.inst. / śarīrasya; n.sg.gen. / karvīta; / dhanasaṃcayam; m.sg.acc. "collection of money, riches" /`
+
+- Panc. 129 damanakasācivyena piṅgalako rājyam akarot
+  ：damanakaを大臣として、piṅgalakaは王権を行使した
+  damanaka-sācivyena piṅgalako rājyam akarot
+  `damanaka-sācivyena; "companionship, assistance, (esp.) ministry, ministership, the office of the counsellor or friend of a king" / piṅgalako; m.sg.nom. / rājyam; n.sg.acc. "acc. with kṛ or Caus. of kṛ or with upa-ās or vi-dhā, to exercise government, rule, govern" / akarot; Impf.sg.3rd. /`
+
+- phalenaitaj jñāsyasi
+  ：あなたは結果によってそれを知るであろう
+  phalena etat jñāsyasi
+  `phalena; n.sg.inst. / etat; n.sg.nom.acc. / jñāsyasi; Fut.sg.2nd. /`
+
+- Panc. 158 rūpakaśatena vikrīyamāṇaḥ pustakaḥ
+  ：千ルピーで売られている本
+  rūpaka-śatena vikrīyamāṇaḥ pustakaḥ
+  `rūpaka; "a partic. coin (prob. a rupee)" - śatena; m.sg.inst. / vikrīyamāṇaḥ; Caus.Fut.pass.pt.m.sg.nom. "to buy and sell, barter, trade" / pustakaḥ; m.sg.nom. "a manuscript, book, booklet" /`
+
+- Çâk. III anayā bālapādapavīthyā sutanur aciraṃ gatā (the tender girl has passed a little before along this row of young trees)
+  ：
+  anayā bālapādapa-vīthyā sutanur aciraṃ gatā
+
+- dhanena kuśalaḥ (prosperous by wealth)
+  ：
+
+- vidyayā yaśaḥ (fame by learning)
+  ：
+
+- madājñayāgato ‘sau (that person has arrived by my order)
+  ：
+
+- prītyā dānam (v. a. a present)
+  ：
