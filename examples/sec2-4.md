@@ -41,7 +41,7 @@
 - Panc. V, 66 cāraṇair vandibhir nīcair nāpi tair bālakair api / na mantraṃ matimān kuryāt sārdham
   ：役者、詩人、凡庸な成人男性、子供、彼らによる助言を智者は半分にする（＝話半分に聞く）ものだ
   `cāraṇair; m.pl.inst. "a wandering actor or singer" / vandibhir; m.pl.inst. "a praiser, bard, herald" / nīcair; m.pl.inst. "low, vile, inferior (socially or morally), base, mean (as a man or action or thought)" / nāpi; / tair; m.pl.inst. / bālakair; m.pl.inst. "a child, boy, youth" / api; / na; / mantraṃ; m.sg.nom. "counsel, advice, plan" / matimān; m.sg.nom. "clever, intelligent, wise" / kuryāt; kR: Opt.sg.3rd. / sārdham; ind. "jointly, together, along with, with" /`
-  (引用元ではcāraṇair vandibhir nīcair nāpitair bālakair api / na mantraṃ maitmān kuryāt sārdhaṃ bhikṣubhir eva ca ||Panc_5.64||。「役者、詩人、凡庸な成人男性、子供、僧侶、彼らによる助言を智者は半分にする」)
+  (引用元では cāraṇair vandibhir nīcair nāpitair bālakair api / na mantraṃ maitmān kuryāt sārdhaṃ bhikṣubhir eva ca ||Panc_5.64||。「役者、詩人、凡庸な成人男性、子供、僧侶、彼らによる助言を智者は半分にする」)
 
 - tena saha darśanam (Panc. 137, 13; 178, 1)
   ：彼との謁見・会合
@@ -57,12 +57,12 @@
   `svagṛhaṃ; m.sg.acc. / bhṛtya; "one who is to be maintained, a dependent, servant" - sahitaḥ; / palāyyā; palāy: abs. "to flee, fly, run away, escape, cease, vanish" / eva; / tatas; / yayau; √yā: Pf.sg.3rd. "to go, proceed, move, walk, set out, march, advance, travel, journey" /`
 
 - R. 2, 32, 91 Sītā は祈る：punar eva mahābāhur mayā bhrātrā ca saṃgataḥ（＝彼の兄と私とが共に）ayodhyāṃ vanavāsāt praviśatu
-  ：どうか再び、強き腕力もつ者（＝rāma？）が、私と兄と一緒になって、森住からayodhyāに戻って来んことを
+  ：どうか再び、強き腕力もつ者（＝ rāma？）が、私と兄と一緒になって、森住から ayodhyā に戻って来んことを
   punar eva mahābāhur mayā bhrātrā ca saṃgataḥ ayodhyāṃ vanavāsāt praviśatu
   `punar; ind. "again, once more" / eva; / mahābāhur; m.sg.nom. "long-armed" / mayā; / bhrātrā; "a brother" / ca; / saṃgataḥ; m.sg.nom. "come together, met, encountered, joined, united" / ayodhyāṃ; f.sg.acc. / vanavāsāt; "dwelling or residence in a forest, wandering habits" / praviśatu; Ipv.sg.3rd. "to enter, go into, resort to (acc. or loc.)" /`
 
 - Pat. I, p.426 asidvitīyo ‘nusasāra pāṇḍavam = »alone but for his good sword, he went after the Pâṇḍava.”
-  ：剣を帯びた彼はpāṇḍavaを追った
+  ：剣を帯びた彼は pāṇḍava を追った
   asi-dvitīyas anusasāra pāṇḍavam
   `asi; "a sword, scimitar, knife" - dvitīyas; m.sg.nom. "companion, fellow (friend or foe)" / anusasāra; √sṛ: Pf.sg.3rd. "to pursue" / pāṇḍavam; /`
 
@@ -84,15 +84,13 @@
   subjunctive, whitney-557-62;563,587;use574-82
 
 - ibid. 8, 85, 7 marudbhir indra sakhyaṃ te astu
-  ：風と共にあれ、indraよ、かれと友であれ
+  ：風と共にあれ、indra よ、かれと友であれ
   marudbhir indra sakhyaṃ te astu
   `marudbhir; m.pl.inst. / indra; m.sg.voc. / sakhyaṃ; n.sg.nom.acc. "friendship, intimacy with, relation to (loc. or instr. with and without samam, saha etc.), fellowship, community" / te; m.pl.nom. / astu; as: Ipv.sg.3rd. /`
-  
 - Ait. Br. 1, 6, 3 aśnute prajayā 'nnādyam (he enjoys food with his family)
   ：彼は家族と食事を楽しむ
   aśnute prajayā annādyam
   `aśnute; aś: A.Pres.sg.3rd. "to eat, consume; to enjoy" / prajayā; f.sg.inst. "offspring, children, family, race, posterity, descendants, after-growth (of plants) " / annādyam; "food in general, proper food" /`
-  
 - Ch. Up. 5, 10, 9 ācaraṃs taiḥ (conversing with them)
   ：彼らとの会話
   ācaran taiḥ
@@ -102,52 +100,43 @@
   ：それなら私はあなたと森へ行きましょう
   sāhaṃ tvayā gamiṣyāmi vanam
   `sāhaṃ; / tvayā; 2nd.sg.inst. / gamiṣyāmi; gam: Fut.sg.3rd. / vanam; n.sg.acc. /`
-  (* 紙面ではgamimaṣyāmi。おそらくmaが2重になった誤植だろう)
-  (GRETILにドンピシャの文はない)
-  (paliだとsAhamと連声しうるが、こっちはするか？epicでは？)
-  (sA aham? TSG. p. 74備考参照)
-  
+  (\* 紙面では gamimaṣyāmi。おそらく ma が 2 重になった誤植だろう)
+  (GRETIL にドンピシャの文はない)
+  (pali だと sAham と連声しうるが、こっちはするか？epic では？)
+  (sA aham? TSG. p. 74 備考参照)
 - ibid. 2, 68, 2 asau mātulakule… bharato vasati bhrātrā śatrughnena
-  ：あれなるbharataは、śatrughnaを伴って母方の叔父一家に滞在した
+  ：あれなる bharata は、śatrughna を伴って母方の叔父一家に滞在した
   asau mātula-kule… bharatas vasati bhrātrā śatrughnena
   `asau; m.sg.nom. "that" / mātula; "a maternal uncle" - kule; m.sg.loc. "a race, family, community, tribe, caste, set, company" / bharatas; / vasati; vas: Pres.sg.3rd. "to dwell, live, stop (at a place), stay" / bhrātrā; m.sg.inst. / śatrughnena; m.sg.inst. "N. of one of rāma-candra's brothers (he was son of sumitrā and twin brother of lakṣmaṇa, and was the chosen companion of bharata, son of kaikeyī, as lakṣmaṇa was of rāma, son of kauśalyā)" /`
   (yad asau mātulakule pure rājagṛhe sukhī / bharato vasati bhrātrā śatrughnena samanvitaḥ R_2,062.002)
-  
 - Daç. 175 tayāpi navavadhvā dveṣam alpetaraṃ babandha
   ：彼はその若妻（/ 息子の嫁）に大きな嫌悪感を抱いた
   tayā api navavadhvā dveṣam alpetaraṃ babandha
   `tayā; f.sg.inst. / api; / navavadhvā; f.sg.inst. "a bride or newly-married woman, young wife spouse any wife or woman; a daughter-in-law" / dveṣam; m.sg.acc. "hatred, dislike, repugnance" / alpetaraṃ; m.sg.acc. "other than small, large" / babandha; Pf.sg.3rd. "to be affected by i.e. experience, suffer (instr.)" /`
-  
 - ibid. 91 tayā bandhakyā paṇabandham akaravam
   ：その高級娼婦と私は契約を結んだ
   tayā bandhakyā paṇabandham akaravam
   `tayā; / bandhakyā; f.sg.inst. "an unchaste woman, harlot, courtezan" / paṇabandham; m.sg.acc. "making a treaty, making peace; a bet or wager" / akaravam; √kṛ: Impf.sg.1st. /`
-  
 - R. 3, 18, 19 krūrair anāryaiḥ saumitre parihāsaḥ kathañ cana na kāryaḥ
-  ：lakṣmaṇaにあっては、非道にして野蛮なる者たちと、何であれ交歓するべきでない
+  ：lakṣmaṇa にあっては、非道にして野蛮なる者たちと、何であれ交歓するべきでない
   krūrair anāryaiḥ saumitre parihāsaḥ kathañ cana na kāryaḥ
   `krūrair; m.pl.inst. "wounded, hurt, sore; cruel, fierce, ferocious, pitiless, harsh, formidable" / anāryaiḥ; "not honourable or respectable, vulgar, inferior " / saumitre; "metron. of lakṣmaṇa; friendship" / parihāsaḥ; m.sg.nom. "jesting, joking, laughing at, ridiculing, deriding" / kathañ cana; "in any way, some how; scarcely, with difficulty" / na; / kāryaḥ; /`
-  
 - Panc. V, 62 na tābhir mantrayet sudhīḥ (a wise man does not keep counsel with women)
   ：賢者は女と議論しない
   na tābhir mantrayet sudhīḥ
   `na; / tābhir; f.pl.inst. / mantrayet; mantr: Opt.sg.3rd. "to deliberate, take counsel, consult with (instr. with or without saha) or about (dat.)" / sudhīḥ; m.sg.nom. "a wise or learned man, Pandit, teacher" /`
-  
 - virudhyate śatruṇā
   ：敵と論争する
   `virudhyate; virudh: A.Pass.Pres.sg.3rd. "to be opposed, to contend with (instr. with or without saha, gen. loc., or acc. with प्prati)" / śatruṇā; m.sg.inst. /`
-  
 - Mudr. III, p.116 mayā svajīvanamātreṇaiva sthāpitau
   ：私によって、自分の命だけは保たれた
   mayā svajīvana-mātreṇa eva sthāpitau
   `mayā; 1st.sg.inst. / sva-jīvana; "life" -mātreṇa; m.sg.inst. / eva; / sthāpitau; Caus.ppp.m.du.nom.acc. "put aside, kept, stored" /`
-  (*なんでdu.？)
-  
+  (\*なんで du.？)
 - Prabodh. V, p.103 acirād asau śarīreṇaiva na bhaviṣyati
   ：すぐに、そいつはその体を損なうであろう
   acirād asau śarīreṇa eva na bhaviṣyati
   `acirād; m.sg.abl. "not of long duration, brief; instantaneous, recent" / asau; m.sg.nom. / śarīreṇa; m.sg.inst. / eva; / na; / bhaviṣyati; Fut.sg.3rd. "to thrive or prosper in (instr.), turn out well, succeed" /
-  
 - Panc. V, 74 meṣeṇa sūpakārāṇāṃ kalahaḥ (the cooks’ quarrel with the ram)
   ：羊肉についての料理人たちの諍い
   meṣeṇa sūpa-kārāṇāṃ kalahaḥ
@@ -176,7 +165,7 @@
   `ratnaṃ; n.sg.nom. / ratnena; n.sg.inst. / saṃgacchate; A.Pres.sg.3rd. /`
 
 - M. 1, 26 dvandvair ayojayac cemāḥ sukhaduḥkhādibhiḥ prajāḥ
-  ：楽・苦等と生物をdvandvaで結合させた
+  ：楽・苦等と生物を dvandva で結合させた
   dvandvair ayojayat ca imāḥ sukha-duḥkha-ādibhiḥ prajāḥ
   `dvandvair; m.pl.inst. / ayojayat; yuj: Caus.Impf.sg.3rd. / ca; / imāḥ; f.pl.nom. / sukha-duḥkha-ādibhiḥ; m.pl.inst. / prajāḥ; f.pl.nom.acc. "a creature, animal, man, mankind" /`
 
@@ -196,7 +185,7 @@
   `śiṣyān; m.pl.acc. / kleśena; m.sg.inst. / yojayituṃ; inf. / na; / iyeṣa; √iṣ: Pf.sg.3rd. "" /`
 
 - Panc. 3 ahaṃ tvāṃ śāsanaśatena yojayiṣyāmi (I will bestow a hundred of grants upon you)
-  ：私はあなたに100の教えを授けよう
+  ：私はあなたに 100 の教えを授けよう
   ahaṃ tvāṃ śāsana-śatena yojayiṣyāmi
   `ahaṃ; / tvāṃ; 2nd.sg.acc. / śāsana; "teaching, instructing, an instructor" - śatena; m.sg.inst. / yojayiṣyāmi; Caus.Fut.sg.1st. /`
 
@@ -209,49 +198,42 @@
   ：
   dāsyā saṃprayacchate / vṛṣalyā saṃprayacchate
 
-###### 61. 類似や同等などの副詞を伴うinst.やgen
+###### 61. 類似や同等などの副詞を伴う inst.や gen
 
 - R. 2, 118, 35 śakreṇa samaḥ (equal to Indra)
-  ：indra神に比肩する者
+  ：indra 神に比肩する者
   śakreṇa samaḥ
   `śakreṇa; m.sg.inst. "N. of indra" / samaḥ; m.sg.nom. "same, equal, similar, like, equivalent, like to or identical or homogeneous with" /`
-  
 - Hit. I, 22 paśubhiḥ samānāḥ
   ：獣のような者ども
   paśubhiḥ samānāḥ
   `paśubhiḥ; m.pl.inst. / samānāḥ; m.pl.nom. /`
-  
 - Hit. p.118 anena sadṛśo loke na bhūto na bhaviṣyati
   ：世において、これと同じようになったことはなくこれからなることもない
   anena sadṛśo loke na bhūto na bhaviṣyati
   `anena; m.sg.inst. / sadṛśo; / loke; / na; / bhūto; ppp.m.sg.nom. / na; / bhaviṣyati; Fut.sg.3rd. /`
-  
 - Malav. I, p.21 ayaṃ na me pādarajasāpi tulyaḥ
   ：彼は私の足についたゴミとは似ても似つかない
   ayaṃ na me pādarajasā api tulyaḥ
   `ayaṃ; m.sg.nom. / na; / me; / pādarajasā; n.sg.inst. "the dust of the feet" / api; / tulyaḥ; m.sg.nom. "similar, comparable, like" /`
-  
 - Pat. I, p.327 taiḥ sāmyaṃ gatavān bhavati (he has become their equal)
   ：彼はそれらと同じになった
   taiḥ sāmyaṃ gatavān bhavati
   `taiḥ; m.pl.inst. / sāmyaṃ; n.sg.nom.acc. "likeness, sameness, identity with" / gatavān; m.sg.nom. "obtaining" / bhavati; Pres.sg.3rd. /`
-  
 - Daç. 130 sā 'ham apy ebhir eva suhṛdbhiir ekakarmaḥ (and I having the same business as these friends of mine here)
   ：それゆえ私も、彼ら友人たちと同じ仕事をしている
   sā aham apy ebhir eva suhṛḍir ekakarmaḥ
   `sā; / aham; sg.nom. / apy; / ebhir; m.pl.inst. / eva; / suhṛḍir; inst.? "a friend, ally" / ekakarmaḥ; m.sg.nom. "having one and the same business" /`
-  
 - Mhbh. 1, 139, 16 arjunasya samo loke nāsti kaścid dhanurdharaḥ
-  ：世において、arjunaに並ぶ弓取は誰もいない
+  ：世において、arjuna に並ぶ弓取は誰もいない
   arjunasya samo loke na asti kaścid dhanurdharaḥ
   `arjunasya; m.sg.gen. / samo; m.sg.nom. / loke; m.sg.inst. / na; / asti; Pres.sg.3rd. / kaścid; / dhanur-dharaḥ; m.sg.nom. "archer" /`
-  
 - R. 2, 23, 3 babhau kruddhasya siṃhasya mukhasya sadṛśaṃ mukham ([his] face shone like the face of an angry lion)
   ：彼は怒れる獅子の顔のような顔を見せた
   babhau kruddhasya siṃhasya mukhasya sadṛśaṃ mukham
   `babhau; bhA: Pf.sg.3rd. "to show, exhibit, manifest " / kruddhasya; m.sg.gen. "irritated, provoked, angry with" / siṃhasya; m.sg.gen. / mukhasya; m.sg.gen. / sadṛśaṃ; n.sg.nom.acc. / mukham; n.sg.nom.acc. /`
 
-###### 62. 分離の語を伴うinst
+###### 62. 分離の語を伴う inst
 
 - Panc. 84 prāṇair na viyuktaḥ
   ：彼は生命から分かたれていない
@@ -264,7 +246,7 @@
   `tuṣair; m.pl.inst. "the chaff of grain or corn or rice etc." / akhaṇḍais; m.pl.inst "not fragmentary, entire, whole" / taṇḍulān; m.pl.acc. "grain (after threshing and winnowing), esp. rice" / pṛthakcakāra; pṛthakkṛ: Pf.sg.3rd. "to make separate, sunder" /`
 
 - Kathâs. 15, 82 sītādevyā rāmo viṣehe virahavyathām (R. forbore the grief caused by his separation from Sîtâ)
-  ：rāmaはsītā王女との別離の苦しみを耐え忍んだ
+  ：rāma は sītā 王女との別離の苦しみを耐え忍んだ
   sītā-devyā rāmo viṣehe viraha-vyathām
   `sītā-devyā; f.sg.inst. "queen, princess lady" / rāmo; m.sg.nom. / viṣehe; vi√sah: A.Pf.sg.3rd. "to endure, suffer, put up with (acc. also with inf.)" / viraha; "abandonment, desertion, parting, separation (esp. of lovers), absence from (instr. or comp.)" -vyathām; f.sg.acc. "agitation, perturbation, alarm, uneasiness, pain, anguish, fear" /`
 
@@ -283,7 +265,7 @@
   mahato 'py enaso māsāt tvacā eva ahir vimucyate
   `mahato; n.sg.abl. / 'py; / enaso; n.sg.gen.abl. "mischief, crime, sin, offence, fault" / māsāt; n.sg.abl. "a month" / tvacā; f.sg.inst. "skin" / eva; / ahir; m.sg.nom. "a snake" / vimucyate; A.Pass.Pres.sg.3rd. "to take off" /`
 
-###### 63. 「具」格としてのinst
+###### 63. 「具」格としての inst
 
 - dātreṇa lunāti
   ：彼はナイフで切る
@@ -306,7 +288,7 @@
   `akleśena; m.sg.inst. / śarīrasya; n.sg.gen. / karvīta; / dhanasaṃcayam; m.sg.acc. "collection of money, riches" /`
 
 - Panc. 129 damanakasācivyena piṅgalako rājyam akarot
-  ：damanakaを大臣として、piṅgalakaは王権を行使した
+  ：damanaka を大臣として、piṅgalaka は王権を行使した
   damanaka-sācivyena piṅgalako rājyam akarot
   `damanaka-sācivyena; "companionship, assistance, (esp.) ministry, ministership, the office of the counsellor or friend of a king" / piṅgalako; m.sg.nom. / rājyam; n.sg.acc. "acc. with kṛ or Caus. of kṛ or with upa-ās or vi-dhā, to exercise government, rule, govern" / akarot; Impf.sg.3rd. /`
 
@@ -320,18 +302,29 @@
   rūpaka-śatena vikrīyamāṇaḥ pustakaḥ
   `rūpaka; "a partic. coin (prob. a rupee)" - śatena; m.sg.inst. / vikrīyamāṇaḥ; Caus.Fut.pass.pt.m.sg.nom. "to buy and sell, barter, trade" / pustakaḥ; m.sg.nom. "a manuscript, book, booklet" /`
 
-- Çâk. III anayā bālapādapavīthyā sutanur aciraṃ gatā (the tender girl has passed a little before along this row of young trees)
-  ：
+- Çâk. III anayā bālapādapavīthyā sutanur aciraṃ gatā
+  ：若木の並木道に沿って、その華奢な女はすぐに行ってしまった
   anayā bālapādapa-vīthyā sutanur aciraṃ gatā
+  `anayā; f.sg.inst. / bālapādapa; "a young tree" -vīthyā; f.sg.inst. "a row, line; a road, way, street" / sutanur; f.sg.nom. "very thin or slender; a fair woman" / aciraṃ; acc. "not of long duration, brief" / gatā; ppp.f.sg.nom. /`
 
-- dhanena kuśalaḥ (prosperous by wealth)
-  ：
+- dhanena kuśalaḥ
+  ：財による繁栄
+  dhanena kuśalaḥ
+  `dhanena; / kuśalaḥ; m.sg.nom. "well, healthy, in good condition, prosperous" /`
 
-- vidyayā yaśaḥ (fame by learning)
-  ：
+- vidyayā yaśaḥ
+  ：学識による名声
+  vidyayā yaśaḥ
+  `vidyayā; f.sg.inst. / yaśaḥ; n.sg.nom. "honour, glory, fame, renown" /`
 
-- madājñayāgato ‘sau (that person has arrived by my order)
-  ：
+- madājñayāgato ‘sau
+  ：私の命令によりその人は来た
+  mad-ājñayā āgatas asau
+  `mad-ājñayā; f.sg.inst. "order, command" / āgatas; m.sg.nom. / asau; m.sg.nom. /`
 
-- prītyā dānam (v. a. a present)
-  ：
+- prītyā dānam
+  ：友誼の贈与（＝贈り物）
+  prītyā dānam
+  `prītyā; f.sg.inst. "friendly disposition, kindness, favour, grace, amity" / dānam; n.sg.nom. /`
+
+###### 65. inst.詳説
