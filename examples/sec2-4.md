@@ -328,3 +328,145 @@
   `prītyā; f.sg.inst. "friendly disposition, kindness, favour, grace, amity" / dānam; n.sg.nom. /`
 
 ###### 65. inst.詳説
+
+- Pat. I, p.119 rajjvāyasā vā baddhaṃ kāṣṭham
+  ：縄か鉄で縛った薪
+  rajjvā āyasā vā baddhaṃ kāṣṭham
+  `rajjvā; "a rope, cord, string, line" / āyasā; n.sg.inst. "iron" / vā; / baddhaṃ; n.sg.nom.acc. "bound, tied, fixed, fastened, chained, fettered" / kāṣṭham; n.sg.nom.acc. "a piece of wood or timber, stick" /`
+
+- Mṛcch. I (p. 54) anena prāvārakeṇa chādayainam
+  ：この布で彼を覆いなさい
+  anena prāvārakeṇa chādaya enam
+  `anena; ayam: m.sg.inst. / prāvārakeṇa; m.sg.inst. "found in outer garments or cloaks" / chādaya; √chad: Caus.Impv.sg.2nd. "to cover, cover over, clothe, veil" / enam; m.sg.acc. /`
+
+- Panc. 148 etena vaṃśena bhikṣāpātraṃ tāḍayāmi
+  ：私はこの竹で鉢を壊そう
+  etena vaṃśena bhikṣāpātraṃ tāḍayāmi
+  `etena; m.sg.inst. / vaṃśena; "the bamboo cane or any cane" / bhikṣāpātraṃ; "a mendicant's bowl, alms-dish" / tāḍayāmi; √taḍ: Caus.Pres.sg.3rd. "to beat, strike, knock, strike (with arrows), wound, punish" /`
+
+- Mhbh. 1, 144, 18 prāyād rāsabhayuktena syandanena (he started on a chariot, drawn by asses)
+  ：ロバを繋いだ戦車で彼は出発した
+  prāyād rāsabhayuktena syandanena
+  `prāyād; pra√yā: Impf.sg.3rd. " to go forth, set out, progress, advance towards or against" / rāsabha-yuktena; m.sg.inst. "an ass, jackass, donkey" / syandanena; m.sg.inst. "a war-chariot, chariot, car (said also to be n.)" /`
+
+- ibid. 1, 120, 19 yajñais tu devān prīṇāti svādhyāyatapasā munīn / putraiḥ śrāddhaiḥ pitṝṃś cāpi ānṛśaṃsyena mānavān
+  ：けれども、彼は供物で神々を喜ばせ、（ヴェーダの）朗唱と苦行で聖者たちを〔喜ばせ〕、子供らと〔将来彼らの執り行う〕śrāddhaの儀礼で父親たちを〔喜ばせ〕、親切で人を〔喜ばせる〕
+  yajñais tu devān prīṇāti svādhyāyatapasā munīn
+  `yajñais; m.pl.inst. / tu; / devān; m.pl.acc. / prīṇāti; √prī: Pres.sg.3rd. "to please, gladden, delight, gratify, cheer, comfort, soothe, propitiate" / svādhyāya-tapasā; m.sg.inst. "reciting or repeating or rehearsing to one's self" + "religious austerity, bodily mortification, penance, severe meditation, special observance" / munīn; m.pl.acc. /`
+  putraiḥ śrāddhaiḥ pitṝṃś ca api ānṛśaṃsyena mānavān
+  `putraiḥ; / śrāddhaiḥ; m.pl.inst. "faithful, true, loyal, believing" / pitṝn; m.pl.acc. / ca; / api; / ānṛśaṃsyena; m.sg.inst. "merciful, mild, kind" / mānavān; m.pl.acc. "a human being, man" /`
+
+- Prabodh. VI, p.132 mayā ca praṇidhānena viditam (= Lat. compertum est a me per speculatorem.)
+  ：私によって、そして瞑想に沈潜することによって、それは知られた
+  mayā ca praṇidhānena viditam
+  `mayā; m.sg.inst. / ca; / praṇidhānena; m.sg.inst. "profound religious meditation" / viditam; √vid: PPP.m.sg.nom. "known, understood, learnt, perceived, known as (nom.)" /`
+
+###### 66. 2. agent / kartṛ
+
+- Mâlav. I, p.28 titikṣamāṇaḥ pareṇa nindām
+  ：他者による誹謗に耐えながら
+  titikṣamāṇaḥ pareṇa nindām
+  `titikṣamāṇaḥ; √tij: Desid.Pres.pt.m.sg.3rd. "to desire to become sharp or firm ’, to bear with firmness, suffer with courage or patience, endure" / pareṇa; m.sg.inst. / nindām; f.sg.acc. "blame, censure, reproach, reviling, defamation, controversy, injury, outrage" /`
+  
+- pareṇa nindām
+
+- pareṇa kṛtāṃ nindām
+
+- Panc. 167 mayāvaśyaṃ deśāntaraṃ gantavyam
+  ：私は必ず外国に行くべきである
+  mayā avaśyaṃ deśa-antaraṃ gantavyam
+  `mayā; sg.inst. / avaśyaṃ; ind. "necessarily, inevitably, certainly, at all events, by all means" / deśa-antaraṃ; n.sg.acc. "another country, abroad" / gantavyam; Fut.pass.pt. /`
+
+- Mâlat. II kim atra mayā śakyam
+  ：私にはここで何ができますか？
+  kim atra mayā śakyam
+  `kim; / atra; / mayā; / śakyam; /`
+
+- Vikram. I avahitair bhavitavyaṃ bhavadbhiḥ
+  ：ご列席の皆様方は留まられるべし
+  avahitair bhavitavyaṃ bhavadbhiḥ
+  `avahitair; m.pl.inst. "placed into, confined within" / bhavitavyaṃ; Fut.pass.pt. / bhavadbhiḥ; m.pl.inst. /`
+
+- Panc. I, 450 mūrkhāṇāṃ paṇḍitā dveṣyā nirdhanānāṃ mahādhanāḥ / vratinaḥ pāpaśīlānām asatīnāṃ kulastriyaḥ
+  ：愚者は知恵ある者を憎み、貧者は富める者を〔憎み〕、悪しき習慣を持つ者は禁欲主義者を〔憎み〕、不信心な妻は貞淑な女を〔憎む〕
+  mūrkhāṇāṃ paṇḍitā dveṣyā nirdhanānāṃ mahādhanāḥ / vratinaḥ pāpaśīlānām asatīnāṃ kulastriyaḥ
+  `mūrkhāṇāṃ; m.pl.gen. "a fool, blockhead" / paṇḍitā; / dveṣyā; "to be hated or disliked, odious, detestable " / nirdhanānāṃ; m.pl.gen. "poor" / mahādhanāḥ; m.pl.nom. "having much money, rich, wealthy" / / vratinaḥ; m.pl.nom. "an ascetic, devotee" / pāpaśīlānām; m.pl.gen. "of bad character, wicked" / asatīnāṃ; m.pl.gen. "an unfaithful or unchaste wife" / kulastriyaḥ; f.pl.nom. "a woman of good family, respectable or virtuous woman" /`
+
+- ibid. p.268 vayaṃ grāmyāḥ paśavo 'raṇyacāriṇāṃ vadhyāḥ (we, domestic animals, are a prey for wild beasts)
+  ：われわれ飼いならされた動物は、野生の獣にとっての獲物である
+  vayaṃ grāmyāḥ paśavo araṇyacāriṇāṃ vadhyāḥ
+  `vayaṃ; pl.nom. / grāmyāḥ; m.pl.nom. "living (in villages i.e.) among men, domesticated, tame (an animal)" / paśavo; " derived from or belonging to cattle or animals" / araṇyacāriṇāṃ; m.pl.gen. "living in forests, wild" / vadhyāḥ; " to be slain or killed, to be capitally punished, to be corporally chastised (cf. under वध【vadha】), sentenced, a criminal" /`
+
+- Panc. 176 darśaya kiñcid agamyaṃ sthānaṃ lubdhakānām
+  ：お前は、狩人たちが立ち入らぬ場所の何たるかを見なさい
+  darśaya kiñcid agamyaṃ sthānaṃ lubdhakānām
+  `darśaya; Caus.Ipv.sg.2nd. / kiñcid; / agamyaṃ; m.sg.acc. "unfit to be walked in, or to be approached" / sthānaṃ; m.sg.acc. / lubdhakānām; m.pl.gen. "a hunter" /`
+
+- Mṛcch. IV (p.144) guṇeṣu yatnaḥ puruṣeṇa kāryo na kiñcid aprāpyatamaṃ guṇānām
+  ：もろもろの善性において人が行為をなすべきなのであり、善性が何らかの偉業を〔行うの〕ではない
+  guṇeṣu yatnaḥ puruṣeṇa kāryo na kiñcid aprāpyatamaṃ guṇānām
+  `guṇeṣu; m.pl.loc. / yatnaḥ; m.sg.nom. "activity of will, volition, aspiring after; performance, work" / puruṣeṇa; m.sg.inst. / kāryas; m.sg.nom. "to be made or done or practised or performed, practicable feasible" / na; / kiñcid; / aprāpyatamaṃ; superl. m.sg.acc. "unobtainable" / guṇānām; m.pl.gen. /`
+
+###### 67. 3. 特質 etc
+
+- api bhavān kamaṇḍalunā chātram adrākṣīt
+  ：水差しを持った信徒をご覧になりましたか？
+  api bhavān kamaṇḍalunā chātram adrākṣīt
+  `api; / bhavān; / kamaṇḍalunā; m.sg.inst. "a gourd or vessel made of wood or earth used for water" / chāttram; m.sg.acc. "a pupil, scholar" / adrākṣīt; √dṛś: aor.sg.3rd. /`
+
+- yo jaṭābhiḥ sa bhuṃkto
+  ：髪を結ったその人が飲食する
+  yo jaṭābhiḥ sa bhuṃkto
+  `yo; m.sg.nom. / jaṭābhiḥ; f.pl.inst. "the hair twisted together" / sa; / bhuṃkte; √bhuj: A.Pres.sg.3rd. "to enjoy, use, possess, (esp.) enjoy a meal, eat, eat and drink, consume" /`
+
+- Hitop. 125 koṣaḥ svalpavyayena
+  ：僅かな出費を伴う宝物庫
+  koṣaḥ svalpavyayena
+  `koṣaḥ; / svalpavyayena; m.sg.inst. "very little expenditure" /`
+
+- R. 3, 7, 3 vividhair drumaiḥ kānanam (a forest with manifold trees)
+  ：さまざまな木をそなえる森
+  vividhair drumaiḥ kānanam
+  `vividhair; m.pl.inst. "of various sorts, manifold, divers" / drumaiḥ; m.pl.inst. "a tree" / kānanam; n.sg.nom. "a forest, grove" /`
+
+- R. 2, 64, 47 sa tu divyena rūpeṇa svargam adhyāruhat kṣipram
+  ：けれども彼は、聖なる体を備え、速やかに天に昇った
+  sa tu divyena rūpeṇa svargam adhyāruhat kṣipram
+  `sa; / tu; / divyena; "divine, heavenly, celestial" / rūpeṇa; / svargam; m.sg.acc. / adhyāruhat; adhi+ā√ruh: Impf.sg.3rd. "to ascend, mount, bestride, rise up" / kṣipram; ind. "quickly, immediately, directly " /`
+
+- Panc. 161 varo mahatā vādyaśabdenāgacchati (a bridegroom approaches with a great noise of music)
+  ：新夫は大きな楽器の音とともに来た
+  varo mahatā vādyaśabdena āgacchati
+  `varo; m.sg.nom. "one who solicits a girl in marriage, suitor, lover, bridegroom, husband" / mahatā; m.sg.inst. / vādyaśabdena; m.sg.inst. "a musical instrument; " / āgacchati; Pres.sg.3rd. /`
+
+- ibid. 28 tasya sakāśaṃ gatvā bhrātṛsnehenaikatra bhakṣaṇapānaviharaṇakriyābhir ekasthānāśrayeṇa kālo neyaḥ [sc. tvayā]
+  ：彼のそばへ行って、兄弟の如き親愛とともに、一緒に、飲食し散歩し、一つ所に住み、〔お前はそのような〕時間を過ごすべきである
+  tasya sakāśaṃ gatvā bhrātṛ-snehena ekatra bhakṣaṇa-pāna-viharaṇa-kriyābhir ekasthāna-āśrayeṇa kālas neyaḥ tvayā
+  `tasya; / sakāśaṃ; m.sg.acc. "having appearance or visibility, visible, present, near" / gatvā; abs. / bhrātṛ-snehena; m.sg.inst. "blandness, tenderness, love, attachment to, fondness or affection for (loc. gen., or comp.), " / ekatra; ind. "in one, in one and the same; on the one side " / bhakṣaṇa; "eating, one who eats" - pāna; "drinking" - viharaṇa; "going about for pleasure or exercise, roaming, strolling" - kriyābhir; m.pl.inst. / ekasthāna-āśrayeṇa; m.sg.inst. / kālas; m.sg.nom. / neyaḥ; m.sg.nom. "to be spent or passed" / tvayā; /`
+
+- ibid. 162 anena vārttāvyatikareṇa rajanī vyuṣṭā (while discoursing thus, the night passed away)
+  ：こう話しつつ、夜が明けた
+  anena vārttā-vyatikareṇa rajanī vyuṣṭā
+  `anena; m.sg.inst. / vārttā; "an account of anything that has happened, tidings, report, rumour, news, intelligence, story of or about (gen. or comp.)" - vyatikareṇa; m.sg.inst. "(ifc.) taking to, accomplishing, performing" / rajanī; f.sg.nom. "night" / vyuṣṭā; f.sg.nom. "dawned, become daylight, grown bright or clear" /`
+
+- Panc. 56 taṃ maryādāvyatikrameṇa vartamāṇam ālokya
+  ：国境を越えようとしている彼を見ながら
+  taṃ maryādā-vyatikrameṇa vartamāṇam ālokya
+  `taṃ; m.sg.acc. / maryādā; "a frontier, limit, boundary, border, bank, shore, mark, end, extreme point, goal" - vyatikrameṇa; m.sg.inst. "going or passing by" / vartamāṇam; m.sg.acc. "turning, moving, existing, living, abiding" / ālokya; ā√lok: ind.p. "having seen or looked at, beholding" /`
+
+- Mṛcch. V, p.187 dravībhūtaṃ manye patati jalarūpeṇa gaganam
+  ：私の思うに、天球は溶けて水として落ちる
+  dravī-bhūtaṃ manye patati jala-rūpeṇa gaganam
+  `dravī; "flowing, fluid, dropping, dripping, trickling or overflowing with (comp.)" - bhūtaṃ; m.sg.acc. "" / manye; √man: A.Pres.sg.1nst / patati; √pat: "to fall down or off, alight, descend (with acc. or loc.)" / jala; "water, any fluid" - rūpeṇa; m.sg.inst. "" / gaganam; n.sg.nom.acc. "the atmosphere, sky, firmament" /`
+
+- R. 2, 37, 18 lakṣmaṇena sahāyena vanaṃ gacchasva putraka
+  ：lakṣmaṇaを供として連れて森へ行け、息子よ
+  lakṣmaṇena sahāyena vanaṃ gacchasva putraka
+  `lakṣmaṇena; m.sg.inst. / sahāyena; m.sg.inst. "a companion, follower, adherent, ally, assistant" / vanaṃ; m.sg.acc. / gacchasva; Ipv.sg.2nd. / putraka; m.sg.voc. /`
+
+- ibid. 2, 30, 27 na devi tava duḥkhena svargam apy abhirocaye (I should forsake even heaven, my queen, if its attainment would be joint with grief of you)
+  ：私は天にも
+  na devi tava duḥkhena svargam apy abhirocaye
+  `na; / devi; / tava; / duḥkhena; n.sg.inst. "uneasiness, pain, sorrow, trouble, difficulty" / svargam; m.sg.acc. / apy; / abhirocaye; abhi√ruc: Caus.Pres.sg.1st. "to be pleased with, approve of, be inclined to, like" /`
+
+- Panc. 309 jālahastadhīvarāḥ rabhūtair matsyair vyāpāditair mastake vidhṛtair astamanavelāyāṃ tasmiñ ca lāśaye samāyātāḥ (the fishermen arrived with a great number of fishes they had killed and bore on their head)
