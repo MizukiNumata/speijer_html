@@ -469,4 +469,7 @@
   na devi tava duḥkhena svargam apy abhirocaye
   `na; / devi; / tava; / duḥkhena; n.sg.inst. "uneasiness, pain, sorrow, trouble, difficulty" / svargam; m.sg.acc. / apy; / abhirocaye; abhi√ruc: Caus.Pres.sg.1st. "to be pleased with, approve of, be inclined to, like" /`
 
-- Panc. 309 jālahastadhīvarāḥ rabhūtair matsyair vyāpāditair mastake vidhṛtair astamanavelāyāṃ tasmiñ ca lāśaye samāyātāḥ (the fishermen arrived with a great number of fishes they had killed and bore on their head)
+- Panc. 309 jālahastadhīvarāḥ prabhūtair matsyair vyāpāditair mastake vidhṛtair astamanavelāyāṃ tasmiñ ca lāśaye samāyātāḥ (the fishermen arrived...... with a great number of fishes they had killed and bore on their head)
+  ：手に網もつ漁師
+  jāla-hasta-dhīvarāḥ prabhūtair matsyair vyāpāditair mastake vidhṛtair astamana-velāyāṃ tasmiñ ca lāśaye samāyātāḥ
+  `jāla; "a net" - hasta; "holding in or by the hand" - dhīvarāḥ; m.pl.nom. "a fisherman" / prabhūtair; m.pl.inst. "come forth, risen, appeared" / matsyair; m.pl.inst. / vyāpāditair; vyā√pad: ppp.m.pl.inst. "misfortune, calamity, derangement, disorder, failure, ruin, death" / mastake; m.sg.loc. "the head, skull" / vidhṛtair; m.pl.inst. "kept asunder, divided, separated" / astamana; "setting of the sun" - velāyāṃ; f.sg.loc. "limit of time, period, season, time of day, hour" / tasmiñ; sg.loc. / ca ; / lāśaye; √laś? : A.Pres.sg.1st. "to exercise an art" / samāyātāḥ; "come together or near; returned" /`
